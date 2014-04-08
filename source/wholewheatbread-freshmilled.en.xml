@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Whole Wheat Sandwich Bread (made with home milled flour)</title>
+	<meta>
+		<dishtype>Breads</dishtype>
+		<comment>Home milled flour allows an absolutely fresh and natural product. Because it is not subjected to commercial treatments, however, it's a little trickier to produce a nice, soft sandwich loaf. This recipe uses an autolyse period to help the more coarsely ground flour absorb liquid fully and begin gluten development, and ascorbic acid, which improves gluten formation and elasticity, to compensate for the fact that the flour wasn't aged.</comment>
+	</meta>
+	<ingredients>
+		<yield>2 loaves</yield>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>910</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity approximate="true">
+						<value>7</value>
+						<unit>cups</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>whole wheat</variant>
+			<item>flour</item>
+			<preprep>freshly milled</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>pinch</unit>
+			</quantity>
+			<item>ascorbic acid</item>
+		</ingredient>
+		<ingredient optional="true">
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>diastatic malt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>600</value>
+				<unit>ml</unit>
+			</quantity>
+			<item>milk</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>honey</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<variant>instant</variant>
+			<item>yeast</item>
+			<note>Instant yeast does not require disolving in water and can be used in smaller amounts than traditional yeast.</note>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>butter</item>
+			<preprep>softened</preprep>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>
+			<procedure>Scald</procedure> the milk. Add honey and allow to cool to lukewarm (<temperature>110</temperature>).</step>
+		<step>Stir the ascorbic acid into the flour. Combine the milk and flour mixtures and stir together until a rough dough forms with no unincorporated flour. Cover and let rest (<procedure>autolyse</procedure>) for <time>20 minutes</time>.</step>
+		<step>Sprinkle the yeast and salt over the bread and mix in, then mix in the softened butter.</step>
+		<step><procedure>Knead</procedure> about <time>10 minutes</time> (or <time>5 minutes</time> in a mixer), until dough is supple, elastic, bounces back when pressed, and passes a <procedure>windowpane test</procedure>. This dough is somewhat soft and slightly sticky because it has more liquid than most sandwich breads, which the bran absorbs.</step>
+		<step>Add about 1/2 tsp oil to a clean bowl that is at least three times the volume of the dough. Form dough into a ball and place upside down in the bowl, coat with the oil, then flip dough over to coat the underside. Cover bowl and let dough <procedure>ferment</procedure>. Dough should rise to about 2 1/2 times its original volume. It should still have a domed top but should not spring back much when pressed. This usually takes about <time>2 to 3 hours</time>, depending on temperature.</step>
+		<step>Turn out of bowl, divide in half, and form each half into a ball. Let rest a few minutes.</step>
+		<step>Shape each ball into a pan loaf by patting out into a circle, then folding two sides into the center and pinching together along most of the length, then folding in the ends and pinching in a triangular pattern from the original seam to seal everything together.</step>
+		<step>Place in a lightly greased <equipment>8 1/2 by 4 1/2 inch loaf pan</equipment>, seam side down. Cover with plastic or a towel and let <procedure>proof</procedure> until just under doubled in bulk. This rising will take slightly less than half the time the first rising took, and the dough will feel soft when gently touched but still slightly springy.</step>
+		<step>About 10 minutes before the dough is finished rising, preheat the oven to <temperature>375</temperature>. When the dough is ready, put in the oven. Do not open the oven door while it bakes. Bake about <time>50 minutes</time>, until crust is browned and feels solid to the touch.</step>
+		<step>Take bread out of the oven, remove from the pan, and cool completely on a rack before slicing.</step>
+	</steps>
+	<storage>Store in plastic bread bags a couple days. Bread can be frozen without much impact on quality; slice it first and take out only the slices needed, which should be thawed in a microwave. Do not refrigerate bread, this accelerates staling.</storage>
+</recipe>

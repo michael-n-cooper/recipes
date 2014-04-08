@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Cupcakes</title>
+	<meta>
+		<source>Fannie Farmer</source>
+		<dishtype>Desserts</dishtype>
+		<processnote>I haven't tried this out yet, this is for next time. This is an adaptation of the <reciperef ref="bostoncake"/> recipe for cupcakes. Cupcakes need to be a little firmer, and bake into a dome, not a flat surface. So this version switches to all purpose flour and does not beat egg whites separately.</processnote>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>6</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>butter</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+			</quantity>
+			<item>eggs</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1 1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>cups</unit>
+				<altmeasure>
+					<quantity>
+						<value>8</value>
+						<unit>oz</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>cake</variant>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>baking powder</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2/3</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>millk</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Preheat oven to <temperature>350</temperature>. Line a <equipment>12-mold cupcake tin</equipment> with cupcake liners.</step>
+		<step>Sift together flour, baking powder, and salt.</step>
+		<step>Cream butter and sugar together until light. Beat in eggs and vanilla.</step>
+		<step>Add the flour mixture and milk alternately in three stages. Beat until smooth.</step>
+		<step>Divide evenly in the cupcake liners. Bake 20 - 25 minutes.</step>
+		<step>Cool in pan.</step>
+	</steps>
+</recipe>

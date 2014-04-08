@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Sweet Bread</title>
+	<meta>
+		<dishtype>Breads</dishtype>
+		<dishtype>Desserts</dishtype>
+		<comment>This is the basic dough for sweet yeast bread desserts, such as coffee cakes and cinnamon rolls.</comment>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>milk</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>water</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>4</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>butter</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2/3</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+			</quantity>
+			<item>eggs</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1 1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>1</value>
+				<unit>lb</unit>
+				<altmeasure>
+					<quantity approximate="true">
+						<value>3 1/4</value>
+						<unit>cups</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>all purpose</variant>
+			<item>flour</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>1</value>
+				<unit>lb</unit>
+				<altmeasure>
+					<quantity approximate="true">
+						<value>3 1/4</value>
+						<unit>cups</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>pastry</variant>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tbs</unit>
+			</quantity>
+			<variant>instant</variant>
+			<item>yeast</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Scald the milk. Add to mixing bowl with butter and sugar. When butter melts, add water, eggs, and vanilla extract.</step>
+		<step>Add flour, yeast, and salt. <procedure>Knead</procedure> to a dough, about <time>10 minutes</time>.</step>
+		<step>Form the dough into a ball. Add a teaspoon of oil to a bowl that is 2 or 3 times the volume of the dough. Place the dough top down in the bowl and move around to distribute the oil. Flip it over so the oiled side is up.</step>
+		<step>Cover the bowl and let dough <procedure>ferment</procedure> at a warm room temperature, around <temperature>85</temperature>. Let rise until doubled in bulk, about <time>3 hours</time>.</step>
+		<step>Shape and bake as directed in recipe. Sweet bread should be baked at a lower temperature or for less time than normal breads because of the sugar which will brown more.</step>
+	</steps>
+</recipe>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Sour Cherry Pie</title>
+	<meta>
+		<source>Marion Cunningham: The Fannie Farmer Cookbook, 13th Edition (1994: Knopf) (adapted)</source>
+		<dishtype>Desserts</dishtype>
+		<dishtype>Fruit Desserts</dishtype>
+		<dishtype>Pies</dishtype>
+		<comment>This recipe is specifically for canned cherries because that's all that's available where I live.</comment>
+	</meta>
+	<ingredients>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>4</value>
+				<unit>cups</unit>
+			</quantity>
+			<variant>canned</variant>
+			<item>sour cherries</item>
+			<preprep>drained, juice reserved</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2/3</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>sugar</item>
+			<note>Quantity of sugar depends on how much sugar the canner adds. Cherries without any sugar added (packed in water, not in syrup) need 1 to 1 1/4 cups.</note>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>cornstarch</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/8</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3/4</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>juice from the cherries</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>almond extract</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Prepare a <reciperef ref="piecrust">crust</reciperef> for a 9-inch 2-crust pie. Preheat the oven to 425° F.</step>
+		<step>Blend together the dry ingredients, making sure to get rid of the lumps in the cornstarch.</step>
+		<step>Add the cherry juice and almond extract and mix evenly. Add the cherries and toss together.</step>
+		<step>Place the cherry mixture in the pie crust. A lattice top is best.</step>
+		<step>Bake 15 minutes, then reduce the heat to 350° F and bake 30-40 minutes more, until bubbling.</step>
+		<step>Cool on a rack.</step>
+	</steps>
+	<serving>Serve warm, with vanilla ice cream if desired.</serving>
+</recipe>

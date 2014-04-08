@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Sport Drink</title>
+	<meta>
+		<dishtype>Beverages</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient_choice>
+			<ingredient_group>
+				<ingredient>
+					<quantity>
+						<value>20</value>
+						<unit>g</unit>
+						<altmeasure>
+							<quantity>
+								<value>4</value>
+								<unit>tsp</unit>
+							</quantity>
+						</altmeasure>
+					</quantity>
+					<item>sugar</item>
+				</ingredient>
+				<ingredient>
+					<quantity>
+						<value>10</value>
+						<unit>g</unit>
+						<altmeasure>
+							<quantity>
+								<value>1</value>
+								<unit>tbs</unit>
+							</quantity>
+						</altmeasure>
+					</quantity>
+					<item>dextrose</item>
+				</ingredient>
+				<ingredient>
+					<quantity>
+						<value>10</value>
+						<unit>g</unit>
+						<altmeasure>
+							<quantity>
+								<value>2</value>
+								<unit>tsp</unit>
+							</quantity>
+						</altmeasure>
+					</quantity>
+					<item>fructose</item>
+				</ingredient>
+			</ingredient_group>
+			<ingredient>
+				<quantity>
+					<value>40</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>3</value>
+							<unit>tbs</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>sugar</item>
+			</ingredient>
+		</ingredient_choice>
+		<ingredient>
+			<quantity>
+				<value>3</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1/2</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>lite salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1/4</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>ascorbic acid</item>
+		</ingredient>
+		<ingredient optional="true">
+			<range>
+				<quantity>
+					<value>1</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>1/8</value>
+							<unit>tsp</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<quantity>
+					<value>2</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>1/4</value>
+							<unit>tsp</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+			</range>
+			<item>citric acid</item>
+			<note>Use the smaller amount for cranberry, larger for lemon flavour</note>
+		</ingredient>
+		<ingredient_choice>
+			<ingredient>
+				<quantity>
+					<value>6</value>
+					<unit>drops</unit>
+				</quantity>
+				<quantity>
+					<value>8</value>
+					<unit>drops</unit>
+				</quantity>
+				<variant>water soluble</variant>
+				<item>candy flavouring</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1/4</value>
+					<unit>tsp</unit>
+				</quantity>
+				<item>flavour extract</item>
+			</ingredient>
+		</ingredient_choice>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>drops</unit>
+			</quantity>
+			<quantity>
+				<value>3</value>
+				<unit>drops</unit>
+			</quantity>
+			<item>food colour</item>
+			<note>Suggestions: 1 drop red for watermelon; 2 drops red for strawberry; 2 drops red and 1 drop blue for cranberry; 2 drops yellow for lemon; 1 drop red and 2 drops yellow for orange; 3 drops red for cherry</note>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>litres</unit>
+			</quantity>
+			<item>water</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Stir all ingredients in water until dissolved.</step>
+	</steps>
+	<storage>Keep covered in refrigerator.</storage>
+	<serving>Using during or after exercise.</serving>
+</recipe>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Praline Tart</title>
+	<meta>
+		<cuisine>French</cuisine>
+		<dishtype>Desserts</dishtype>
+		<comment>This is my Americanization of the Tarte aux Pralines I had in Lyon. I believe the flavour is fairly authentic but the method is different due to ingredient availability.</comment>
+	</meta>
+	<group>
+		<label>Shell</label>
+		<ingredients>
+			<ingredient_choice>
+				<ingredient>
+					<quantity>
+						<value>1</value>
+					</quantity>
+					<item>Pâte Sablée</item>
+				</ingredient>
+				<ingredient_group>
+					<ingredient>
+						<quantity>
+							<value>180</value>
+							<unit>g</unit>
+							<altmeasure>
+								<quantity>
+									<value>1 1/3</value>
+									<unit>cup</unit>
+								</quantity>
+							</altmeasure>
+						</quantity>
+						<variant>all-purpose</variant>
+						<item>flour</item>
+					</ingredient>
+					<ingredient>
+						<quantity>
+							<value>95</value>
+							<unit>g</unit>
+							<altmeasure>
+								<quantity>
+									<value>7</value>
+									<unit>tbs</unit>
+								</quantity>
+							</altmeasure>
+						</quantity>
+						<item>butter</item>
+					</ingredient>
+					<ingredient>
+						<quantity>
+							<value>75</value>
+							<unit>g</unit>
+							<altmeasure>
+								<quantity>
+									<value>3</value>
+									<unit>tbs</unit>
+								</quantity>
+							</altmeasure>
+						</quantity>
+						<item>sugar</item>
+					</ingredient>
+					<ingredient>
+						<quantity>
+							<value>1</value>
+						</quantity>
+						<item>egg</item>
+					</ingredient>
+					<ingredient>
+						<quantity>
+							<value>1/2</value>
+							<unit>tsp</unit>
+						</quantity>
+						<item>vanilla extract</item>
+					</ingredient>
+				</ingredient_group>
+			</ingredient_choice>
+		</ingredients>
+	</group>
+	<group>
+		<label>Filling</label>
+		<ingredients>
+			<ingredient_choice>
+				<ingredient>
+					<quantity>
+						<value>200</value>
+						<unit>g</unit>
+					</quantity>
+					<item>pralines roses</item>
+				</ingredient>
+				<ingredient_group>
+					<ingredient>
+						<quantity>
+							<value>66</value>
+							<unit>g</unit>
+						</quantity>
+						<item>almonds</item>
+					</ingredient>
+					<ingredient>
+						<quantity>
+							<value>133</value>
+							<unit>g</unit>
+						</quantity>
+						<item>sugar</item>
+					</ingredient>
+					<ingredient>
+						<quantity>
+							<value>45</value>
+							<unit>g</unit>
+							<altmeasure>
+								<quantity>
+									<value>3</value>
+									<unit>tbs</unit>
+								</quantity>
+							</altmeasure>
+						</quantity>
+						<item>water</item>
+					</ingredient>
+					<ingredient>
+						<quantity>
+							<value>300</value>
+							<unit>g</unit>
+						</quantity>
+						<variant>35%</variant>
+						<item>cream</item>
+					</ingredient>
+					<ingredient>
+						<quantity>
+							<value>50</value>
+							<unit>g</unit>
+							<altmeasure>
+								<quantity>
+									<value>3</value>
+									<unit>tbs</unit>
+								</quantity>
+							</altmeasure>
+						</quantity>
+						<item>butter</item>
+					</ingredient>
+					<ingredient>
+						<quantity approximate="true">
+							<value>10</value>
+							<unit>drops</unit>
+						</quantity>
+						<item>red food color</item>
+					</ingredient>
+					<ingredient>
+						<quantity>
+							<value>1/8</value>
+							<unit>tsp</unit>
+						</quantity>
+						<item>salt</item>
+					</ingredient>
+				</ingredient_group>
+			</ingredient_choice>
+		</ingredients>
+	</group>
+	<activity>
+		<label>Prepare the shell</label>
+		<steps>
+			<step>Add flour, sugar, and butter to a food processor and process until sandy. Add egg and vanilla and process until it comes together.</step>
+			<step>Form into a cohesive disk and refrigerate until firm, at least <time>30 minutes</time>.</step>
+			<step>Preheat oven to <temperature>375</temperature>. Roll out pastry and line a <equipment>9-inch tart pan</equipment>.</step>
+			<step>Lining shell with foil and weight with beans or pie weights. <procedure>Blind-bake</procedure> until set, about <time>6 minutes</time>. Remove the lining, prick bottom of shell well, and continue to bake until it begins to shrink from the pan, about <time>10 minutes</time>.</step>
+		</steps>
+	</activity>
+	<activity>
+		<label>Make the filling</label>
+		<steps>
+			<step>Set oven to <temperature>350</temperature>. Toast almonds in a flat pan <time>10 minutes</time>, stirring occasionally.</step>
+			<step>Add sugar and water to a heavy pot with high sides. Cover and bring to a boil over high heat. Allow to boil about a minute with cover still on, until sugar is fully dissolved.</step>
+			<step>Remove cover and continue to cook over high heat until sugar turns golden amber.</step>
+			<step>Reduce heat to medium. Slowly pour in the cream, stirring constantly to dissolve the sugar in the cream. If using pralines, simply add cream to pralines and continue from here.</step>
+			<step>Add the butter and food coloring, adjusting to achieve a pink / red color. Cook, stirring constantly, until it reaches a temperature of <temperature>230</temperature> (thread stage) of sugar cooking.</step>
+			<step>Remove from heat, stir in almonds and salt, and pour into the tart shell. Allow to set at room temperature.</step>
+		</steps>
+	</activity>
+</recipe>

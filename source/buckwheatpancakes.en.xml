@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Buckwheat pancakes</title>
+	<meta>
+		<dishtype>Breakfast</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>milk</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>1 1/4</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>buckwheat flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2 1/3</value>
+				<unit>tsp</unit>
+				<altmeasure>
+					<quantity>
+						<value>1</value>
+						<unit>package</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>active dry yeast</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>cup</unit>
+			</quantity>
+			<variant>all-purpose</variant>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>baking soda</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>water</item>
+			<preprep>lukewarm</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>molasses</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+			</quantity>
+			<item>egg</item>
+		</ingredient>
+		<ingredient_choice>
+			<ingredient>
+				<item>butter</item>
+			</ingredient>
+			<ingredient>
+				<item>bacon fat</item>
+			</ingredient>
+		</ingredient_choice>
+		<ingredient>
+			<item>maple syrup</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step><procedure>Scald</procedure> the milk, and then pour into a <equipment>large mixing bowl</equipment> and cool to lukewarm (<temperature>110</temperature>).</step>
+		<step>Sprinkle the yeast in the lukewarm milk and let dissolve, about <time>5 minutes</time>.</step>
+		<step>Add the flours and salt and beat well.</step>
+		<step>Cover the bowl and let sit overnight, <time>8 to 12 hours</time>. The mixture will rise and fall again.</step>
+		<step>Dissolve the baking soda in the water. Add that mixture, the molasses, and egg to the pancakes and mix well.</step>
+		<!--<step>Let stand a further <time>30 minutes</time>.</step>-->
+		<step>Grease a hot (<temperature>375</temperature>) <equipment>griddle</equipment> with butter or bacon fat. Use about 1/4 cup of batter per pancake. Fry until bubbles break on the surface, then flip over and fry a little longer until cooked through.</step>
+	</steps>
+	<serving>Serve with maple syrup.</serving>
+	<variation>
+		<label>Sourdough buckwheat pancakes</label>
+		<steps>
+			<step>Add <ingredient mainingredient="true">
+				<quantity>
+					<value>1</value>
+					<unit>cup</unit>
+				</quantity>
+				<item>sourdough starter</item>
+			</ingredient> in place of the yeast, all-purpose flour, and 1/2 cup of the milk.</step>
+		</steps>		
+	</variation>
+	<variation>
+		<label>Gluten free buckwheat pancakes</label>
+		<steps>
+			<step>Substitute an additional 1/2 cup buckwheat flour for the all-purpose flour.</step>
+		</steps>
+	</variation>
+</recipe>

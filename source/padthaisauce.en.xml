@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Pad Thai Sauce</title>
+	<meta>
+		<cuisine>Thai</cuisine>
+		<cuisine>Asian</cuisine>
+		<dishtype>Ingredients</dishtype>
+	</meta>
+	<ingredients>
+		<yield>2 1/2 cups</yield>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>oil</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>cloves</unit>
+			</quantity>
+			<item>garlic</item>
+			<preprep>pressed</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tbs</unit>
+			</quantity>
+			<variant>dry Asian</variant>
+			<item>chiles</item>
+			<preprep>ground</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item><reciperef ref="tamarindconcentrate">tamarind concentrate</reciperef></item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>fish sauce</item>
+		</ingredient>
+		<ingredient_choice>
+			<ingredient>
+				<quantity>
+					<value>1</value>
+					<unit>cup</unit>
+				</quantity>
+				<variant>palm</variant>
+				<item>sugar</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1/2</value>
+					<unit>cup</unit>
+				</quantity>
+				<variant>brown</variant>
+				<item>sugar</item>
+			</ingredient>
+		</ingredient_choice>
+		<ingredient>
+			<quantity approximate="true">
+				<value>1/4</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>sriracha sauce</item>
+			<note>to taste; different brands have different hotness</note>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Heat the oil over medium high heat. Add the garlic and chiles and stir just until the aroma blooms, about 15 seconds.</step>
+		<step>Add the tamarind concentrate, fish sauce, and sugar. Bring to a gentle boil, stirring as needed to prevent burning.</step>
+		<step>Add the sriracha sauce, tasting to to ensure the right amount.</step>
+	</steps>
+	<storage>Store covered in the refrigerator.</storage>
+</recipe>

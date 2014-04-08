@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Sugar Syrup</title>
+	<meta>
+		<dishtype>Ingredients</dishtype>
+		<comment>Sugar Syrup is used for canning and drink mixing.</comment>
+	</meta>
+	<group>
+		<label>Light Syrup</label>
+		<ingredients>
+			<ingredient>
+				<quantity>
+					<value>1</value>
+					<unit>part</unit>
+				</quantity>
+				<item>sugar</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>2</value>
+					<unit>parts</unit>
+				</quantity>
+				<item>water</item>
+			</ingredient>
+		</ingredients>
+	</group>
+	<group>
+		<label>Medium Syrup</label>
+		<ingredients>
+			<ingredient>
+				<quantity>
+					<value>3</value>
+					<unit>parts</unit>
+				</quantity>
+				<item>sugar</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>4</value>
+					<unit>parts</unit>
+				</quantity>
+				<item>water</item>
+			</ingredient>
+		</ingredients>
+	</group>
+	<group>
+		<label>Heavy Syrup</label>
+		<ingredients>
+			<ingredient>
+				<quantity>
+					<value>5</value>
+					<unit>parts</unit>
+				</quantity>
+				<item>sugar</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>4</value>
+					<unit>parts</unit>
+				</quantity>
+				<item>water</item>
+			</ingredient>
+		</ingredients>
+	</group>
+	<group>
+		<label>Mixer Syrup</label>
+		<ingredients>
+			<ingredient>
+				<quantity>
+					<value>2</value>
+					<unit>parts</unit>
+				</quantity>
+				<item>sugar</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1</value>
+					<unit>part</unit>
+				</quantity>
+				<item>water</item>
+			</ingredient>
+		</ingredients>
+	</group>
+	<steps>
+		<step>Combine sugar and water in a <equipment>saucepan</equipment>. Heat until sugar dissolves.</step>
+		<step>Store covered in refrigerator.</step>
+	</steps>
+</recipe>

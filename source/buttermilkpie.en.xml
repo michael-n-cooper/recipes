@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Buttermilk Pie</title>
+	<meta>
+		<dishtype>Desserts</dishtype>
+		<dishtype>Pies</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>60</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>4</value>
+						<unit>tbs</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>butter</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>330</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1 1/2</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>40</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1/4</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3</value>
+			</quantity>
+			<variant>large</variant>
+			<item>eggs</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>235</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>buttermilk</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>5</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<unit>1</unit>
+			</quantity>
+			<item><reciperef ref="piecrust">Pastry for 9-inch pie shell</reciperef></item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Melt butter and cool slightly.</step>
+		<step>Combine sugar and flour.</step>
+		<step>Beat in eggs just until smooth.</step>
+		<step>Beat in melted butter.</step>
+		<step>Carefully stir in buttermilk and vanilla. Mixture should be smooth, but don't beat in extra air.</step>
+		<step>Preheat oven to <temperature>425</temperature>.</step>
+		<step>Prepare pie pastry and line pie plate.</step>
+		<step>Pour filling into shell.</step>
+		<step>Place in oven on bottom rack. Bake <time>15 minutes</time>.</step>
+		<step>Lower heat to <temperature>350</temperature> and bake <time>25 - 35 minutes</time> longer, until set at edges and slightly wobbly in middle.</step>
+		<step>Remove to a rack and cool room temperature.</step>
+	</steps>
+	<serving>Serve at room temperature or refrigerated.</serving>
+	<storage>Store in refrigerator up to one week.</storage>
+</recipe>

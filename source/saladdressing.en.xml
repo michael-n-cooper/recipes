@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Vinaigrette</title>
+	<meta>
+		<dishtype>Sauces, Marinades, Dressings</dishtype>
+		<comment>This is my adaptation of a basic vinaigrette. It is extremely pungent and therefore can be used in small quantities, minimizing fat for the flavour.</comment>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>cloves</unit>
+			</quantity>
+			<item>garlic, pressed</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>pepper</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>honey</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>Dijon mustard</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>vinegar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>cup</unit>
+			</quantity>
+			<variant>olive</variant>
+			<item>oil</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>cup</unit>
+			</quantity>
+			<variant>salad</variant>
+			<item>oil</item>
+		</ingredient>
+		<ingredient optional="true">
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<variant>toasted sesame</variant>
+			<item>oil</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Whisk together all ingredients except oils until well combined.</step>
+		<step>Whisk in oils one tablespoon at a time, making sure it is fully incorporated and <procedure>emulsified</procedure> before adding more. After the first few tablespoons it is possible to add larger amounts at a time. When complete the dressing should thicken somewhat.</step>
+	</steps>
+	<serving>Use in very small quantities on salad, and toss well to distribute the dressing thinly and evenly on the salad. This can also be used to boost the flavour of vegetables.</serving>
+	<variation>
+		<label>Reduced fat vinaigrette</label>
+		<ingredients>
+			<ingredient>
+				<quantity>
+					<value>2/3</value>
+					<unit>cup</unit>
+				</quantity>
+				<item>water</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1</value>
+					<unit>tsp</unit>
+				</quantity>
+				<item>cornstarch</item>
+			</ingredient>
+		</ingredients>
+		<steps>
+			<step>Mix the cornstarch into the water in a small <equipment>saucepan</equipment>. Bring to a boil, stirring constantly, to thicken.</step>
+			<step>Let cool, covered, to room temperature.</step>
+			<step>Substitute the water mixture for the salad oil in the recipe. Emulsify in the olive oil, then add the water mixture.</step>
+			<step></step>
+		</steps>
+		
+	</variation>
+</recipe>

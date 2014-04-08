@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Gingersnaps</title>
+	<meta>
+		<source>Marion Cunningham: The Fannie Farmer Cookbook, 13th Edition (1994: Knopf)</source>
+		<dishtype>Desserts</dishtype>
+		<dishtype>Cookies</dishtype>
+	</meta>
+	<ingredients>
+		<yield>about 40 cookies</yield>
+		<ingredient>
+			<quantity>
+				<value>3/4</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>shortening</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+			</quantity>
+			<item>egg</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>molasses</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>baking soda</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>ground ginger</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>cinnamon</item>
+		</ingredient>
+		<ingredient>
+			<item>sugar for rolling</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Preheat oven to <temperature>375</temperature>. Grease some <equipment>cookie sheets</equipment>.</step>
+		<step>Beat together the shortening and sugar. Add the egg and beat until light and fluffy.</step>
+		<step>Sift together the flour, baking soda, salt, ginger, and cinnamon, then beat into the other mixture until smooth.</step>
+		<step>Gather small bits of dough and roll between the palms of your hands into 1-inch balls. Roll in sugar, then place on the cookie sheets, 2 inches apart.</step>
+		<step>Bake about <time>8 to 10 minutes</time>, until cookies have spread and tops have cracked, but they are still unset in the middle. Remove from cookie sheets and cool on a rack.</step>
+	</steps>
+</recipe>

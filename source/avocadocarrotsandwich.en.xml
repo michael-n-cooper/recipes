@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Avocado Carrot Sandwich</title>
+	<meta>
+		<cuisine>Vegetarian</cuisine>
+		<dishtype>Sandwiches</dishtype>
+		<comment>An extremely healthy sandwich that makes up for a lot of sins. </comment>
+	</meta>
+	<ingredients>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>2</value>
+				<unit>slices</unit>
+			</quantity>
+			<item>
+				<reciperef ref="wholewheatbread" />
+			</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>1/2</value>
+			</quantity>
+			<item>avocado</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<variant>yellow</variant>
+			<item>mustard</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>1</value>
+			</quantity>
+			<variant>medium</variant>
+			<item>carrot</item>
+			<preprep>coarsly grated</preprep>
+		</ingredient>
+		<ingredient>
+			<variant>dill</variant>
+			<item>pickle</item>
+			<preprep>sliced</preprep>
+		</ingredient>
+		<ingredient>
+			<variant>red</variant>
+			<item>onion</item>
+			<preprep>thinly sliced</preprep>
+		</ingredient>
+		<ingredient>
+			<item>tomato</item>
+			<preprep>sliced</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>leaf</unit>
+			</quantity>
+			<item>lettuce</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Slice the avocado and lay evenly over one slice of bread. Spread the mustard on the other.</step>
+		<step>Pile the grated carrot over the avocado.</step>
+		<step>Top with pickle, onion, tomato, and lettuce and close the sandwich.</step>
+	</steps>
+	<serving>Slice in half to serve.</serving>
+</recipe>

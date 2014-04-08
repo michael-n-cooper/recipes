@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Vegetarian Sandwich</title>
+	<meta>
+		<cuisine>Vegetarian</cuisine>
+		<dishtype>Sandwiches</dishtype>
+		<comment>An extremely healthy sandwich that makes up for a lot of culinary sins the rest of the day.</comment>
+	</meta>
+	<ingredients>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>2</value>
+				<unit>slices</unit>
+			</quantity>
+			<item>
+				<reciperef ref="wholewheatbread" />
+			</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>goat cheese</item>
+			<preprep>softened</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<variant>yellow</variant>
+			<item>mustard</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<item>cucumber</item>
+			<preprep>thinly sliced</preprep>
+		</ingredient>
+		<ingredient>
+			<variant>red</variant>
+			<item>onion</item>
+			<preprep>thinly sliced</preprep>
+		</ingredient>
+		<ingredient>
+			<item>tomato</item>
+			<preprep>sliced</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>alfalfa sprouts</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>leaf</unit>
+			</quantity>
+			<item>lettuce</item>
+		</ingredient>
+		<ingredient>
+			<item>salt</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Spread goat cheese on one slice of bread and mustard on the other.</step>
+		<step>Layer cucumber slices a couple layers thick over the goat cheese, and sprinkle <em>very</em> lightly with salt. Repeat with a layer of tomato slices.</step>
+		<step>Add onion, sprouts, and lettuce, then close the sandwich.</step>
+	</steps>
+	<serving>Slice in half to serve.</serving>
+</recipe>

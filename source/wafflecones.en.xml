@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Waffle Cones</title>
+	<meta>
+		<dishtype>Ice cream cones</dishtype>
+	</meta>
+	<ingredients>
+		<yield>8 cones</yield>
+		<ingredient>
+			<quantity>
+				<value>55</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>4</value>
+						<unit>tbs</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>butter</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<altmeasure>
+					<quantity>
+						<value>72</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>egg whites</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>90</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1/3</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>90</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>3/4</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>all purpose</variant>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/8</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/8</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>almond extract</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Preheat a <equipment>pizelle iron</equipment> or <equipment>ice cream cone iron</equipment>.</step>
+		<step>Melt the butter and let cool.</step>
+		<step><procedure>Whip</procedure> the egg whites until foamy. Add sugar slowly while continuing to beat. Beat until they form firm peaks.</step>
+		<step><procedure>Sift</procedure> over the flour and salt, then <procedure>fold</procedure> them in gently.</step>
+		<step><procedure>Stir</procedure> in the extracts.</step>
+		<step>To bake, put 2 tbs of mixture on centre of iron. Close lid and bake until steam starts to lessen.</step>
+		<step>Weat heatproof gloves to form. Remove from iron and place a cone form on top, in the middle horizontally and with the point slightly short of the end of the waffle. Quickly wrap waffle around the cone form, pinching the end together while rolling to form a sealed point. Allow to cool on the form while baking the next one.</step>
+		<step>Optionally, <procedure>dip</procedure> bottoms of cones into chocolate to prevent leakage.</step>
+	</steps>
+	<serving>Place scoops if ice cream in the cone and serve.</serving>
+	<storage>Store air-tight.</storage>
+</recipe>

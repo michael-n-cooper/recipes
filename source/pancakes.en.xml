@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Pancakes</title>
+	<meta>
+		<dishtype>Breakfast</dishtype>
+		<occasion>Sunday Brunch</occasion>
+	</meta>
+	<ingredients>
+		<ingredient_choice>
+			<ingredient_group>
+				<ingredient>
+					<quantity>
+						<value>2 1/4</value>
+						<unit>cups</unit>
+					</quantity>
+					<item>milk</item>
+					<preprep/>
+				</ingredient>
+				<ingredient>
+					<quantity>
+						<value>4</value>
+						<unit>tsp</unit>
+					</quantity>
+					<item>baking powder</item>
+					<preprep/>
+				</ingredient>
+			</ingredient_group>
+			<ingredient_group>
+				<ingredient>
+					<quantity>
+						<value>2 1/4</value>
+						<unit>cups</unit>
+					</quantity>
+					<item>buttermilkmilk</item>
+					<preprep/>
+				</ingredient>
+				<ingredient>
+					<quantity>
+						<value>1/2</value>
+						<unit>tsp</unit>
+					</quantity>
+					<item>baking soda</item>
+					<preprep/>
+				</ingredient>
+				<ingredient>
+					<quantity>
+						<value>2</value>
+						<unit>tsp</unit>
+					</quantity>
+					<item>baking powder</item>
+					<preprep/>
+				</ingredient>
+			</ingredient_group>
+		</ingredient_choice>
+		<ingredient>
+			<quantity>
+				<value>4</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>butter, melted</item>
+			<preprep/>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+			</quantity>
+			<item>eggs</item>
+			<preprep/>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>cups</unit>
+			</quantity>
+			<variant>all-purpose</variant>
+			<item>flour</item>
+			<preprep/>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>4</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>sugar</item>
+			<preprep/>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+			<preprep/>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Beat together the milk, butter, and eggs.</step>
+		<step>Sift together the remaining ingredients. Add to the liquid ingredients and mix with a spoon just until evenly moistened. A few lumps will remain.</step>
+		<step>Heat a <equipment>griddle</equipment> over medium heat until drops of water sprinkled on the surface dance around (<temperature>325</temperature>).</step>
+		<step>Lightly butter the griddle, then pour about 1/4 cup of batter per pancake. Cook until bubbles form on the surface, then carefully turn over with a spatula and cook a little more. Repeat until all pancakes have been made.</step>
+		<step>Place finished pancakes in a <temperature>200</temperature> oven until all have been made.</step>
+	</steps>
+	<variation>
+		<label>Blueberry pancakes</label>
+		<steps>
+			<step>Add <ingredient><quantity><value>1</value> <unit>cup</unit></quantity><item>blueberries</item>
+			</ingredient> blueberries to the batter. Frozen are fine and usually far cheaper. Do not defrost, but make sure they are all separated.</step>
+		</steps>
+	</variation>
+	<variation>
+		<label>Raspberry pancakes</label>
+		<steps>
+			<step>Use half whole wheat flour and half white flour. Use honey in place of sugar. Add <ingredient><quantity><value>1</value> <unit>cup</unit></quantity><item>raspberries</item>
+			</ingredient> to the batter. Mix frozen raspberries with the flour before adding the liquids; add fresh raspberries after mixing in the liquid.</step>
+		</steps>
+		
+	</variation>
+</recipe>

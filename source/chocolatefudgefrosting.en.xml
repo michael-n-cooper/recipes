@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Chocolate Fudge Frosting</title>
+	<meta>
+		<dishtype>Frostings</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>milk</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1 1/2</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>4</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>butter</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>corn syrup</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1 1/2</value>
+				<unit>oz</unit>
+			</quantity>
+			<variant>unsweetened</variant>
+			<item>chocolate</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+		<ingredient optional="true">
+			<quantity>
+				<value>1</value>
+				<unit>oz</unit>
+			</quantity>
+			<item>fondant</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Boil the milk, sugar, butter, corn syrup, and salt in a <equipment>heavy-bottomed saucepan</equipment> until the mixture registers <temperature>234</temperature>.</step>
+		<step>Remove from heat. Add chocolate and vanilla extract, but do not stir it in. Let cool to <temperature>110</temperature>.</step>
+		<step>Add fondant if using. Beat <time>2-3 minutes</time> until mixture just begins to lighten in color, which indicates sugar crystallization. Let rest <time>5 minutes</time> to allow sugar to continue crystallizing, stirring occasionally.</step>
+		<step>Spread on cake while still malleable, and allow to set.</step>
+	</steps>
+</recipe>

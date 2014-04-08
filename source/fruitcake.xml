@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Fruitcake</title>
+	<meta>
+		<source>Judy Cooper</source>
+		<dishtype>Desserts</dishtype>
+		<occasion>Christmas</occasion>
+		<comment>My mother used to make this and send it around. It was the only fruitcake recipe I know of that people said they actually liked, and I think they weren't just being polite. I believe the original recipe came from Adele Davis, who was a famous health food author criticized for not knowing what she was talking about. Although the amound of added sugar is relatively small, the use of chemically treated sweetened cherries takes this out of hte realm of health food for me. Still, I like it.</comment>
+	</meta>
+	<ingredients>
+		<yield>1 9 x 5 x 4 inch cake</yield>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>1</value>
+				<unit>lb</unit>
+			</quantity>
+			<variant>whole</variant>
+			<item>Brazil nuts</item>
+			<preprep>shelled</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3/4</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>baking powder</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>1</value>
+				<unit>lb</unit>
+			</quantity>
+			<variant>pitted whole</variant>
+			<item>dates</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>8</value>
+				<unit>oz</unit>
+			</quantity>
+			<variant>red</variant>
+			<item>glacé cherries</item>
+			<preprep>drained</preprep>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>8</value>
+				<unit>oz</unit>
+			</quantity>
+			<variant>green</variant>
+			<item>glacé cherries</item>
+			<preprep>drained</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3</value>
+			</quantity>
+			<item>eggs</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3/4</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>almond extract</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Preheat oven to <temperature>300</temperature>.</step>
+		<step>Toast the brazil nuts, stirring occasionally, until light brown and fragrant, about <time>1/2 hour</time>. Remove and let cool.</step>
+		<step>Sift together flour, baking power and salt.</step>
+		<step>Combine nuts, dates, and cherries.</step>
+		<step>Beat eggs well until frothy. Add sugar and extracts and continue to beat until they form a ribbon. Stir in the flour.</step>
+		<step>Pour the egg mixture over the fruit mixture and stir together well.</step>
+		<step>Grease and flour a <equipment>9 x 5-inch loaf pan</equipment>. Add batter to pan, packing in well to minimize spaces between nuts and fruits. Batter will come nearly to the top of the pan.</step>
+		<step>Bake about <time>1 1/2 hours</time> until wooden pick inserted in center comes out clean.</step>
+		<step>Cool in pan <time>15 minutes</time>, then invert on cooling rack.</step>
+	</steps>
+	<serving>Use a very sharp knife to cut into thin slices.</serving>
+	<storage>Store tightly covered in the refrigerator for several weeks.</storage>
+</recipe>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Cheese Sauce</title>
+	<meta>
+		<dishtype>Ingredients</dishtype>
+		<dishtype>Sauces, Marinades, Dressings</dishtype>
+		<comment>This is a bulk preparation of cheese sauce, primarily for macaroni and cheese (just mix into cooked noodles and heat) but also good on vegetables.</comment>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>4</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>butter</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/3</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>milk</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>12</value>
+				<unit>oz</unit>
+			</quantity>
+			<item>cheddar cheese</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>paprika</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>dash</unit>
+			</quantity>
+			<item>cayenne</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Melt the butter over medium heat. Whisk in the flour. Cook, whisking constantly, a few minutes until foaming subsides and the roux seems to become more liquid.</step>
+		<step>Add the milk all at once, whisking rapidly. Continue whisking while the milk heats up and the sauce thickens.</step>
+		<step>Add the remaining ingredients. Continue to blend until the cheese is completely melted.</step>
+	</steps>
+	<storage>Store in the refrigerator up to 2 weeks.</storage>
+</recipe>

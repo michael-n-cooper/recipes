@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Lemon Bars</title>
+	<meta>
+		<source>Phil Schwab</source>
+		<dishtype>Desserts</dishtype>
+	</meta>
+	<group>
+		<label>Crust</label>
+		<ingredients>
+			<ingredient>
+				<quantity>
+					<value>2</value>
+					<unit>cups</unit>
+				</quantity>
+				<item>all-purpose flour</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>12</value>
+					<unit>tbs</unit>
+				</quantity>
+				<item>butter, softened</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>3/4</value>
+					<unit>cup</unit>
+				</quantity>
+				<item>sugar</item>
+			</ingredient>
+		</ingredients>
+		<steps>
+			<step>Preheat the oven to <temperature>350</temperature>.</step>
+			<step>Combine the ingredients until evenly mixed and sandy in texture.</step>
+			<step>Pat crust onto bottom of a <equipment>9 x 13 inch pan</equipment>.</step>
+			<step>Bake about <time>18 to 22 minutes</time> until lightly browned at the edges.</step>
+		</steps>
+	</group>
+	<group>
+		<label>Filling</label>
+		<ingredients>
+			<ingredient>
+				<quantity>
+					<value>4</value>
+				</quantity>
+				<item>eggs</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>2</value>
+					<unit>cups</unit>
+				</quantity>
+				<item>sugar</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>2</value>
+					<unit>tsp</unit>
+				</quantity>
+				<item>lemon zest</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1/8</value>
+					<unit>tsp</unit>
+				</quantity>
+				<item>salt</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1/4</value>
+					<unit>cup</unit>
+				</quantity>
+				<item>lemon juice</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1/4</value>
+					<unit>cup</unit>
+				</quantity>
+				<item>all-purpose flour</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1</value>
+					<unit>tsp</unit>
+				</quantity>
+				<item>baking powder</item>
+			</ingredient>
+		</ingredients>
+		<steps>
+			<step>Combine eggs, sugar, lemon zest, salt, and lemon juice and mix until well blended.</step>
+			<step>Add flour and baking powder and incorporate well.</step>
+			<step>Pour filling onto hot crust. Return to oven and bake about <time>25 minutes</time>, until top is golden brown. Cool completely.</step>
+		</steps>
+	</group>
+	<serving>Sprinkle evenly with powdered sugar. Cut into 24 bars and serve.</serving>
+</recipe>

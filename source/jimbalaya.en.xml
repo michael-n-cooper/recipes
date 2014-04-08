@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Jimbalaya</title>
+	<meta>
+		<source>Roy F. Guste, Jr: The 100 Greatest New Orleans Creole Recipes (1994: Pelican)</source>
+		<cuisine>Southern</cuisine>
+		<cuisine>Cajun</cuisine>
+		<dishtype>Main Dishes</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>peanut oil</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>large</unit>
+			</quantity>
+			<item>onion</item>
+			<preprep>chopped</preprep>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>1 1/2</value>
+				<unit>lbs</unit>
+			</quantity>
+			<item>andouille sausage</item>
+			<preprep>cut crosswise into 1/2 inch slices</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+			</quantity>
+			<item>bell pepper</item>
+			<preprep>chopped</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>large</unit>
+			</quantity>
+			<item>tomato</item>
+			<preprep>chopped</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>cloves</unit>
+			</quantity>
+			<item>garlic</item>
+			<preprep>minced</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3</value>
+			</quantity>
+			<item>bay leaves</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>thyme</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>parsley</item>
+			<preprep>minced</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1 1/2</value>
+				<unit>quarts</unit>
+			</quantity>
+			<item>beef stock</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>black pepper</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>cayenne pepper</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>3</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>white rice</item>
+		</ingredient>
+		<ingredient>
+			<item>salt</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>In a <equipment>3-quart saucepan</equipment> over medium-high heat, heat the oil and <procedure>sauté</procedure> the chopped onions and meat until the onions begin to color.</step>
+		<step>Add the bell pepper. Sauté together until the liquid which is released cooks down and you just hear the sizzling frying sound and the bell pepper begins to color.</step>
+		<step>Add the chopped tomato, the garlic, bay leaves, thyme, parsley, pepper, cayenne, and hot beef stock. Raise heat and bring to a boil.</step>
+		<step>Add the rice. Bring to a boil again, then reduce heat to simmer.</step>
+		<step>Cover, reduce heat to low, and simmer for about <time>25 minutes</time>, until the rice is somewhat dry and not too sticky. Adjust seasonings.</step>
+	</steps>
+</recipe>

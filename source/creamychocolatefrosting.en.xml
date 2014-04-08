@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Creamy Chocolate Frosting</title>
+	<meta>
+		<source>Fanny Farmer</source>
+		<dishtype>Frostings</dishtype>
+	</meta>
+	<ingredients>
+		<yield>2 cups</yield>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>cornstarch</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>water</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>2</value>
+				<unit>oz</unit>
+			</quantity>
+			<variant>unsweetened</variant>
+			<item>chocolate</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tbs</unit>
+			</quantity>
+			<variant>unsalted</variant>
+			<item>butter</item>
+			<preprep>at room temperature</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/8</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Mix sugar and cornstarch in a <equipment>saucepan</equipment> until evenly blended. Add water and mix evenly.</step>
+		<step>Bring mixture to a boil, stirring constantly. Mixture will thicken. Remove from heat.</step>
+		<step>Add chocolate and let sit until chocolate melts. Cool to room temperature, stirring occasionally.</step>
+		<step>Add butter, vanilla, and salt. Beat at high speed until light and creamy, about <time>1 minute</time>.</step>
+	</steps>
+</recipe>

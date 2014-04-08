@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Streusel</title>
+	<meta>
+		<source>Rombauer, Irma S., and Becker, Marion R: The Joy of Cooking, (1997: Penguin Plume) (adapted)</source>
+		<dishtype>Ingredients</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>butter</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>5</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>brown sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>cinnamon</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>walnuts or pecans</item>
+			<preprep>chopped</preprep>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Blend the flour, butter and sugar together until crumbly.</step>
+		<step>Add the cinnamon and nuts.</step>
+	</steps>
+</recipe>

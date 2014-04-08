@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Buttermilk Biscuits</title>
+	<meta>
+		<source>Marion Cunningham: The Fannie Farmer Cookbook, 13th Edition (1994: Knopf)</source>
+		<cuisine>Southern</cuisine>
+		<dishtype>Breads</dishtype>
+		<dishtype>Rolls</dishtype>
+		<comment>In my book, these are the only kind of biscuits to make. I use the American term "biscuits" though many of my friends know these as "scones".</comment>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>all-purpose flour</item>
+			<note>This recipe calls for all-purpose flour. Low-protein cake or pastry flour is very good and more authentic, but make sure to use the same <em>weight</em> of flour, not the same volume. 2 cups of all-purpose flour is 10 ounces; this may be nearly 3 cups of pastry flour.</note>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>baking powder</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/3</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>baking soda</item>
+			<note>Use a scant 1/2 tsp, as a full 1/2 tsp is too much and creates brown flecks.</note>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>cup</unit>
+				<altmeasure>
+					<quantity>
+						<value>4</value>
+						<unit>oz</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>butter, shortening, or lard</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2/3</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>buttermilk</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Preheat oven to <temperature>425</temperature>.</step>
+		<step>Stir together all the dry ingredients until well blended.</step>
+		<step><procedure>Cut in the fat</procedure> until mixture resembles cornmeal.</step>
+		<step>Add the buttermilk and mix until just blended.</step>
+		<step>Knead 30 seconds on a floured board. The light kneading builds enough structure to help increase the rise. The buttermilk helps them remain tender.</step>
+		<step>Pat or roll on board until 1/2 inch thick.</step>
+		<step>Cut into 2-inch rounds. Place touching each other in 2 greased <equipment>8-inch round pans</equipment>.</step>
+		<step>Optional: brush tops with melted butter.</step>
+		<step>Bake <time>15-20 minutes</time>, until golden on top.</step>
+	</steps>
+	<variation>
+	<label>Drop biscuits</label>
+	<steps>
+		<step>Use 
+		<ingredient><quantity>
+			<value>1</value>
+			<unit>cup</unit>
+		</quantity><item>buttermilk</item></ingredient>.</step>
+		<step>Drop in spoonfuls onto baking sheet.</step>
+	</steps>
+</variation>
+</recipe>

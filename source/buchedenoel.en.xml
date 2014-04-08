@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Bûche de Noël</title>
+	<meta>
+		<dishtype>Desserts</dishtype>
+		<dishtype>Cakes</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+			</quantity>
+			<item><reciperef ref="spongecake">sponge cake, prepared for jelly roll</reciperef></item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1 1/2</value>
+				<unit>cups</unit>
+			</quantity>
+			<item><reciperef ref="pastrycream">pastry cream, prepared for cake filling</reciperef></item>
+		</ingredient>
+		<ingredient>
+			<quantity approximate="true">
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item><reciperef ref="ganachefrosting">ganache frosting</reciperef></item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Prepare sponge cake as for a jelly roll.</step>
+		<step>Fill roll cake with pastry cream and re-roll.</step>
+		<step>Place cake on a serving platter. Cut off a few inches of both ends. Stand one of the end on top of the cake, cut side up, to represent a protruding branch. The other end is cook's treat.</step>
+		<step>Ice cake with the ganache frosting, but leave all cut ends exposed to represent wood. Run tines of a fork along the frosting to represent tree bark.</step>
+		<step>Decorate as desired with marzipan or meringue mushrooms, leaves, pine cones, etc.</step>
+	</steps>
+	<serving>Just before serving, sift a fine dusting of powdered sugar over the cake to represent snow.</serving>
+</recipe>

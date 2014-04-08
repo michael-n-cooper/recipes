@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Sourdough Waffles</title>
+	<meta>
+		<dishtype>Breakfast</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<variant>all-purpose</variant>
+			<item>flour</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<variant>whole wheat</variant>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>buttermilk</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>sourdough starter</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+			</quantity>
+			<item>eggs</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>4</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>butter</item>
+			<preprep>melted</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3/4</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>baking soda</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Combine flours, sugar, buttermilk, and sourdough starter. Mix until smooth.</step>
+		<step>Let mixture ferment, covered, overnight.</step>
+		<step>Beat in eggs, then the butter, salt, and baking soda. The batter will rise when the baking soda is added; don't overmix after this point.</step>
+		<step>Bake in waffle iron.</step>
+	</steps>
+</recipe>

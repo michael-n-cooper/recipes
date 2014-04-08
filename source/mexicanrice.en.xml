@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Mexican Rice</title>
+	<meta>
+		<source>James W Peyton: El Norte: The Cuisine of Northern Mexico (1990: Red Crane Books)</source>
+		<cuisine>Mexican</cuisine>
+		<dishtype>Sides</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<variant>long grain</variant>
+			<item>white rice</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>cooking oil</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+			</quantity>
+			<item>tomato</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/3</value>
+			</quantity>
+			<item>onion</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>cloves</unit>
+			</quantity>
+			<item>garlic</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1 2/3</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>water</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient optional="true">
+			<quantity>
+				<value>1</value>
+			</quantity>
+			<item>carrot</item>
+			<preprep>shredded or julienned</preprep>
+		</ingredient>
+		<ingredient optional="true">
+			<quantity>
+				<value>1/2</value>
+				<unit> </unit>
+			</quantity>
+			<item>chile ancho</item>
+			<preprep>minced</preprep>
+		</ingredient>
+		<ingredient optional="true">
+			<quantity>
+				<value>2</value>
+				<unit>sprigs</unit>
+			</quantity>
+			<item>cilantro</item>
+		</ingredient>
+		<ingredient optional="true">
+			<quantity>
+				<value>4</value>
+				<unit>cloves</unit>
+			</quantity>
+			<item>garlic</item>
+			<preprep>peeled and left whole</preprep>
+		</ingredient>
+		<ingredient optional="true">
+			<quantity>
+				<value>4</value>
+			</quantity>
+			<item>chiles serranos</item>
+		</ingredient>
+		<ingredient optional="true">
+			<quantity>
+				<value>1/2</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>peas</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Soak the rice in hot water for <time>1/2 hour</time>. Drain and dry <time>15 minutes</time>.</step>
+		<step>Meanwhile, place tomato, onion, and 2 cloves garlic in a blender and blend until smooth.</step>
+		<step>Heat the oil in a heavy pot over medium heat. Add rice and cook, stirring constantly, until golden brown.</step>
+		<step>Turn heat to medium high and add tomato mixture. Cook, stirring constantly until moisture evaporates and it begins to stick to bottom of pot.</step>
+		<step>Stir in water, salt, and optional ingredients except peas. Bring to a boil, then turn down heat to a low simmer. Cook uncovered until water is completely absorbed, without disturbing.</step>
+		<step>If using peas, stir them in, cover, and cook <time>5 minutes</time> at lowest temperature possible.</step>
+		<step>Let stand covered for <time>10 minutes</time> off heat before serving.</step>
+	</steps>
+</recipe>

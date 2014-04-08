@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Babaghanoush</title>
+	<meta>
+		<source>Benghiat, Suzy: Middle Eastern Cooking (London: Artus Books, 1984)</source>
+		<cuisine>Middle Eastern</cuisine>
+		<dishtype>Appetizers</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>3</value>
+				<unit>medium</unit>
+			</quantity>
+			<item>eggplants</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>clove</unit>
+			</quantity>
+			<item>garlic</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>small</unit>
+			</quantity>
+			<item>onion</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient_choice>
+			<ingredient>
+				<quantity>
+					<value>2</value>
+					<unit>tbs</unit>
+				</quantity>
+				<item>lemon juice</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>2</value>
+					<unit>tbs</unit>
+				</quantity>
+				<item>lime juice</item>
+			</ingredient>
+		</ingredient_choice>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>tahini</item>
+			<note>sesame butter</note>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>parsley</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Cut three slits into the eggplants, and roast in a shallow pan at <temperature>400</temperature> about <time>40 minutes</time>, until tender.</step>
+		<step>Meanwhile, chop the onion and garlic, and finely mince enough parsley to yield 2 tbs.</step>
+		<step>Split the eggplants in half and let drain in a colander until cool enough to handle.</step>
+		<step>Scrape the flesh from the eggplant and place in a blender or food processor with the onion, garlic, and salt. Blend, then add lemon or lime juice and correct seasoning.</step>
+		<step>Add tahini paste and blend again, or substitute olive oil and add while machine is running. Mixture should take on a shine.</step>
+		<step>Add some of the parsley, then serve garnished with the remaining parsley.</step>
+	</steps>
+</recipe>

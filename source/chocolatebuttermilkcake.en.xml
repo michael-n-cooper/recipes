@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Chocolate Buttermilk Cake</title>
+	<meta>
+		<source>Cook's Country</source>
+		<dishtype>Desserts</dishtype>
+		<dishtype>Cakes</dishtype>
+		<processnote>The original recipe called for melting the cocoa with the choclate. I don't know how this is supposed to work and it just makes an unworkable paste. Although it is desirable to "bloom" the cocoa flavour in a fat, I just call for sifting it with the flour as in traditional recipes.</processnote>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>3</value>
+				<unit>oz</unit>
+			</quantity>
+			<variant>semisweet</variant>
+			<item>chocolate</item>
+			<preprep>chopped</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>chocolate syrup</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>3/4</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>cocoa</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1 1/2</value>
+				<unit>cups</unit>
+			</quantity>
+			<variant>all-purpose</variant>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>baking powder</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>baking soda</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>6</value>
+				<unit>tbs</unit>
+			</quantity>
+			<variant>unsalted</variant>
+			<item>butter</item>
+			<preprep>softened, cut into 1-inch pieces</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1 1/4</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+			</quantity>
+			<variant>large</variant>
+			<item>eggs</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>1 1/2</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>buttermilk</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Preheat oven to <temperature>350</temperature>.</step>
+		<step>Butter a <equipment>9 x 13 inch baking pan</equipment>, line with <equipment>parchment paper</equipment>, and butter the paper.</step>
+		<step>Melt chocolate until smooth, and whisk in chocolate syrup.</step>
+		<step>Sift together flour, cocoa, baking powder, baking soda, and salt.</step>
+		<step>Cream butter and sugar together until pale yellow and fluffy.</step>
+		<step>Add chocolate mixture to butter and beat until mixture looks thick and grainy, about <time>1 minute</time>.</step>
+		<step>Add eggs and vanilla and beat until fluffy and pale brown, about <time>2 minutes</time>.</step>
+		<step>Add flour mixture and buttermilk alternately, beginning and ending with flour. Beat until creamy and without lumps, about <time>30 seconds</time>.</step>
+		<step>Pour batter into pan and smooth top. Bake until cake <procedure>tests done</procedure>, about <time>25 to 30 minutes</time>.</step>
+		<step>Cool on wire rack <time>20 minutes</time>, then remove from pan, invert back onto bottom, and finish cooling completely, about <time>1 hour</time>.</step>
+	</steps>
+	<serving>Frost with <reciperef ref="chocolatefrosting">Creamy Chocolate Frosting</reciperef>.</serving>
+</recipe>

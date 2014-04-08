@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Cranberry Sauce</title>
+	<meta>
+		<dishtype>Sauces, Marinades, Dressings</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>1 1/2</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>water</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1 1/2</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/16</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>16</value>
+				<unit>oz</unit>
+			</quantity>
+			<variant>whole fresh or frozen</variant>
+			<item>cranberries</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Bring water, sugar, and salt to a boil.</step>
+		<step>Stir in cranberries and return to the boil, stirring.</step>
+		<step>Reduce heat and continue to cook <time>5 minutes</time>, stirring occasionally.</step>
+	</steps>
+	<serving>Let cool before serving.</serving>
+	<storage>Store covered in the refrigerator.</storage>
+</recipe>

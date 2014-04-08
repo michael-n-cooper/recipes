@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Stollen</title>
+	<meta>
+		<cuisine>German</cuisine>
+		<dishtype>Cakes</dishtype>
+		<dishtype>Breads</dishtype>
+		<occasion>Christmas</occasion>
+	</meta>
+	<group>
+		<label>Fruit mixture</label>
+		<ingredients>
+			<ingredient>
+				<quantity>
+					<value>170</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>1</value>
+							<unit>cup</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>candied citrus peel</item>
+				<note>Use any mix of orange, lemon, and citron. Beware of colourful "mixed peels" whose primary ingredient is actually rutabaga. (!)</note>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>170</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>1</value>
+							<unit>cup</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>raisins</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>115</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>1/2</value>
+							<unit>cup</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>spirits</item>
+				<note>Use fruit-complementing spirits such as rum or brandy or Kirsch.</note>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>15</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>1</value>
+							<unit>tbs</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>orange extract</item>
+			</ingredient>
+		</ingredients>
+		<steps>
+			<step>Combine all ingredients in a bowl and cover.</step>
+			<step>Let fruit absorb liquid for <time>2 days</time>, stirring occasionally. The fruit will absorb nearly all of it.</step>
+		</steps>
+	</group>
+	<group>
+		<label>Sponge</label>
+		<ingredients>
+			<ingredient>
+				<quantity>
+					<value>115</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>1/2</value>
+							<unit>cup</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>milk</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>90</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>3/4</value>
+							<unit>cup</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<variant>bread</variant>
+				<item>flour</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>12</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>4</value>
+							<unit>tsp</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<variant>osmotolerant</variant>
+				<item>yeast</item>
+				<note>If you don't have osmotolerant yeast, double the rising times (except for the sponge phase).</note>
+			</ingredient>
+		</ingredients>
+		<steps>
+			<step>Combine ingredients in a food processor. Process about <time>3 minutes</time> until dough comes together aroud the blade and is satiny and highly extensible.</step>
+			<step>Remove to a bowl and <procedure>proof</procedure> for <time>1 hour</time>.</step>
+			<step>If the dough has migrated inside the processor blade, clean well so the processor will have free movement in the next phase.</step>
+		</steps>
+	</group>
+	<group>
+		<label>Dough</label>
+		<ingredients>
+			<ingredient>
+				<quantity>
+					<value>175</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>3/4</value>
+							<unit>cup</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>butter</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>30</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>2</value>
+							<unit>tbs</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>sugar</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>5</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>3/4</value>
+							<unit>tsp</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>salt</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>4</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>3/4</value>
+							<unit>tsp</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>vanilla extract</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>30</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>2</value>
+							<unit>tbs</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item><reciperef ref="almondpaste">almond paste</reciperef></item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>260</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>2</value>
+							<unit>cups</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<variant>bread</variant>
+				<item>flour</item>
+			</ingredient>
+		</ingredients>
+		<steps>
+			<step>Drain residual liquid from the dried fruits into a food processor. Add all ingredients except flour above and process until combined.</step>
+			<step>Add the sponge and the flour. Process to knead the dough extremely well, about <time>3 minutes</time>. Stop the processsor occasionally and redistribute dough. Dough should form a satiny smooth mass.</step>
+			<step>Transfer dough to a bowl, cover, and <procedure>proof</procedure> until doubled, about <time>1 hour</time>.</step>
+		</steps>
+	</group>
+	<group>
+		<label>Shaping</label>
+		<ingredients>
+			<ingredient>
+				<quantity>
+					<value>175</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>2/3</value>
+							<unit>cup</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item><reciperef ref="almondpaste">almond paste</reciperef></item>
+			</ingredient>
+		</ingredients>
+		<steps>
+			<step>Gently deflate the proofed dough and divide in two. With each half, pat or roll into a 20-inch by 15-inch rectangle.</step>
+			<step>On each half, spread half the mascerated dried fruits, all the way to the edge of the long sides, and 5 inches from the edges on the short sides.</step>
+			<step>Fold the two sides of the square that don't have fruit on them to meet in the middle and cover the fruits.</step>
+			<step>Fold the other two sides of the square to meet in the middle. The fruit should now be reasonably distributed through the dough but not poking through or falling out any edges. The rectangle should measure 10 inches in the long direction parallel to the visible seam, and somewhat less on the other direction.</step>
+			<step>Let dough rest <time>10 minutes</time>. Meanwhile, divide the almond paste in half and roll each half into a log about 9 inches long.</step>
+			<step>Roll the dough, with the pin parallel to the visible seam, and only in the middle. Extend until it is a 10 x 10 inch square, thin in the middle and thicker on the two sides that werent rolled.</step>
+			<step>Place a log of almond paste directly abutting one of the thick edges. Bring the other thick edge and place on top of the almond paste (touching but not on top of the first edge). Ease the middle section around the almond paste on the other side. The cake should now have two sides that are about equally thick, and a higher centre over the almond paste. Seal all the dough edges.</step>
+			<step>Grease a <equipment>baking sheet</equipment> or line with parchment paper. Transfer the cakes to the sheet, spaced somewhat apart. Cover with plastic or a kitchen towel. Let rise about <time>1 1/2 hours</time>, until it grows to at least one and half times in size.</step>
+			<step>Preheat the oven to <temperature>350</temperature>. Bake about <time>30 minutes</time> until mahogany brown.</step>
+		</steps>
+	</group>
+	<group>
+		<label>Finishing</label>
+		<ingredients>
+			<ingredient>
+				<quantity>
+					<value>30</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>2</value>
+							<unit>tbs</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>spirits</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>113</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>1/2</value>
+							<unit>cup</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>butter</item>
+			</ingredient>
+			<ingredient>
+				<variant>confectioners'</variant>
+				<item>sugar</item>
+			</ingredient>
+		</ingredients>
+		<steps>
+			<step>While the cakes bake, <procedure>clarify</procedure> the butter.</step>
+			<step>When cakes are done, remove to a wire rack. Brush immediately all over with the spirits, then brush immediately all over with the clarified butter.</step>
+			<step>Let cool completely, then dust well in confectioners' sugar.</step>
+			<step>Leave out overnight to dry slightly.</step>
+			<step>Place in airtight plastic and let mellow at room temperature up to one month.</step>
+		</steps>
+	</group>
+</recipe>

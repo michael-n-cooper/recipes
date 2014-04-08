@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>French Buttercream</title>
+	<meta><dishtype>Frostings</dishtype><comment>My favourite butter frosting.</comment></meta>
+</recipe>

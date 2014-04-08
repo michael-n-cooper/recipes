@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Orange Marmalade</title>
+	<meta>
+		<dishtype>Preserves</dishtype>
+		<dishtype>Jams</dishtype>
+		<comment>This is a fabulous traditional style marmalade, beautiful orange, spreadable, and not too sweet. Ingredient ratios are simple so it's not too fussy, which allows for easy scaling of the recipe.</comment>
+	</meta>
+	<ingredients>
+		<yield>8 pints</yield>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>1000</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity approximate="true">
+						<value>6</value>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>seville oranges</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>250</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity approximate="true">
+						<value>2</value>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>lemons</item>
+		</ingredient>
+		<ingredient>
+			<quantity approximate="true">
+				<value>500</value>
+				<unit>ml</unit>
+			</quantity>
+			<item>water</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1500</value>
+				<unit>g</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Place a <equipment>strainer</equipment> over a <equipment>8-litre pot</equipment>. Cut the oranges and lemons in half at the equator. Use a <equipment>reamer</equipment> to extract the seeds and juice into the strainer.</step>
+		<step>Cut eat half of the peel into half again. Layer the quarters by twos or fours, and slice as thin as possible crossways. Add them to the pot with the juice.</step>
+		<step>Add the water to the pot, adding more if needed to barely cover the fruit. Position the strainer so the seeds will be submerged but kept separate, or tie the seeds in a <equipment>cheesecloth</equipment> and add it to the peel mixture.</step>
+		<step>Bring to a boil, stirring occasionally. Remove from heat, cover, and let sit overnight, <time>12 - 24 hours</time>.</step>
+		<step>Sterilize and prepare <equipment>canning jars</equipment> for heat processing. In a <equipment>canner</equipment>, bring water sufficient to cover the jars to a boil.</step>
+		<step>Return orange mixture to the boil, stirring occasionally. Reduce heat to keep at a simmer. Extract the strainer or cloth containing seeds, pressing the gel that now surrounds them back into the mixture. Simmer, stirring occasionally, until peel is soft, approximately <time>1 hour</time>.</step>
+		<step>Raise heat and stir in the sugar. Return to a boil, stirring constantly to avoid scorching the bottom and ensure the sugar dissolves fully.</step>
+		<step>Reduce heat and boil gently, stirring constantly, until the mixture reaches a temperature of <temperature>221</temperature> and passes the <procedure>gel test</procedure>.</step>
+		<step>Remove from heat and ladle into sterilized canning jars. Heat process 10 minutes to seal.</step>
+	</steps>
+	<storage>Keeps sealed at least 1 year.</storage>
+</recipe>

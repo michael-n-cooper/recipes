@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Almond Crescents</title>
+	<meta>
+		<source>Erin Jessee</source>
+		<dishtype>Cookies</dishtype>
+	</meta>
+	<ingredients>
+		<yield>40 cookies</yield>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>flour</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>almonds</item>
+			<preprep>ground</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>butter</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2/3</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1 1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>almond extract</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+		<ingredient>
+			<variant>confectioner's</variant>
+			<item>sugar</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Preheat oven to <temperature>350</temperature>.</step>
+		<step><procedure>Sift</procedure> together the flour and almonds.</step>
+		<step><procedure>Cream</procedure> the butter and sugar until fluffy. Stir in the almond extract and vanilla extract.</step>
+		<step>Stir in the flour and almonds until an even dough forms.</step>
+		<step>Shape 1-tbs balls of dough into a tight ball, then roll between just the palms to form a log with a natural taper. Bend into crescents and place 1 inch apart on an ungreased <equipment>baking sheet</equipment>.</step>
+		<step><procedure>Bake</procedure> <time>15 - 20 minutes</time> until set and very lightly browned. Gently remove to a rack to cool.</step>
+		<step>When still slightly warm, roll crescents thoroughly but gently in confectioner's sugar, then shake off excess.</step>
+	</steps>
+	<storage>Store tightly covered up to one week.</storage>
+</recipe>
+

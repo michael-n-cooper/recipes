@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Corn Tortillas</title>
+	<meta>
+		<cuisine>Mexican</cuisine>
+		<dishtype>Breads</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>2</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>masa harina</item>
+		</ingredient>
+		<ingredient>
+			<quantity approximate="true">
+				<value>1 1/8</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>water</item>
+		</ingredient>
+		<ingredient optional="true">
+			<quantity>
+				<value>1/3</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Place a griddle over high heat.</step>
+		<step>Mix together the ingredients, then knead a few minutes to form a smooth dough - stiff but not crumbly. Add a little more water if necessary to correct the texture.</step>
+		<step>Divide into 12 balls. Keep unused dough covered while working.</step>
+		<step>Using a tortilla press or rolling pin, press each ball between sheets of wax paper into a tortilla about 6 inches in diameter. Peel off the paper.</step>
+		<step>Place tortilla on griddle and cook <time>15 seconds</time>. Flip and cook another <time>15 seconds</time>. Flip again and cook a final <time>15 seconds</time>. Griddle should be hot enough that brown spots will appear but the tortilla will not burn. Tortilla will puff up when it is done. Remove from griddle.</step>
+		<step>Keep finished tortillas covered until all are done. Serve immediately.</step>
+	</steps>
+</recipe>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Eggnog</title>
+	<meta>
+		<dishtype>Beverages</dishtype>
+		<comment>This appears to be a pretty traditional eggnog, I'm recording it here mainly for the proportions I like.</comment>
+	</meta>
+	<ingredients>
+		<yield>12 servings</yield>
+		<ingredient>
+			<quantity>
+				<value>6</value>
+			</quantity>
+			<item>eggs</item>
+			<preprep>separated</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/8</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3/4</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1 1/2</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>Dark rum or brandy</item>
+			<note>This can be any non-flavoured 40-proof spirit. Rum, brandy, bourbon, and whisky are traditional, depending on who you ask. Many recipes call for mostly brandy or bourbon and a bit of rum.</note>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>4</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>milk</item>
+			<note>This is probably meant to be whole milk. For best results, substitute an appropriate amount of cream to yield the butterfat content of whole milk.</note>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+		<ingredient_choice>
+			<ingredient>
+				<quantity>
+					<value>1/2</value>
+					<unit>tsp</unit>
+				</quantity>
+				<item>nutmeg</item>
+				<preprep>ground</preprep>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1/8</value>
+					<unit>tsp</unit>
+				</quantity>
+				<item>mace</item>
+			</ingredient>
+		</ingredient_choice>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1 1/2</value>
+				<unit>cups</unit>
+			</quantity>
+			<variant>whipping</variant>
+			<item>cream</item>
+		</ingredient>
+		<ingredient>
+			<item>nutmeg</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Beat egg yolks with salt and 1/2 cup sugar until they form a ribbon.</step>
+		<step>Slowly beat in the spirit, then the milk. Slow the beater as it becomes more liquid, to avoid splashing. Add vanilla and nutmeg.</step>
+		<step>Refrigerate overnight in a sealed container to let flavours blend and mature.</step>
+		<step>Just before serving, whip the egg whites with the 1/4 cup  sugar until stiff and fold into the milk mixture. Whip the cream until stiff and fold it into the mixture.</step>
+	</steps>
+	<serving>Serve in a punch bowl. Ladle into cups and grate a small sprinkle of nutmeg on top. The nutmeg is important as the aroma accentuates the flavour when drinking.</serving>
+</recipe>

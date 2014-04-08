@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Gingerbread Cookies</title>
+	<meta>
+		<dishtype>Desserts</dishtype>
+		<dishtype>Cookies</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity approximate="true">
+				<value>4 1/2</value>
+				<unit>cups</unit>
+			</quantity>
+			<variant>all purpose</variant>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>baking soda</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3</value>
+				<unit>tbs</unit>
+			</quantity>
+			<variant>ground</variant>
+			<item>ginger</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<variant>ground</variant>
+			<item>nutmeg</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<variant>ground</variant>
+			<item>cinnamon</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>molasses</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>water</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>vegetable shortening</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Preheat the oven to <temperature>375</temperature>.</step>
+		<step>Sift together the flour, baking soda, salt, and spices.</step>
+		<step>Combine the molasses, sugar, and water and heat in a <equipment>saucepan</equipment> until the sugar dissolves.</step>
+		<step>Remove from heat. Add the shortening and allow it to melt.</step>
+		<step>Add flour mixture to the sugar mixture and mix to a stiff but smooth dough, pliable but not sticky. Add more flour if necessary. Knead briefly to ensure it is well blended and of the proper consistency.</step>
+		<step>Roll out thinly while still warm and cut into cookies. Dough will stiffen as it cools but can be rewarmed to make it easier to work. However, do not over-warm so as not to cook the dough.</step>
+		<step>Bake on a lightly greased cookie sheet about <time>8 minutes</time>, until evenly cooked and beginning to brown.</step>
+		<step>Slide off cookie sheet and cool on a rack.</step>
+	</steps>
+	<variation>
+		<label>Gingerbread house</label>
+		<steps>
+			<step>Roll dough about 1/8 inch thick, or thicker for stonger walls, directly on cookie sheet. It is important to roll the dough as evenly as possible so the dough will expand evenly.</step>
+			<step>Place pattern pieces on the dough, leaving 1 inch space between, and cut out. Remove the trimmings.</step>
+			<step>Bake about 12 minutes, until well done but not overly brown.</step>
+			<step>Remove carefully to a rack, making sure not to distort the piece, and let cool.</step>
+		</steps>
+	</variation>
+</recipe>

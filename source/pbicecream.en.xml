@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Peanut Butter Cup Ice Cream</title>
+	<meta>
+		<source>Marion Cunningham: The Fannie Farmer Cookbook, 13th Edition (1994: Knopf)</source>
+		<dishtype>Desserts</dishtype>
+		<dishtype>Ice Cream</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+			</quantity>
+			<item>eggs</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>milk</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3/4</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>fake peanut butter (the sweetened kind)</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1 1/2</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>cream</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>peanut butter cups, chopped (4 oz)</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Combine sugar and eggs and beat until well mixed.</step>
+		<step>Heat the milk, then add slowly to the egg mixture, beating well. Return the whole mixture to the pot and cook, stirring constantly, until it thickens and the temperature is between <temperature>170</temperature> and <temperature>180</temperature>. Do not let it exceed <temperature>180</temperature> or the eggs will scramble.</step>
+		<step>Mix the peanut butter into the milk mixture. Strain into a bowl and cool.</step>
+		<step>Add the cream and vanilla extract. Refrigerate until cold.</step>
+		<step>Freeze in an <equipment>ice cream freezer</equipment>. When it is mostly frozen, add the chopped peanut butter cups and allow the mixer to stir them in.</step>
+		<step>Transfer to a freezer container and freeze until solid.</step>
+	</steps>
+</recipe>

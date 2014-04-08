@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Ken Cooper's Whole Wheat Bread</title>
+	<meta>
+		<source>Ken Cooper</source>
+		<dishtype>Breads</dishtype>
+	</meta>
+	<ingredients>
+		<yield>2 loaves</yield>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>4 3/4</value>
+				<unit>cups</unit>
+				<altmeasure>
+					<quantity>
+						<value>2</value>
+						<unit>lbs</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>hard red</variant>
+			<item>wheat berries</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1 1/2</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>yeast</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>water</item>
+			<preprep>lukewarm</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>water</item>
+			<preprep>hot</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/3</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>milk powder</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/3</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>oil</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/3</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>honey</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+			</quantity>
+			<item>egg</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Grind the wheat into flour.</step>
+		<step>Dissolve the yeast in the warm water with the sugar.</step>
+		<step>Add enough flour to the yeast to make a thick batter. Add the remaining ingredients and the rest of the flour.</step>
+		<step>
+			<procedure>Knead</procedure> dough a couple minutes, sprinkling work surface lightly with extra flour as needed to prevent sticking. Let dough rest, covered, about <time>10 minutes</time> to allow water to absorb. Dough will become stiffer.</step>
+		<step>Continue kneading about <time>10 minutes</time>, until dough is supple, elastic, and bounces back when pressed.</step>
+		<step>Add about 1/2 tsp oil to a clean bowl that is at least three times the volume of the dough. Place dough upside down in the bowl, coat with the oil, then flip dough over to coat the underside. Cover bowl and let dough rise in a warm place until doubled in bulk, about <time>45 minutes</time>.</step>
+		<step>Turn dough out and knead gently a couple times to deflate redistribute the yeast. Don't knead too roughly, though, think of tiny air pockets in the dough that you don't want to lose. Repeat step 6 for a second rising until doubled in bulk, about <time>30 minutes</time>.</step>
+		<step>Turn dough out again and knead gently to deflate. Divide into two and shape into loaves. Cover and let rise about <time>10 minutes</time>.</step>
+		<step>Preheat the oven to <temperature>325</temperature>. Put the risen dough in the oven and immediately turn the oven down to <temperature>300</temperature>. Bake about <time>45 to 50 minutes</time>, until bread feels solid to the touch.</step>
+		<step>Take bread out of the oven, remove from the pan, and cool completely on a rack before slicing.</step>
+	</steps>
+</recipe>

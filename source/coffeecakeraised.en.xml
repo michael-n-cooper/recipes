@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Raised Coffee Cake</title>
+	<meta>
+		<source>Marion Cunningham: The Fannie Farmer Cookbook, 13th Edition (1994: Knopf) (adapted)</source>
+		<dishtype>Breakfast</dishtype>
+		<occasion>Sunday Brunch</occasion>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>milk</item>
+			<preprep>scalded</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>5</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>butter</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>yeast</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>water</item>
+			<preprep>lukewarm</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+			</quantity>
+			<item>eggs</item>
+			<preprep>well beaten</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2 1/2</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1 1/2</value>
+				<unit>cups</unit>
+			</quantity>
+			<item><reciperef ref="streusel">streusel</reciperef></item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Mix the milk, sugar, butter, and salt in a large bowl and let cool until lukewarm.</step>
+		<step>Stir the yeast into the warm water and let dissolve <time>5 minutes</time>.</step>
+		<step>Add the yeast mixture, eggs, and flour to the milk and beat well.</step>
+		<step>Cover and set aside to rise until double in bulk, about <time>2 hours</time>.</step>
+		<step>Stir down the dough and beat thoroughly. Spread about half of it in a greased <equipment>9-inch tube pan</equipment>. Sprinkle with about 2/3 of the streusel, then cover with the remaining dough. Stir slighly to distribute the streusel in streaks through the cake, but don't over mix.</step>
+		<step>Sprinkle the remaining streusel over the top of the cake, set aside to raise until double again, about <time>1 hour</time>.</step>
+		<step>Bake at <temperature>350</temperature>F for about <time>45 minutes</time>, until brown and done inside. Cool on a rack.</step>
+	</steps>
+</recipe>

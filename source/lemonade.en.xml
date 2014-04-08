@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Lemonade</title>
+	<meta>
+		<source>Marion Cunningham: The Fannie Farmer Cookbook, 13th Edition (1994: Knopf) (adapted)</source>
+		<dishtype>Beverages</dishtype>
+		<comment>Although it's sacreligious to those who live in the south, I use bottled lemon juice, which I find better than the dessicated lemons available in the north.</comment>
+		<processnote>Ingredients can be multiplied as many times as desired for more servings.</processnote>
+	</meta>
+	<ingredients>
+		<yield>1 serving</yield>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>2</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>lemon juice</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2 to 2</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item><reciperef ref="sugarsyrup">heavy syrup</reciperef></item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>water</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Combine ingredients.</step>
+	</steps>
+	<storage>Store covered in the refrigerator.</storage>
+</recipe>

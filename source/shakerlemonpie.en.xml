@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Shaker Lemon Pie</title>
+	<meta>
+		<dishtype>Desserts</dishtype>
+		<dishtype>Pies</dishtype>
+		<processnote>About half the recipes I found call for the butter and flour and half didn't. Using them yields a richer pie that is more tolerant of overbaking.</processnote>
+	</meta>
+	<ingredients>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>2</value>
+				<altmeasure>
+					<quantity>
+						<value>360</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>lemons</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>450</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>2</value>
+						<unit>cups</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>tsp</unit>
+				<altmeasure>
+					<quantity>
+						<value>2</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>4</value>
+				<altmeasure>
+					<quantity>
+						<value></value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>eggs</item>
+		</ingredient>
+		<ingredient optional="true">
+			<quantity>
+				<value>50</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>4</value>
+						<unit>tbs</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>butter</item>
+		</ingredient>
+		<ingredient optional="true">
+			<quantity>
+				<value></value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>3</value>
+						<unit>tbs</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+			</quantity>
+			<item><reciperef ref="piecrust">Pastry for 9-inch two-crust pie</reciperef></item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Halve lemons lengthwise. Slice them crosswise paper thin, removing any seeds on the way and discarding ends that contain no flesh.</step>
+		<step>Put slices in a bowl. Add the sugar, and stir well to combine.</step>
+		<step>Let sit <time>1 hour</time>, stir again, then cover and let macerate at least <time>24 hours</time>.</step>
+		<step>Whisk eggs until frothy, and whisk in salt. If using, melt and cool the butter, then whisk butter and flour into the egg mixture until evenly combined.</step>
+		<step>Stir together egg and lemon mixtures.</step>
+		<step>Preheat oven to <temperature>425</temperature>.</step>
+		<step>Line pie plate with a crust, pour in mixture, and top with another crust. Crimp edges and vent.</step>
+		<step>Bake <time>15 minutes</time>. Reduce oven to <temperature>350</temperature> and bake another <time>35 to 40</time> minutes. Pie is done when a knife inserted into the filling comes out clean.</step>
+		<step>Cool on a rack.</step>
+	</steps>
+	<serving>Serve at room temperature.</serving>
+	<storage>Refrigerate unused portions up to one week.</storage>
+</recipe>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Almond Biscotti</title>
+	<meta>
+		<dishtype>Cookies</dishtype>
+		<occasion>Tea</occasion>
+		<occasion>Coffee</occasion>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>3</value>
+				<altmeasure>
+					<quantity>
+						<value>171</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>eggs</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>175</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>7/8</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>10</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>2</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>almond extract</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2.5</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1/2</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>300</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>2 1/4</value>
+						<unit>cups</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>all purpose</variant>
+			<item>flour</item>
+		</ingredient>
+		<ingredient optional="true">
+			<quantity>
+				<value>50</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1/2</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>ground</variant>
+			<item>almonds</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>10</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>2</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>baking powder</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1.5</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1/4</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>150</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>blanched</variant>
+			<item>almonds</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Preheat oven to <temperature>325</temperature>. Grease or line with parchment a <equipment>cookie sheet</equipment>.</step>
+		<step><procedure>Whip</procedure> together eggs and sugar <time>5 minutes</time> until it forms a ribbon. Stir in the extracts.</step>
+		<step>Sift together the flour, ground almonds, salt, and baking powder.</step>
+		<step>Add the flour mixture and almonds to the egg mixture and stir together until evenly combined. Mixture should be fairly moist and somewhat sticky.</step>
+		<step>Turn dough onto a heavily floured board. With floured hands, form dough into a log about 30 cm long, or into one or more logs appropriate to the size of the cookie sheet and size of biscotti desired. Place logs on the cookie sheet, well separated.</step>
+		<step><procedure>Bake</procedure> about <time>30 minutes</time> until cookie is firm.</step>
+		<step>Cool in a wire rack about <time>10 minutes</time> until firm enough to slice.</step>
+		<step>Slice log diagonally with a <equipment>serrated knife</equipment> 1 cm thick. Slice carefully, particularly through almonds, to avoid tearing the biscuit.</step>
+		<step>Place slices on cookie sheet and return to oven. Bake for <time>8 minutes</time>, turn over, and bake another <time>8 minutes</time>, until golden brown on both sides.</step>
+		<step>Cool on a wire rack until fully cooled and crisp.</step>
+	</steps>
+	<serving>Serve with coffee or tea. Biscuits are dunked in the beverage to soften slightly.</serving>
+	<variation>
+		<label>Hazelnut Biscotti</label>
+		<steps>
+			<step>Substitute <ingredient>
+				<quantity>
+					<value>30</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>2</value>
+							<unit>tbs</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>Frangelico</item>
+			</ingredient> for the extracts and hazelnuts for the almonds.</step>
+		</steps>
+	</variation>
+	<storage>Store airtight up to 6 months.</storage>
+</recipe>

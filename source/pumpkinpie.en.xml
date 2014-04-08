@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Pumpkin Pie</title>
+	<meta>
+		<dishtype>Desserts</dishtype>
+		<dishtype>Pies</dishtype>
+		<occasion>Thanksgiving</occasion>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>1 1/4</value>
+				<unit>cup</unit>
+			</quantity>
+			<variant>brown</variant>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1 1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>ground cinnamon</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>ground ginger</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>ground cloves</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>ground mace</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1 1/2</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>cooked puréed pumpkin</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1 1/2</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>evaporated milk</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+			</quantity>
+			<item>eggs</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Prepare a <reciperef ref="piecrust">crust</reciperef> for a 9-inch 1-crust pie.</step>
+		<step>Preheat the oven to <temperature>425</temperature>.</step>
+		<step>Beat all ingredients together until smooth. Pour into the prepared crust.</step>
+		<step>Bake <time>15 minutes</time>, then lower heat to <temperature>325</temperature> and bake about <time>30 minutes</time> longer, until filling is almost firm but still wobbly in the center.</step>
+		<step>Handle carefully when removing from the oven so as not to disturb the filling. Cool completely before serving.</step>
+	</steps>
+</recipe>

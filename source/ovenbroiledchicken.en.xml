@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Oven-Broiled Chicken</title>
+	<meta>
+		<source>Fannie Farmer</source>
+		<dishtype>Main Dishes</dishtype>
+		<processnote>This is an excellent roast chicken that is faster than roasting the whole bird.</processnote>
+	</meta>
+	<ingredients>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>1</value>
+			</quantity>
+			<item>chicken</item>
+		</ingredient>
+		<ingredient>
+			<quantity approximate="true">
+				<value>1 1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity approximate="true">
+				<value>1 1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<variant>black</variant>
+			<item>pepper</item>
+			<preprep>ground</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity approximate="true">
+				<value>3</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>oil</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Preheat the oven to <temperature>400</temperature>.</step>
+		<step>Joint the chicken.</step>
+		<step>Toss together the chicken, salt, pepper, and oil. Arrange on a broiling pan with the breasts and wings in the middle, legs on the outside.</step>
+		<step>Roast approximately <time>40 minutes</time>, until breast registers <temperature>170</temperature>.</step>
+		<step>Remove from oven and let stand 10 minutes.</step>
+	</steps>
+</recipe>

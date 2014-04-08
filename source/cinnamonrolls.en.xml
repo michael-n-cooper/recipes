@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Cinnamon Rolls</title>
+	<meta>
+		<dishtype>Breads</dishtype>
+		<dishtype>Desserts</dishtype>
+		<dishtype>Brunch</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>recipe</unit>
+			</quantity>
+			<item><reciperef ref="sweetbread">Sweet Bread</reciperef></item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2/3</value>
+				<unit>cup</unit>
+			</quantity>
+			<variant>white</variant>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2/3</value>
+				<unit>cup</unit>
+			</quantity>
+			<variant>brown</variant>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>cinnamon</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>6</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>butter</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Prepare the sweet roll dough through its first fermentation.</step>
+		<step>Mix together the sugars and cinnamon, and soften the butter.</step>
+		<step>Roll the dough out into a rectangle 1/8 inch thick, approximately 30 inches wide by 15 inches tall.</step>
+		<step>Spread the butter evenly over the dough, then sprinkle the sugar mixture evenly over it.</step>
+		<step>Roll as for a jelly roll, starting at the bottom. Keep the roll tight especially at the beginning. When it is almost complete, moisten the exposed end with water and finish rolling to seal.</step>
+		<step>Cut the roll into 1.5- to 2-inch widths. Place them cut side up in a pan with 2-inch sides, somewhat close together but not touching.</step>
+		<step>Let proof until double in bulk, approximately <time>1.5 hour</time>. Preheat oven to <temperature>350</temperature>.</step>
+		<step>Bake about <time>30 minutes</time>.</step>
+		<step>Cool. Cut the rolls apart and serve.</step>
+	</steps>
+	<serving>Frost with <reciperef ref="creamcheesefrosting">Cream Cheese Frosting</reciperef> if desired.</serving>
+</recipe>

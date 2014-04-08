@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<?xml-stylesheet type="text/css" href="recipes.css"?>
+<recipe>
+	<title>Almond Paste</title>
+	<meta>
+		<source>Fanny Farmer</source>
+		<dishtype>Ingredients</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>water</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2 1/2</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>pound</unit>
+			</quantity>
+			<item>almonds</item>
+			<preprep>blanched</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1 1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>almond extract</item>
+			<note>Almond extract is needed because commercial almond paste includes a small quantity of bitter almonds, which are not available in North America.</note>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Put the sugar and water in a heavy pot and cook as for candy to the soft-ball state (<temperature>240</temperature>).</step>
+		<step>Meanwhile, put the almonds through the fine blade of a meat grinder 4 times, to grind fine and release the oil. The first time through, add them a few at a time to avoid jamming the grinder.</step>
+		<step>Add the ground almonds to the sugar mixture with the almond extract, stirring until creamy.</step>
+		<step>Turn out the almond mixture onto a marble surface. Let cool.</step>
+		<step>Knead the almond mixture together until smooth.</step>
+		<step>Wrap in a damp cloth and put in an airtight container. Let mellow refrigerated one week before using.</step>
+	</steps>
+	<storage>Store airtight in the refrigerator, or for longer periods in the freezer.</storage>
+</recipe>

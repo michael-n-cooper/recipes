@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Fluffy Butter Frosting</title>
+	<meta>
+		<dishtype>Frostings</dishtype>
+	</meta>
+	<group>
+		<label>Meringue</label>
+		<ingredients>
+			<ingredient>
+				<quantity>
+					<value>1</value>
+					<unit>cup</unit>
+				</quantity>
+				<variant>confectioner's</variant>
+				<item>sugar</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>4</value>
+					<unit>tsp</unit>
+				</quantity>
+				<item>meringue powder</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1/4</value>
+					<unit>cup</unit>
+				</quantity>
+				<item>water</item>
+			</ingredient>
+		</ingredients>
+		<steps>
+			<step>Sift together confectioner's sugar and meringue powder.</step>
+			<step>Stir in water to make a paste.</step>
+			<step><procedure>Whip</procedure> until fluffy, about <time>5 minutes</time>.</step>
+		</steps>
+	</group>
+	<group>
+		<label>Buttercream</label>
+		<ingredients>
+			<ingredient>
+				<quantity>
+					<value>4</value>
+					<unit>oz</unit>
+				</quantity>
+				<variant>unsalted</variant>
+				<item>butter</item>
+				<preprep>at cool room temperature</preprep>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1</value>
+					<unit>cup</unit>
+				</quantity>
+				<variant>confectioner's</variant>
+				<item>sugar</item>
+			</ingredient>
+		</ingredients>
+		<steps>
+			<step>Cream together the butter and sugar.</step>
+			<step><procedure>Beat</procedure> until fluffy, about <time>5 minutes</time>.</step>
+		</steps>
+	</group>
+	<steps>
+		<step><procedure>Fold</procedure> together the two mixtures gently until evenly mixed.</step>
+	</steps>
+	<storage>Store airtight in the refrigerator up to 2 days. Freeze for longer storage. Bring to room temperature before using.</storage>
+</recipe>

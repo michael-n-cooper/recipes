@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Chocolate Chip Cookies</title>
+	<meta>
+		<dishtype>Desserts</dishtype>
+		<dishtype>Cookies</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>2 1/4</value>
+				<unit>cups</unit>
+				<altmeasure>
+					<quantity>
+						<value>12</value>
+						<unit>oz</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>all purpose</variant>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>baking soda</item>
+		</ingredient>
+		<ingredient optional="true">
+			<quantity>
+				<value>4</value>
+				<unit>oz</unit>
+				<altmeasure>
+					<quantity>
+						<value>1</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>walnuts</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>lb</unit>
+			</quantity>
+			<item>butter</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<variant>white</variant>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<variant>dark brown</variant>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+			</quantity>
+			<item>eggs</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1 1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>12</value>
+				<unit>oz</unit>
+				<altmeasure>
+					<quantity>
+						<value>2</value>
+						<unit>cups</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>chocolate chips</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Preheat oven to <temperature>375</temperature>.</step>
+		<step>Grease <equipment>cookie sheets</equipment> or line with parchment paper.</step>
+		<step>Chop walnuts to the same size as the chocolate chips.</step>
+		<step><procedure>Sift</procedure> together flour, salt, and baking soda.</step>
+		<step><procedure>Cream</procedure> butter and sugars together until fluffy, about <time>5 minutes</time>.</step>
+		<step>Add eggs and vanilla extract and beat again until fluffy, about <time>2 minutes</time>.</step>
+		<step>Stir in the flour mixture until just combined.</step>
+		<step>Add the chocolate chips and nuts and stir to incorporate well.</step>
+		<step>Scoop 1-tbs portions onto the cookie sheets, placed about 1 inch apart.</step>
+		<step>Bake <time>8 to 10 minutes</time>, until they begin to turn light brown at edges.</step>
+		<step>Cool <time>1 minute</time>, then slide off cookie sheet onto a wire rack.</step>
+	</steps>
+	<storage>When fully cool, store airtight up to one day. For longer storage, freeze.</storage>
+</recipe>

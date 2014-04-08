@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Crèpes</title>
+	<meta>
+		<dishtype>Breakfast</dishtype>
+		<dishtype>Leftovers</dishtype>
+		<dishtype>Desserts</dishtype>
+		<processnote>I often double this recipe. It is useful to have two skillets going at once to speed up the process.</processnote>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient optional="true">
+			<quantity>
+				<value>1</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>sugar</item>
+			<note>Use sugar if making breakfast or dessert crèpes</note>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+			</quantity>
+			<item>eggs</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1 1/2</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>milk</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>butter</item>
+			<preprep>melted</preprep>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Mix flour, salt, and sugar.</step>
+		<step>Beat eggs with 1/2 cup of the milk. Add to the flour mixture and beat well to make a smooth paste. Alternatively, add the eggs and milk to a blender, then gradually add the flour mixture while the machine is running.</step>
+		<step>Blend in the rest of the milk gradually. The batter should have the texture of heavy cream.</step>
+		<step>Pour in the melted butter, whisking constantly.</step>
+		<step>Let batter rest for 1/2 hour to hydrate fully.</step>
+		<step>Heat an <equipment>8-inch skillet</equipment> over medium high heat.</step>
+		<step>When skillet is hot, brush lightly with oil. Pour in about 3 - 4 tbs of the batter, tilting the skillet so the batter covers the entire bottom surface in a thin layer. Use as little batter as possible to just coat the bottom.</step>
+		<step>Cook for a minute or two until bottom is brown and edges lift from pan. Flip the crèpe and cook the other side about 30 seconds longer.</step>
+		<step>Remove from pan and keep covered with a towel while making the rest.</step>
+	</steps>
+	<storage>Crèpes freeze quite well. Put them in a plastic freezer bag in twos separated by plastic wrap.</storage>
+</recipe>

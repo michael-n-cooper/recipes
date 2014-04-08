@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Meringue Buttercream</title>
+	<meta>
+		<dishtype>Frostings</dishtype>
+		<dishtype>Buttercreams</dishtype>
+		<processnote>This Italian meringue buttercream makes a smooth, light, not too sweet buttercream without the grittiness of confectioner's sugar icings. It can be made with all butter or all shortening, but the blend optimizes flavour and texture. This is stable enough for basic piping.</processnote>
+	</meta>
+	<ingredients>
+		<ingredient_choice>
+			<ingredient>
+				<quantity>
+					<value>100</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>3.5</value>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>egg whites</item>
+			</ingredient>
+			<ingredient_group>
+				<ingredient>
+					<quantity>
+						<value>@@</value>
+						<unit>g</unit>
+						<altmeasure>
+							<quantity>
+								<value>7.5</value>
+								<unit>tsp</unit>
+							</quantity>
+						</altmeasure>
+					</quantity>
+					<item>meringue powder</item>
+				</ingredient>
+				<ingredient>
+					<quantity>
+						<value></value>
+						<unit>g</unit>
+						<altmeasure>
+							<quantity>
+								<value>7.5</value>
+								<unit>tbs</unit>
+							</quantity>
+						</altmeasure>
+					</quantity>
+					<item>water</item>
+				</ingredient>
+			</ingredient_group>
+		</ingredient_choice>
+		<ingredient>
+			<quantity>
+				<value>300</value>
+				<unit>g</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>100</value>
+				<unit>g</unit>
+			</quantity>
+			<item>water</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>225</value>
+				<unit>g</unit>
+			</quantity>
+			<variant>unsalted</variant>
+			<item>butter</item>
+			<preprep>at cool room temperature</preprep>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>225</value>
+				<unit>unit</unit>
+			</quantity>
+			<item>vegetable shortening</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/8</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient_choice>
+			<ingredient>
+				<quantity>
+					<value>2</value>
+					<unit>tsp</unit>
+				</quantity>
+				<item>vanilla extract</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>2</value>
+					<unit>tbs</unit>
+				</quantity>
+				<item>liqueur</item>
+			</ingredient>
+		</ingredient_choice>
+	</ingredients>
+	<steps>
+		<step>Ensure all ingredients are at room temperature.</step>
+		<step><procedure>Beat</procedure> the egg whites, or meringue powder and water, to soft peaks.</step>
+		<step>Meanwhile, bring the sugar and water to a boil and cook to <temperature>230</temperature>. As the sugar approaches the target temperature, finish beating the egg whites to stiff peaks.</step>
+		<step>While beating the egg whites constantly, pour the sugar syrup slowly into them, then add the salt.</step>
+		<step>Reduce spead and continue to beat until the meringue cools to room temperature, at least <time>10 minutes</time>.</step>
+		<step>Increase speed and continue to beat while adding the butter and / or shortening, one tablespoon at a time.</step>
+		<step>Beat in the liquid flavouring.</step>
+		<step>If the mixture appears curdled, beat in a small amount of water.</step>
+		<step>Slow down the beater and stir a few minutes to work out large air bubbles.</step>
+	</steps>
+	<variation>
+		<label>Increased Stability Buttercream</label>
+		<processnote>This makes a more stable buttercream for better shape retention, but has more presence of egg white.</processnote>
+		<steps>
+			<step>Increase the egg white to 150 g (5).</step>
+			<step>Cook the syrup to <temperature>240</temperature>. Proceed with the rest of the recipe.</step>
+		</steps>
+	</variation>
+	<variation>
+		<label>Decorating Buttercream</label>
+		<processnote>This makes a more denser buttercream for icing flowers. It uses more egg white for stability and a Swiss meringue.</processnote>
+		<steps>
+			<step>Increase the egg white to 150 g (5). Omit the water.</step>
+			<step>Instead of beating the egg whites and pouring in a sugar syrup, add the sugar directly too the egg whites in double boiler. Beat while heating over hot water until it turns white, thick, and <temperature>160</temperature>.</step>
+			<step>Transfer to a mixer, cool, and proceed with the rest of the recipe.</step>
+		</steps>
+	</variation>
+	<storage>Store airtight in the refrigerator up to 2 days. Freeze for longer storage. Bring to room temperature before using.</storage>
+</recipe>

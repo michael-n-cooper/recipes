@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Apple Pie</title>
+	<meta>
+		<source>Marion Cunningham: The Fannie Farmer Cookbook, 13th Edition (1994: Knopf) (adapted)</source>
+		<dishtype>Desserts</dishtype>
+		<dishtype>Fruit Desserts</dishtype>
+		<dishtype>Pies</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>4</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>apples</item>
+			<note>(about 5-6 large)</note>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>lemon juice</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3/4 to1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>cornstarch</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>cinnamon</item>
+			<note>I use Ceylon cinnamon, which is milder and more complex than Cassia (the standard grocery store kind). Consider using 3/4 tsp Cassia cinnamon.</note>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Prepare a crust for a 9-inch 2-crust pie. Preheat the oven to 425° F.</step>
+		<step>Peel, core, and chop the apples to make about 4 cups - err on the side of too much. Toss them with the lemon juice to keep them from browning.</step>
+		<step>Blend together the remaining ingredients, making sure to get rid of the lumps in the cornstarch. Start with the smaller amount of sugar.</step>
+		<step>Add the sugar mixture to the apples and combine well. Taste for sweetness and add more sugar if needed. Cortland or Macintosh apples may not need much more sugar, tarter apples like Granny Smith take more. I use Granny Smith apples and end up with about 1 1/8 cups sugar. Keep in mind that everything is a little less bland and sweet when raw and sweetens when baking, so don't add too much. A slightly tart pie can be corrected with ice cream, but a too-sweet one can't.</step>
+		<step>Place the apple mixture in the pie crust, seal, gild with a sugar crust if desired, and vent.</step>
+		<step>Bake 10 minutes, then reduce the heat to 350° F and bake 30-40 minutes more. The apples should be tender and the filling should just have started to bubble. Don't let it bake longer than that, the more it bakes the more water cooks out of the apples, making a watery filling. If possible, allow pie to cool completely before serving so filling can set. You can reheat it after that and the filling won't go watery.</step>
+	</steps>
+</recipe>

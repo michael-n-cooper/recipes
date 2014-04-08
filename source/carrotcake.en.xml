@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Carrot Cake</title>
+	<meta>
+		<source>Claiborn, Craig: The New York Times Cookbook (New York: Harper &amp; Row, 1990)</source>
+		<dishtype>Desserts</dishtype>
+		<dishtype>Cakes</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>3/4</value>
+				<unit>cup</unit>
+				<altmeasure>
+					<quantity>
+						<value>90</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>walnuts, chopped</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>1 1/2</value>
+				<unit>lbs</unit>
+				<altmeasure>
+					<quantity>
+						<value>700</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>carrots</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>cups</unit>
+				<altmeasure>
+					<quantity>
+						<value>450</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>4</value>
+			</quantity>
+			<item>eggs</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3/4</value>
+				<unit>cup</unit>
+				<altmeasure>
+					<quantity>
+						<value>150</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>corn</variant>
+			<item>oil</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>cups</unit>
+				<altmeasure>
+					<quantity>
+						<value>250</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>all-purpose</variant>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1 1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>baking powder</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>baking soda</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>cinnamon</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/8</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Preheat the oven to <temperature>350</temperature>.</step>
+		<step>Toast the walnuts about <time>10 minutes</time>, until they smell fragrant and are lightly browned. Cool.</step>
+		<step>Grate the carrots into fine shreds. This should yield about 4 cups packed.</step>
+		<step>Butter the inside of three <equipment>9-inch round cake pans</equipment>. Line each with a round of wax paper. Butter and flour the round.</step>
+		<step>Sift together the flour, baking powder, baking soda, cinnamon, and salt.</step>
+		<step>Beat the sugar, eggs, and vanilla extract until thickened. Beat in the oil gradually until <procedure>emulsified</procedure>.</step>
+		<step>Fold the dry ingredients into the egg mixture. Fold in the carrots and walnuts just until blended.</step>
+		<step>Distribute the batter among the three cake pans. Bake <time>35 to 40 minutes</time>, until the tops spring back when gently pressed.</step>
+		<step>Remove from the pans and cool on a wire rack. Fill and frost with <reciperef ref="creamcheesefrosting">Cream Cheese Frosting</reciperef>.</step>
+	</steps>
+</recipe>

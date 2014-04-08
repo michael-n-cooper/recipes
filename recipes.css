@@ -1,0 +1,18 @@
+ingredients {
+	display: table;
+}
+ingredient {
+	display: table-row;
+}
+quantity, item {
+	display: table-cell;
+}
+value, unit {
+	display: inline;
+}
+steps {
+	display: block;
+}
+step {
+	display: list-item;
+}

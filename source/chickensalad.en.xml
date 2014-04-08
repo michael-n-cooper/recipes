@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Chicken Salad</title>
+	<meta>
+		<dishtype>Leftovers</dishtype>
+		<dishtype>Salads</dishtype>
+		<comment>This recipe uses yogurt instead of the mayonnaise that is traditional in chicken salads, and therefore is much lower in fat. Because the yogurt has a natural tang, there is no need to add vinegar.</comment>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>chicken</item>
+			<preprep>cooked</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>onion</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>celery</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>yogurt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tbs</unit>
+			</quantity>
+			<variant>Dijon</variant>
+			<item>mustard</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>pepper</item>
+			<preprep>freshly ground</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity approximate="true">
+				<value>1/4</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Chop the chicken into bite-sized pieces.</step>
+		<step>Finely chop the onion and celery.</step>
+		<step>Combine all the ingredients and season to taste.</step>
+	</steps>
+</recipe>

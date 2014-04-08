@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Caramel Sauce</title>
+	<meta>
+		<dishtype>Dessert Sauces</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>water</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>water</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<variant>heavy</variant>
+			<item>cream</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/8</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Add the sugar and water to a <equipment>2-quart heavy-bottomed saucepan</equipment>. Heat over high heat until boiling. Cover and boil for <time>three minutes</time>.</step>
+		<step>Uncover and continue to boil until sugar starts to color.</step>
+		<step>Meanwhile, bring cream to a simmer, then cover and keep hot.</step>
+		<step>Lower heat to medium-high and continue to cook until sugar turns light amber, not too dark to avoid bitterness. Swirl pot gently if needed to even coloring, but do not stir.</step>
+		<step>Add the two tbs water to the sugar mixture, and stir in carefully. This will lower the temperature and help protect the cream from curdling.</step>
+		<step>Add cream to sugar slowly, stirring constantly. Be careful as the extremely hot syrup will boil up high, and use a long-handled spoon to avoid the steam. Stir until sugar is fully dissolved in the cream.</step>
+		<step>Return to heat and cook, stirring constantly, until mixture reaches a temperature of <temperature>220</temperature>.</step>
+		<step>Remove from heat and stir in salt and vanilla extract.</step>
+		<step>Pour into a serving container and let cool.</step>
+	</steps>
+	<serving>Serve warm over various desserts.</serving>
+	<storage>Store covered in the refrigerator up to 2 weeks.</storage>
+</recipe>

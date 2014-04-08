@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Cassis</title>
+	<meta>
+		<dishtype>Ingredients</dishtype>
+		<dishtype>Preserves</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>1000</value>
+				<unit>g</unit>
+			</quantity>
+			<item>currants</item>
+		</ingredient>
+		<ingredient>
+			<range>
+				<quantity>
+					<value>750</value>
+					<unit>g</unit>
+				</quantity>
+				<quantity>
+					<value>2</value>
+					<unit>parts</unit>
+				</quantity>
+			</range>
+			<item>brandy</item>
+		</ingredient>
+		<ingredient>
+			<range>
+				<quantity>
+					<value>375</value>
+					<unit>g</unit>
+				</quantity>
+				<quantity>
+					<value>500</value>
+					<unit>g</unit>
+				</quantity>
+			</range>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<range>
+				<quantity>
+					<value>100</value>
+					<unit>g</unit>
+				</quantity>
+				<quantity>
+					<value>125</value>
+					<unit>g</unit>
+				</quantity>
+			</range>
+			<item>water</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Sterilize a <equipment>canning jar</equipment> large enough to hold currants and brandy.</step>
+		<step>Wash and stem currants, and remove mouldy ones.</step>
+		<step>Mash currants well.</step>
+		<step>Add currants and brandy to jar and seal.</step>
+		<step>Store in a dark place at room temperature <time>2 months</time>. Occasionally shake the contents gently.</step>
+		<step>Sterilize a <equipment>jelly bag</equipment> and drain the mixture <time>1 hour</time>.</step>
+		<step>Squeeze to remove as much liquid as possible. Reserve the solids and make jam by adding equal weight of sugar and some water.</step>
+		<step>Strain the liquid again through a double layer of <equipment>cheesecloth</equipment>.</step>
+		<step>Combine sugar and water and heat until sugar dissolves. Let cool.</step>
+		<step>Add sugar syrup to curant liquor to taste.</step>
+		<step>Bottle, seal, and mature another <time>2 months</time>.</step>
+	</steps>
+</recipe>

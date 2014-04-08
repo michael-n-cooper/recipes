@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Tamarind Concentrate</title>
+	<meta>
+		<cuisine>Thai</cuisine>
+		<cuisine>Asian</cuisine>
+		<dishtype>Ingredients</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>cups</unit>
+				<altmeasure>
+					<quantity>
+						<value>2</value>
+						<unit>parts</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>water</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>8</value>
+				<unit>oz</unit>
+				<altmeasure>
+					<quantity>
+						<value>1</value>
+						<unit>part</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>tamarind pulp</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Bring water to a boil, and pour over the tamarind pulp.</step>
+		<step>Stir well, breaking up the pulp so it can absorb the water. Let rest to hydrate, about <time>15 minutes</time>.</step>
+		<step>Strain out the seeds and skins, pressing well to extract as much of the liquid component as possible.</step>
+	</steps>
+	<storage>Store one month in the refrigerator, or freeze.</storage>
+</recipe>

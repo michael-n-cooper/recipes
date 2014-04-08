@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Yankee Corn Bread</title>
+	<meta>
+		<source>Bernard Clayton, Jr.: Bernard Clayton's New Complete Book of Breads (New York: Fireside, 1998)</source>
+		<dishtype>Breads</dishtype>
+	</meta>
+	<ingredients>
+		<yield>9 servings</yield>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>all-purpose flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>4</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>baking powder</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>yellow cornmeal</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+			</quantity>
+			<item>eggs</item>
+			<preprep>room temperature</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>milk</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>butter</item>
+			<preprep>melted</preprep>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step><procedure>Sift</procedure> together the dry ingredients.</step>
+		<step><procedure>Beat</procedure> the eggs and add the milk and butter. Add to the dry ingredients and <procedure>mix</procedure> just until moistened. Batter may be a little lumpy.</step>
+		<step>Spread evenly in a <equipment>9 x 9 baking pan</equipment>.</step>
+		<step>Preheat the oven to <temperature>425</temperature>. Let the batter rest <time>10 minutes</time> while the oven heats.</step>
+		<step><procedure>Bake</procedure> until bread is raised and golden, about <time>25 minutes</time>.</step>
+	</steps>
+	<serving>Cut into squares and serve immediately with butter.</serving>
+</recipe>

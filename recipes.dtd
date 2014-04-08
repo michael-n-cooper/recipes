@@ -1,0 +1,69 @@
+<!ENTITY % URI "CDATA">
+<!ENTITY % inline "em | reciperef">
+<!ENTITY % step "quantity | ingredient | temperature | time | equipment | procedure">
+<!ELEMENT recipe (title, meta?, ((group, group+, (steps | activity+)?) | (ingredients, (steps | activity+))), serving?, variation*, storage?)>
+<!ATTLIST recipe
+	photo %URI; #IMPLIED
+>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT meta (source?, cuisine*, dishtype*, occasion*, comment*, processnote*)>
+<!ELEMENT cuisine (#PCDATA)>
+<!ELEMENT source (#PCDATA)>
+<!ELEMENT dishtype (#PCDATA)>
+<!ELEMENT occasion (#PCDATA)>
+<!-- enrich with linking stuff -->
+<!ELEMENT comment (#PCDATA | %inline;)*>
+<!ELEMENT processnote (#PCDATA | %inline; | %step;)*>
+<!ELEMENT group (label?, comment?, processnote?, ingredients, (steps | activity+)?)>
+<!ELEMENT ingredients (yield?, (ingredient | ingredient_choice)+)>
+<!ELEMENT yield (#PCDATA)>
+<!-- enrich servings or quantity -->
+<!ELEMENT ingredient ((range? | quantity*), variant?, item, preprep?, note?)>
+<!ATTLIST ingredient
+	mainingredient (true | false) "false"
+	optional (true | false) "false"
+>
+<!ELEMENT range (quantity, quantity)>
+<!ELEMENT quantity (value?, unit?, altmeasure*)>
+<!ATTLIST quantity
+	approximate (true | false) "false"
+>
+<!ELEMENT altmeasure (quantity+)>
+<!ELEMENT value (#PCDATA)>
+<!ELEMENT unit (#PCDATA)>
+<!ELEMENT variant (#PCDATA)>
+<!ELEMENT item (#PCDATA | reciperef)*>
+<!-- enrich to reference database -->
+<!ELEMENT preprep (#PCDATA)>
+<!-- inline elements -->
+<!ELEMENT note (#PCDATA | %inline;)*>
+<!-- enrich to reference things like &quot;chopped&quot; -->
+<!ELEMENT ingredient_choice ((ingredient | ingredient_group)*)>
+<!ELEMENT ingredient_group (ingredient, ingredient+)>
+<!ELEMENT steps (step+)>
+<!ELEMENT step (#PCDATA | %step; | %inline;)*>
+<!-- inline elements, quantities, temperatures, etc. -->
+<!ATTLIST step
+	photo %URI; #IMPLIED
+>
+<!ELEMENT activity (label, comment?, processnote?, (steps+ | activity+))>
+<!ELEMENT label (#PCDATA)>
+<!ELEMENT serving (#PCDATA | %step; | %inline;)*>
+<!-- serving suggestions/instructions -->
+<!ELEMENT variation (label?, comment?, processnote?, ingredients?, (steps+ | activity+))>
+<!-- possibly same content model as step -->
+<!ELEMENT storage (#PCDATA)>
+<!ELEMENT temperature (#PCDATA)>
+<!ATTLIST temperature
+	scale (Fahrenheit | Celsius) "Fahrenheit"
+>
+<!ELEMENT time (#PCDATA)>
+<!-- equipment: oven, spatula, 9&quot; fry pan, etc. -->
+<!ELEMENT equipment (#PCDATA)>
+<!-- procedure: bake, stir-fry, etc. -->
+<!ELEMENT procedure (#PCDATA)>
+<!ELEMENT reciperef (#PCDATA)>
+<!ATTLIST reciperef
+	ref CDATA #REQUIRED
+>
+<!ELEMENT em (#PCDATA)>

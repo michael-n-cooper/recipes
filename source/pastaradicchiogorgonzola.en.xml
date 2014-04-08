@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Pasta with Radicchio and Gorgonzola</title>
+	<meta>
+		<cuisine>Italian</cuisine>
+		<dishtype>Pasta</dishtype>
+		<comment>I had this in Venice at a restaurant off the tourist track. I was told it's a classically Venetian dish, and it's a keeper!</comment>
+	</meta>
+	<ingredients>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>1 1/2</value>
+				<unit>lb</unit>
+			</quantity>
+			<variant>fresh</variant>
+			<item>pasta</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>6</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>butter</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>1</value>
+				<unit>head</unit>
+			</quantity>
+			<item>radicchio</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>1/2</value>
+				<unit>lb</unit>
+			</quantity>
+			<variant>gorgonzola</variant>
+			<item>cheese</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Cook the pasta until al dente.</step>
+		<step>While the pasta is cooking, <procedure>chop</procedure> the radicchio finely.</step>
+		<step>Melt the butter in a <equipment>saucepan</equipment>. <procedure>Sauté</procedure> the radicchio over medium heat in the butter until it darkens.</step>
+		<step>Off heat, add the gorgonzola cheese to the radicchio and melt in. Drain the pasta and combine with the radicchio mixture.</step>
+	</steps>
+	<serving>Serve immediately with fresh pepper and Parmesan cheese. This will serve six as a pasta dish.</serving>
+</recipe>

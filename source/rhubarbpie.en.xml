@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Rhubarb Pie</title>
+	<meta>
+		<source>Marion Cunningham: The Fannie Farmer Cookbook, 13th Edition (1994: Knopf) (adapted)</source>
+		<dishtype>Desserts</dishtype>
+		<dishtype>Pies</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>4</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>rhubarb</item>
+			<preprep>sliced in 1/2 inch lengths</preprep>
+		</ingredient>
+		<ingredient optional="true">
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>strawberries</item>
+			<preprep>roughly chopped</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1 1/4</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>4</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+			</quantity>
+			<item>egg</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/8</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Prepare a <reciperef ref="piecrust">crust</reciperef> for a 9-inch 2-crust pie. Preheat the oven to <temperature>425</temperature>.</step>
+		<step>Chop the rhubarb into 1/2 to 1 inch pieces.</step>
+		<step>Blend together the sugar, flour, egg, and salt.</step>
+		<step>Add the sugar mixture to the rhubarb and combine well.</step>
+		<step>Place the rhubarb mixture in the pie crust, seal, gild with a sugar crust if desired, and vent.</step>
+		<step>Bake <time>10 minutes</time>, then reduce the heat to <temperature>350</temperature> and bake <time>30-40 minutes</time> more. The rhubarb should be tender and the filling should just have started to bubble. Don't let it bake longer than that, the more it bakes the more water cooks out of the rhubarb, making a watery filling. If possible, allow pie to cool completely before serving so filling can set. You can reheat it after that and the filling won't go watery.</step>
+	</steps>
+	<variation>
+		<label>Strawberry-Rhubarb Pie</label>
+		<steps>
+			<step>Use <ingredient><quantity><value>2</value> <unit>cups</unit></quantity> <item>strawberries</item></ingredient> and <ingredient><quantity><value>2</value> <unit>cups</unit></quantity> <item>rhubarb</item></ingredient>. Reduce sugar to 1 1/8 cups.</step>
+		</steps>
+	</variation>
+</recipe>

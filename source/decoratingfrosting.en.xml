@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Decorating Frosting</title>
+	<meta>
+		<dishtype>Frostings</dishtype>
+		<comment>A frosting that keeps its shape well for decorating cakes. It's a bit of a compromise among various attributes to work well for decorating, so I only use it when actually doing elaborate decorations.</comment>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>lb</unit>
+			</quantity>
+			<item>vegetable shortening</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1 1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<variant>clear</variant>
+			<item>vanilla extract</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<variant>artificial</variant>
+			<item>almond extract</item>
+			<note>I use artificial almond extract to eliminate concerns with nut allergies.</note>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>butter flavour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/8</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>orange extract</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/8</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>rose water</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/8</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>kg</unit>
+			</quantity>
+			<item>powdered sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>water</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>meringue powder</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Cream the shortening at medium high speed (setting 6 on the stand mixer) for 10 minutes. It will become smooth and fluffy.</step>
+		<step>Gently incorporate the flavourings and salt.</step>
+		<step>Sift together the icing sugar and meringue powder. Add cup by cup to the shortening, incorporating fully at low speed before adding more.</step>
+		<step>Add some of the water as needed while adding the sugar to maintain a texture that can be mixed. All the sugar and water should be added by the end.</step>
+		<step>Beat slowly 5 minutes more. Mix together gently until evenly blended. Don't whip too fast as that will incorporate air bubbles.</step>
+	</steps>
+	<serving>This is a thick consistency for decorations. Add small amounts of water to thin some of the batch for spreading.</serving>
+	<storage>Store covered in the refrigerator 2 weeks, or in the freezer 3 months.</storage>
+</recipe>

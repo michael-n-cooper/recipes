@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Baked Beans</title>
+	<meta>
+		<source>Marion Cunningham: The Fannie Farmer Cookbook, 13th Edition (1994: Knopf)</source>
+		<dishtype>Sides</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>1</value>
+				<unit>lb</unit>
+			</quantity>
+			<item>white beans</item>
+			<preprep> </preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+			<preprep> </preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>lb</unit>
+			</quantity>
+			<item>salt pork</item>
+			<preprep> </preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>mustard powder</item>
+			<preprep> </preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>5</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>dark brown sugar</item>
+			<preprep> </preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>4</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>light molasses</item>
+			<preprep> </preprep>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Soak the beans at least <time>8 hours</time> in twice the volume of water.</step>
+		<step>Add salt, stir, then drain, reserving liquid.</step>
+		<step>Preheat oven to <temperature>300</temperature>.</step>
+		<step>Cut of 1/3 of the salt pork and place in bottom of a bean pot, then cover with the beans.</step>
+		<step>Blend mustard, sugar, and molasses with reserved bean liquid, then pour over beans.</step>
+		<step>Cut several gashes in remaining piece of salt pork (or cube it) and place on top of the beans.</step>
+		<step>Cover and bake for <time>6 hours</time>, adding boiling water as needed to just cover the beans. Uncover for final hour to crisp salt pork. Correct seasoning before serving.</step>
+	</steps>
+</recipe>

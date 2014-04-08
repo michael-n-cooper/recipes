@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Sugar Cookies</title>
+	<meta>
+		<dishtype>Desserts</dishtype>
+		<dishtype>Cookies</dishtype>
+	</meta>
+	<ingredients>
+		<yield>60 cookies</yield>
+		<ingredient>
+			<quantity>
+				<value>3</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>baking powder</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>baking soda</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>butter at cool room temperature</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>granulated sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+			</quantity>
+			<item>eggs</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>vanilla</item>
+		</ingredient>
+		<ingredient>
+			<item>granulated sugar, for rolling</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step><procedure>Sift</procedure> together the flour, salt, and baking powder.</step>
+		<step><procedure>Cream</procedure> together the butter and sugar until light and fluffy.</step>
+		<step>Add eggs and vanilla extract, and <procedure>beat well</procedure> until fluffy.</step>
+		<step>Add flour mixture to the butter mixture. Beat it in thoroughly, but do not work it any more than you have to or it will get tough.</step>
+		<step>Form into ping-pong sized balls (1 to 1 1/2 tbs each), roll in granulated sugar, and place a couple inches apart on ungreased <equipment>cookie sheets</equipment>.</step>
+		<step>Bake <time>8 - 10 minutes</time> in a preheated <temperature>375</temperature> oven. Cookies will form a distinct cracked texture and will appear underbaked. They should just begin to brown at the edges, and should be chewy, not crunchy.</step>
+		<step>Cool a minute or two, then remove from pan and cool on a rack.</step>
+	</steps>
+</recipe>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Roasted Zucchini planks</title>
+	<meta>
+		<dishtype>Ingredients</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<item>zucchini</item>
+		</ingredient>
+		<ingredient>
+			<item>oil</item>
+		</ingredient>
+		<ingredient>
+			<item>salt</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Heat a <equipment>griddle</equipment> over high heat until smoking hot.</step>
+		<step>Slice zucchini lengthwise into planks, about 1 1/2 inches wide by 5 inches long by 1/8 inch thick.</step>
+		<step>Brush griddle with a thin layer of oil, then lay zucchini slices on it, as close together as possible.</step>
+		<step>Fry zucchini slices without moving them until browned on bottom, about <time>1 1/2 minutes</time>.</step>
+		<step>With a fork or tongs, turn all the slices over and fry an additional <time>30 seconds to 1 minute</time>, until browned.</step>
+		<step>Remove slices to a plate and start the next batch. Slices will not look completely done but wll finish cooking from their residual heat. Sprinkle lightly with salt and let cool.</step>
+	</steps>
+	<storage>Store covered in the refrigerator.</storage>
+</recipe>

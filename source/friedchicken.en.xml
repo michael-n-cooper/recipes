@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Fried Chicken</title>
+	<meta>
+		<cuisine>Southern</cuisine>
+		<dishtype>Main Dishes</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>1</value>
+			</quantity>
+			<item>chicken</item>
+			<preprep>cut in pieces for frying</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>buttermilk</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>black pepper</item>
+			<preprep>ground</preprep>
+		</ingredient>
+		<ingredient optional="true">
+			<quantity>
+				<value>1/8 - 1/4</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>cayenne pepper</item>
+		</ingredient>
+		<ingredient optional="true">
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>rubbed sage</item>
+		</ingredient>
+		<ingredient optional="true">
+			<quantity>
+				<value>1/8</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>ground thyme leaves</item>
+		</ingredient>
+		<ingredient optional="true">
+			<quantity>
+				<value>1 1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>ground mustard</item>
+		</ingredient>
+		<ingredient optional="true">
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>ground ginger</item>
+		</ingredient>
+		<ingredient>
+			<item>oil for frying</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Marinate the chicken in the buttermilk and salt for <time>1 hour</time>, turning occasionally, until it absorbs most of the buttermilk.</step>
+		<step>Mix together the flour, 1/2 tsp salt, and spices. In either a <equipment>deep fryer</equipment>, or a <equipment>fry pan</equipment> filled with oil to 1/2 inch, heat oil to <temperature>375</temperature>.</step>
+		<step>Remove chicken pieces from the buttermilk and <procedure>dredge</procedure> thoroughly in flour mixture.</step>
+		<step>Fry chicken, turning once halfway through. Fry white meat about <time>10 - 12 minutes</time>, dark meat about <time>15 minutes</time>, until coating is dark golden brown and chicken is done.</step>
+		<step>Use tongs to remove chicken from hot fat. Drain and cool at least <time>10 minutes</time> on a wire rack set over something to catch the drippings. Cooling on a rack instead of paper towels allows fat to drip off instead of pool around chicken, and air circulation keeps the entire crust crispy.</step>
+	</steps>
+</recipe>

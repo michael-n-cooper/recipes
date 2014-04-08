@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Pie Crust</title>
+	<meta>
+		<source>Marion Cunningham: The Fannie Farmer Cookbook, 13th Edition (1994: Knopf) (adapted)</source>
+		<dishtype>Ingredients</dishtype>
+		<dishtype>Pies</dishtype>
+		<processnote>This recipe calls for butter, but you can replace part of it with shortening. Replacing 1/4 of the butter with shortening seems to be an optimal balance of flavour and texture.</processnote>
+	</meta>
+	<group>
+		<ingredients>
+			<yield>9-inch 2-crust pie</yield>
+			<ingredient>
+				<quantity>
+					<value>2 1/2</value>
+					<unit>cups</unit>
+				</quantity>
+				<item>flour</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1/2</value>
+					<unit>tsp</unit>
+				</quantity>
+				<item>salt</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>13</value>
+					<unit>tbs</unit>
+				</quantity>
+				<item>butter</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>7</value>
+					<unit>tbs</unit>
+				</quantity>
+				<item>shortening</item>
+			</ingredient>
+			<ingredient>
+				<quantity approximate="true">
+					<value>1/2</value>
+					<unit>cup</unit>
+				</quantity>
+				<item>water</item>
+				<preprep>ice cold</preprep>
+			</ingredient>
+		</ingredients>
+	</group>
+	<group>
+		<ingredients>
+			<yield>9-inch single-crust pie shell</yield>
+			<ingredient>
+				<quantity>
+					<value>1 1/2</value>
+					<unit>cups</unit>
+				</quantity>
+				<item>flour</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1/4</value>
+					<unit>tsp</unit>
+				</quantity>
+				<item>salt</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1/2</value>
+					<unit>cup</unit>
+				</quantity>
+				<item>butter</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1/4</value>
+					<unit>cup</unit>
+				</quantity>
+				<item>shortening</item>
+			</ingredient>
+			<ingredient>
+				<quantity approximate="true">
+					<value>1/3</value>
+					<unit>cup</unit>
+				</quantity>
+				<item>water</item>
+				<preprep>ice cold</preprep>
+			</ingredient>
+		</ingredients>
+	</group>
+	<activity>
+		<label>Mixing</label>
+		<activity>
+			<label>By hand</label>
+			<steps>
+				<step>Sift or blend the flour and salt together. If possible use  a blend of half pastry flour and half all-purpose flour.</step>
+				<step>Add the butter or shortening. If butter, it should be cold, but not refrigerator-cold, and cut into pieces. If shortening, it should be frozen. Cut it into the flour with a pastry blender, two butter knives used like a pair of scissors, or by pulsing in a food processor. The fat particles should become very small but not completely disappear, and the mixture should look like coarse cornmeal. It may feel like it is on the verge of sticking to itself. The fat should be fairly hard, and this will take a few minutes of constant blending.</step>
+				<step>Add the water, about 3/4 of it to start, and the rest as needed - you may need a little more than called for. Stir it in quickly to moisten all the flour before deciding to add more, but manipulate the mixture as little as possible. Be sure the water is completely mixed in before deciding to add more. When done, the dough should not feel wet, and there may be a few crumbs not fully incorporated, but don't make it so dry that there are a lot of crumbs that you have to force together.</step>
+			</steps>
+		</activity>
+		<activity>
+			<label>With a food processor</label>
+			<steps>
+				<step>Place all the ingredients except water in the food processor fitted with the steel blade.</step>
+				<step>Pulse-chop a couple times, until the fat is broken into fairly small pieces, smaller than peas, but not so small that they become indistinguishable. The fat should also be well coated with the flour and the whole deal will look somewhat like coarse cornmeal.</step>
+				<step>Remove the mixture to a bowl.</step>
+				<step>Add the water, about 3/4 of it to start, and the rest as needed - you may need a little more than called for. Stir it in quickly to moisten all the flour before deciding to add more, but manipulate the mixture as little as possible. Be sure the water is completely mixed in before deciding to add more. When done, the dough should not feel wet, and there may be a few crumbs not fully incorporated, but don't make it so dry that there are a lot of crumbs that you have to force together.</step>
+			</steps>
+		</activity>
+	</activity>
+	<activity>
+		<label>Resting</label>
+		<steps>
+			<step>Turn out onto a board and give a couple kneads just to cram everything together. Divide into two equal pieces and shape into thick disks.</step>
+			<step>For best results, wrap the dough tightly in plastic and press it into a thick disk (divide the dough for a 2-crust pie in two and wrap each part separately). Place the disks in the refrigerator, for at least <time>1/2 hour</time>, ideally a couple hours, and up to a couple days. The refrigeration allows the flour proteins to relax, the water to absorb evenly, and the butter to harden so it doesn't get too smeared into the flour during rolling (little pieces of butter contribute to the characteristic flakey crust).</step>
+			<step>You can freeze it for months if you want, defrost fully in the refrigerator before using.</step>
+		</steps>
+	</activity>
+	<activity>
+		<label>Rolling the crust</label>
+		<steps>
+			<step>My rolling technique involves fearless use of flour for the surface - being too conservative just leads to sticking - but use as little as possible to avoid sticking. Sift the flour if it is lumpy or doesn't scatter evenly.</step>
+			<step>Scatter a small amount on the surface, place the crust to be rolled out on the flour, then scatter flour over the top surface. Move the crust around with your hands to spread the flour evenly. During rolling, turn the crust slightly with each move of the pin, and scatter and spread flour under or over the crust at the first sign of sticking. With judicious scattering you will only use a tablespoon of flour.</step>
+			<step>The first few rolls will just be to soften the dough, then gradually stretch it out by rolling from the middle almost to the further edge, then from the middle almost to the near edge. Turn the dough 1/8 turn and repeat. Do not roll over the edge, just almost to it, and always roll from the middle out; this helps keep it round. Keep it moving; it should never stick to the board.</step>
+			<step>Continue until the crust is a couple inches wider than the diameter of the pie plate - a little larger for the bottom crust. Since the crust has been kept moving it will lift easily to transfer to the plate, you can fold it loosely in half or wrap it around the rolling pin for the transfer.</step>
+		</steps>
+	</activity>
+	<activity>
+		<label>Assembling a 2-crust pie</label>
+		<activity>
+			<label>General instructions</label>
+			<steps>
+				<step>Line the pie plate with the bottom crust and add the filling.</step>
+				<step>Place the top crust (standard or weave a lattice) over all.</step>
+				<step>Use a sharp knife or scissors to trim the edges of both crusts to about 1/2 to 1 inch beyond the edge of the pie plate.</step>
+				<step>Fold the edge where the crusts meet down against the inside of the pie plate so you have a rim of double-thickness crust.</step>
+				<step>Pinch the edges together all around.</step>
+				<step>Brush or spray lightly with water and sprinkle with sugar, if desired.</step>
+				<step>Cut vents in the top crust, making sure they're big enough that they won't reseal.</step>
+			</steps>
+		</activity>
+		<activity>
+			<label>Standard crust</label>
+			<steps>
+				<step>Place the top shell on top, gently adjust it to be in contact with all the filling.</step>
+				<step>Trim the two crusts together to about 1/2 inch beyond the edge of the plate.</step>
+				<step>Crimp the crusts by pinching both crusts, folding inward so the bottom crust folds over the top crust which folds back on itself, then pinch the crusts together with the thumb and forefinger of each hand to seal.</step>
+				<step>Move one finger-width over and repeat (if you are moving clockwise, the fingers of the left hand will pinch where the right hand just did, reinforcing that seal). Continue around the pie.</step>
+				<step>Remember to vent the top crust with knife holes, in any pattern you want, making sure the holes are big enough that they won't re-seal during baking.</step>
+			</steps>
+		</activity>
+		<activity>
+			<label>Lattice crust</label>
+			<steps>
+				<step>Cut the rolled out top crust into strips. Use a straight edge, or it will be wavy. A pastry wheel (a fluted one to be extra fancy) is best, but a regular knife will do. Cut strips 1/2 to 1 inch wide, depending on your experience and patience, but make them consistent. About 15 strips total is about right.</step>
+				<step>Lay half of the strips along the top of the pie, longer strips in the middle, leaving as much space between strips as they are wide.</step>
+				<step>Then begin laying out the opposite weave, choosing an alignment to create square or diamond spaces. Lay out the centermost strip first, then lift one end of every other one of the "warp" strips and place over this "weft" strip. Repeat, moving out to the edge of the pie and alternating the weave. Then do the same on the other half of the pie.</step>
+				<step>Then trim the lattice strips and bottom crust to about 1/2 inch beyond the edge of the plate.</step>
+				<step>Crimp the crusts by pinching both crusts, folding inward so the bottom crust folds over the top crust which folds back on itself, then pinch the crusts together with the thumb and forefinger of each hand to seal.</step>
+				<step>Move one finger-width over and repeat (if you are moving clockwise, the fingers of the left hand will pinch where the right hand just did, reinforcing that seal). Continue around the pie. This is more difficult with a lattice crust, just get it as even as you can, but make sure the crusts are well joined.</step>
+			</steps>
+		</activity>
+	</activity>
+	<activity>
+		<label>Baking</label>
+		<activity>
+			<label>Blind-baking a single-crust pie shell</label>
+			<steps>
+				<step>Form the pie shell by placing the bottom crust in the pan and crimping the edges as for a two-crust pie.</step>
+				<step>Prick the shell well.</step>
+				<step>Fill the shell with pie weights or dried beans.</step>
+				<step>If the pie will be baked again with the filling, bake <time>15 minutes</time> at <temperature>425</temperature> until the crust sets and turns light brown. If the filling will not be baked, bake <time>30 minutes</time> at <temperature>425</temperature> until the crust is well brown and crisp.</step>
+				<step>Empty the weights and cool the shell before filling.</step>
+			</steps>
+		</activity>
+		<activity>
+			<label>Baking a double-crust pie</label>
+			<steps>
+				<step>Bake at <temperature>425</temperature> for about <time>15 minutes</time>, until the crust is puffed and begins to brown. Bake on bottom shelf of the oven, close to the heat element, or on a preheated baking stone, to help the bottom of the crust brown. After the initial period, reduce the temperature to <temperature>350</temperature> and continue baking for another <time>20 to 40 minutes</time> depending on the pie. The crust should look done including the bottom, and the filling should be barely tender, but more noticably, will have <em>just</em> started to bubble. Any longer in the oven and the water will cook out of the fruit, making a watery pie.</step>
+				<step>If the edges brown too much while the rest doesn't brown enough, use a pie guard, or a piece of aluminum foil wrapped around the edge of the pie, when the edge is brown enough.</step>
+			</steps>
+		</activity>
+	</activity>
+	<activity>
+		<label>Gilding the lilly</label>
+		<comment>There are two ways I like to gild the lilly on a pie (do one or the other, 
+not both!). Suggestions for these toppings: Apple pie: sugar crust; Berry pie: sugar glaze; Lattice-topped pies: sugar crust; Peach pie: one of the world's Perfect Foods, peach pie should be a study in simplicity. Do not gild the lilly on peach pies. Rhubarb pie: sugar crust.</comment>
+		<activity>
+			<label>Sugar crust</label>
+			<steps>
+				<step>Before baking, mist the assembled pie very lightly with water.</step>
+				<step>Sprinkle on a couple tablespoons of granulated sugar. If you can find large-crystal (either turbinado or white) that's even better.</step>
+			</steps>
+		</activity>
+		<activity>
+			<label>Sugar glaze</label>
+			<steps>
+				<step>After baking, mix 1/2 cup powdered sugar with 1 tbs water. </step>
+				<step>Brush this on the pie just when it is hot out of the oven and let cool.</step>
+			</steps>
+		</activity>
+	</activity>
+</recipe>

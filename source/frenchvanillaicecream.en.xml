@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>French Vanilla Ice Cream</title>
+	<meta>
+		<dishtype>Ice Cream</dishtype>
+		<dishtype>Desserts</dishtype>
+		<processnote>This recipe maximizes the amount of flavour extracted from the vanilla bean, and the vanilla sugar pumps it up even more, but can be subsituted with regular sugar. The corn starch and corn syrup are included not to "cheat" on the process of making a custard by protecting the egg yolks from curdling, but to reduce the formation of large ice crystals in the final product.</processnote>
+	</meta>
+	<!--
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>milk</item>
+		</ingredient>
+		<ingredient_choice>
+			<ingredient>
+				<quantity>
+					<value>1</value>
+				</quantity>
+				<item>vanilla bean</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1</value>
+					<unit>tbs</unit>
+				</quantity>
+				<item>vanilla extract</item>
+			</ingredient>
+		</ingredient_choice>
+		<ingredient>
+			<quantity>
+				<value>4</value>
+			</quantity>
+			<item>egg yolks</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2/3</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/8</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>cups</unit>
+			</quantity>
+			<variant>35 %</variant>
+			<item>cream</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>If using vanilla bean, split and scrap seeds. Set seeds aside. Add vanilla bean to milk.</step>
+		<step>Bring milk to simmer in a <equipment>1-quart saucepan</equipment>.</step>
+		<step>Meanwhile, whisk together egg yolks, sugar, and salt.</step>
+		<step>Add small amounts of hot milk to egg yolk mixture, whisking in well to temper the egg yolks. Once the mixture is warmed, add the rest of the milk and whisk together well.</step>
+		<step>Return mixture to saucepan. Heat, whisking constantly, until slightly thickened and at a temperature of <temperature>175</temperature>.</step>
+		<step>Remove from heat. Strain into a bowl to remove the vanilla bean and any curdled egg yolk.</step>
+		<step>If using vanilla bean, add the seeds and whisk in well. Otherwise, add the vanilla extract.</step>
+		<step>Cover and refrigerate <time>overnight</time>.</step>
+		<step>Add the cream.</step>
+		<step>Freeze in an ice cream freezer, following manufacturer instruction, usually about <time>20 minutes</time>.</step>
+		<step>Transfer to a sealed storage container. Place in freezer at least <time>3 hours</time> before serving.</step>
+	</steps>
+	-->
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>2 1/2</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>milk</item>
+		</ingredient>
+		<ingredient_choice>
+			<ingredient>
+				<quantity>
+					<value>1</value>
+				</quantity>
+				<item>vanilla bean</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1</value>
+					<unit>tbs</unit>
+				</quantity>
+				<item>vanilla extract</item>
+			</ingredient>
+		</ingredient_choice>
+		<ingredient>
+			<quantity>
+				<value>2/3</value>
+				<unit>cup</unit>
+			</quantity>
+			<variant>vanilla</variant>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/8</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>corn starch</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>4</value>
+			</quantity>
+			<item>egg yolks</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>cup</unit>
+			</quantity>
+			<variant>light</variant>
+			<item>corn syrup</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1 1/2</value>
+				<unit>cups</unit>
+			</quantity>
+			<variant>35 %</variant>
+			<item>cream</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Split vanilla bean and scrape out seeds. Set seeds aside. Add vanilla bean to milk.</step>
+		<step>Bring milk to simmer (<temperature>180</temperature>) in a <equipment>1-quart saucepan</equipment>, stirring constantly.</step>
+		<step>Cover milk and let steep <time>15 minutes</time>.</step>
+		<step>Meanwhile, whisk together sugar, salt, and corn starch. Add egg yolks and vanilla seeds and whisk a <time>couple minutes</time> until smooth and lightened. Stir in corn syrup.</step>
+		<step>Return milk to simmer, then add small amounts of hot milk to egg yolk mixture, whisking in well to temper the egg yolks. Once the mixture is warmed, add the rest of the milk and whisk together well.</step>
+		<step>Return mixture to saucepan. Heat, stirring constantly, until slightly thickened and at a temperature of <temperature>180</temperature>.</step>
+		<step>Remove from heat. Strain into a bowl to remove any curdled egg yolk. Return the vanilla bean to the strained custard.</step>
+		<step>Stir the cream into the custard. If using vanilla extract, stir it in as well.</step>
+		<step>Set aside one cup of the custard and freeze. Cover the remaining custard and refrigerate <time>overnight</time>.</step>
+		<step>Remove the vanilla bean. "<procedure>Squeegee</procedure>" dark oils from the bean back into the custard.</step>
+		<step>Break up the frozen portion of custard and stir well into the refrigerated portion, until ice crystals have melted and custard is very cold.</step>
+		<step>Freeze in an ice cream freezer, following manufacturer instruction, usually about <time>20 minutes</time>.</step>
+		<step>Transfer to a sealed storage container. Place in freezer at least <time>3 hours</time> before serving.</step>
+	</steps>
+	<storage>Keep frozen, tightly covered. To minimize freezer burn, place plastic wrap directly on surface.</storage>
+</recipe>

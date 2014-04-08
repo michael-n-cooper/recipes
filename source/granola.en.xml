@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Granola</title>
+	<meta>
+		<dishtype>Breakfast</dishtype>
+		<comment>I think this is much healthier than other granola recipes I've seen (half the sugar and a quarter the fat), and I like it not to be overwhelmed with ingredients.</comment>
+	</meta>
+	<ingredients>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>1</value>
+				<unit>lb</unit>
+			</quantity>
+			<item>rolled oats</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>oz</unit>
+			</quantity>
+			<item>nuts</item>
+			<preprep>chopped</preprep>
+			<note>I prefer almonds, pecans, or walnuts</note>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>oz</unit>
+			</quantity>
+			<item>sunflower seeds</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>water</item>
+			<preprep>boiling</preprep>
+		</ingredient>
+		<ingredient_choice>
+			<ingredient>
+				<quantity>
+					<value>1/2</value>
+					<unit>cup</unit>
+				</quantity>
+				<item>honey</item>
+			</ingredient>
+			<ingredient_group>
+				<ingredient>
+					<quantity>
+						<value>1/2</value>
+						<unit>cup</unit>
+					</quantity>
+					<item>sugar</item>
+				</ingredient>
+				<ingredient>
+					<quantity>
+						<value>2</value>
+						<unit>tbs</unit>
+					</quantity>
+					<item>molasses</item>
+				</ingredient>
+			</ingredient_group>
+		</ingredient_choice>
+		<ingredient>
+			<quantity>
+				<value>1 1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>peanut oil</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>oz</unit>
+			</quantity>
+			<item>dried fruit</item>
+			<note>I prefer dried cranberries as I don't like raisins. Dried blueberries, strawberries, or currants work well too but are more expensive. I find dried cherries too sour; and dried apricots not dry enough and need to be chopped.</note>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Preheat oven to <temperature>350</temperature>.</step>
+		<step>Combine the rolled oats, nuts, and seeds. 
+    </step>
+		<step>Dissolve the honey or sugar and molasses, and the salt, in the water. Add the oil.</step>
+		<step>Combine the sugar mixture with the oat mixture. Stir well to combine thoroughly.</step>
+		<step>Spread mixture in a lightly greased baking pan. Place in oven and toast for <time>15 minutes</time>.</step>
+		<step>Stir the mixture well, being careful to mix the edges into the center. Reduce oven heat to <temperature>275</temperature> and continue toasting, stirring every <time>15 minutes</time>, for <time>1 to 1 1/2 hours</time>, until lightly browned.</step>
+		<step>Cool. When cool, add the dried fruit. Store tightly covered.</step>
+	</steps>
+</recipe>

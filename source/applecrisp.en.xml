@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Apple Crisp</title>
+	<meta>
+		<source>Marion Cunningham: The Fannie Farmer Cookbook, 13th Edition (1994: Knopf)</source>
+		<dishtype>Desserts</dishtype>
+		<dishtype>Fruit Desserts</dishtype>
+		<comment>See also: <reciperef ref="fruitcrisp">Fruit Crisp</reciperef></comment>
+	</meta>
+	<ingredients>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>5</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>apples</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/3</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>water</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3/4</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>cinnamon</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>lb</unit>
+			</quantity>
+			<item>butter</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Preheat the oven to <temperature>350</temperature>. Butter a <equipment>1 1/2 quart baking dish</equipment>.</step>
+		<step>Peel, core, and slice the apples, and put in the bottom of the baking dish. Sprinkle with the water.</step>
+		<step>Blend together the sugar, flour, cinnamon, and salt.</step>
+		<step>Cut the butter into small pieces. Rub into the flour mixture until it resembles coarse crumbs.</step>
+		<step>Spread the flour mixture evenly over the apples.</step>
+		<step>Bake about <time>30 minutes</time>, until the fruit is cooked and the top is crisp and brown.</step>
+	</steps>
+</recipe>

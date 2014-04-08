@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Basic Loaf Bread Recipe</title>
+	<meta>
+		<dishtype>Breads</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>1 1/4</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>water or milk</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>yeast</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>sugar or honey</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>oil or butter</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity approximate="true">
+				<value>3 1/2</value>
+				<unit>cups</unit>
+			</quantity>
+			<variant>white</variant>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Bring the water to lukewarm. If using milk, scald it (heat to just under boiling temperature) and then cool to lukewarm.</step>
+		<step>Dissolve the yeast in 1/4 cup water and let proof for 5 minutes. This isn't necessary with instant yeast but doesn't hurt.</step>
+		<step>Add the remainder of the liquid, the sweetener, and fat and mix together.</step>
+		<step>Add the flour, withholding 1/2 cup, and the salt. Stir together until you get a soft dough, that may still be slightly sticky but is pretty stiff and more or less pulls away from the sides of the bowl. Add enough more flour to achieve this.</step>
+		<step>Let the dough rest, covered, for 10 to 15 minutes. This allows the flour to absorb the liquid, and it will be easier to handle.</step>
+		<step>Put the dough on a lightly floured surface and begin kneading. Scatter enough flour on the surface to keep dough from sticking, every few turns of the dough, but resist the temptation to add much more flour. You should only end up adding a couple more tablespoons, and partway through the kneading process shouldn't need to add any more, even if it is still slightly sticky. Kneading is done when dough is stiffer and smooth, and springs back when pressed gently.</step>
+		<step>Frm the dough into a ball. Add a teaspoon of oil to a bowl that is 2 or 3 times the volume of the dough. Place the dough top down in the bowl and move around to distribute the oil. Flip it over so the oiled side is up.</step>
+		<step>Cover the bowl and let dough rise at a warm room temperature, around 75° F. The inside of a gas oven with a pilot light is perfect, or an oven that has been turned on for a couple minutes and then turned off. Or just leave it out in a place free of drafts. The first rising will take between 2 and 3 hours. It is risen when it has doubled in bulk and does not give much resistance when pressed gently. It should still have a domed top - if it is flat it has over-risen. That's ok but remember for next time.</step>
+		<step>Take the dough out of the bowl and knead gently a couple times, just to deflate and redistriube the yeast. Don't try to press all the air out, just the biggest bubbles. The dough should be slightly larger and lighter than it was before the first rising. Return the bowl, adding a little more oil if needed, and let rise again. This time the rising will take 1 1/2 to 2 hours, and will rise higher than it did the first time, but still double its starting bulk.</step>
+		<step>Take out of the bowl and again knead gently a couple times, then shape into a loaf. Place into an oiled loaf pan and cover with plastic, a moist towel, or ideally some other cover that will keep the dough from drying out but will not itself come in contact with the dough. Let rise a final time, until just under doubled in bulk. It should feel very slightly springy when touched gently. This time it will take 45 minutes to an hour.</step>
+		<step>At least 15 minutes before the end of the rising time preheat the oven to 375° F. When the dough is ready, place it in the oven. Bake 45 minutes to an hour. In the first 10 minutes it will rise substantially in the oven. When it is done, it should sound hollow when knocked and should have pulled slightly away from the pan.</step>
+		<step>Take out and cool on a rack. Allow to cool ompletely for several hours before slicing.</step>
+	</steps>
+</recipe>

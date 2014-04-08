@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Crumpets</title>
+	<meta>
+		<cuisine>English</cuisine>
+		<dishtype>Breads</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>230</value>
+				<unit>grams</unit>
+				<altmeasure>
+					<quantity>
+						<value>2</value>
+						<unit>cups</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>bread</variant>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>230</value>
+				<unit>grams</unit>
+				<altmeasure>
+					<quantity>
+						<value>1 2/3</value>
+						<unit>cups</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>all-purpose</variant>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<variant>instant</variant>
+			<item>yeast</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2 1/2</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>milk</item>
+			<preprep>lukewarm</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3/4</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2/3</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>water</item>
+			<preprep>lukewarm</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>baking soda</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>In a large bowl, stir together the flours and yeast.</step>
+		<step>Add the milk and mix to a thick batter. Beat <time>2 minutes</time> until batter is stringy.</step>
+		<step>Cover and let rise until the batter doubles and falls again, about <time>1 1/2 hours</time>.</step>
+		<step>Beat in the salt, then let rest <time>20 minutes</time>.</step>
+		<step>Heat a <equipment>griddle</equipment> to <temperature>375</temperature>, and grease it and <equipment>crumpet rings</equipment>.</step>
+		<step>Dissolve the baking soda in the water, then stir gently into the flour mixture.</step>
+		<step>Place the crumpet rings on the griddle, and pour about 1/3 cup of batter into each, to fill them half way. Crumpets should immediately form holes on the surface; add small amounts of water to the remaining batter if not.</step>
+		<step>Bake until the top no longer looks wet, about <time>3 minutes</time>. Remove the rings, then flip the crumpets and bake another <time>2 minutes</time>. Crumpets should be pale golden on both sides, and about 3/4 inch thick.</step>
+		<step>Repeat baking process until all the batter is used up.</step>
+	</steps>
+	<serving>Serve hot or toasted with butter and jam spread over the top.</serving>
+	<storage>Freeze in a freezer bag. Thaw in the toaster to serve.</storage>
+</recipe>

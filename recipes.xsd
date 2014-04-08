@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:simpleType name="URI">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:element name="inline" abstract="true"/>
+  <xs:group name="step">
+    <xs:choice>
+      <xs:element ref="quantity"/>
+      <xs:element ref="ingredient"/>
+      <xs:element ref="temperature"/>
+      <xs:element ref="time"/>
+      <xs:element ref="equipment"/>
+      <xs:element ref="procedure"/>
+    </xs:choice>
+  </xs:group>
+  <xs:element name="recipe">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="title"/>
+        <xs:element minOccurs="0" ref="meta"/>
+        <xs:choice>
+          <xs:sequence>
+            <xs:element ref="group"/>
+            <xs:element maxOccurs="unbounded" ref="group"/>
+            <xs:choice minOccurs="0">
+              <xs:element ref="steps"/>
+              <xs:element maxOccurs="unbounded" ref="activity"/>
+            </xs:choice>
+          </xs:sequence>
+          <xs:sequence>
+            <xs:element ref="ingredients"/>
+            <xs:choice>
+              <xs:element ref="steps"/>
+              <xs:element maxOccurs="unbounded" ref="activity"/>
+            </xs:choice>
+          </xs:sequence>
+        </xs:choice>
+        <xs:element minOccurs="0" ref="serving"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="variation"/>
+        <xs:element minOccurs="0" ref="storage"/>
+      </xs:sequence>
+      <xs:attributeGroup ref="attlist.recipe"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="attlist.recipe">
+    <xs:attribute name="photo" type="URI"/>
+  </xs:attributeGroup>
+  <xs:element name="title" type="xs:string"/>
+  <xs:element name="meta">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" ref="source"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="cuisine"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="dishtype"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="occasion"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="comment"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="processnote"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="cuisine" type="xs:string"/>
+  <xs:element name="source" type="xs:string"/>
+  <xs:element name="dishtype" type="xs:string"/>
+  <xs:element name="occasion" type="xs:string"/>
+  <!-- enrich with linking stuff -->
+  <xs:element name="comment">
+    <xs:complexType mixed="true">
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="inline"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="processnote">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="inline"/>
+        <xs:group ref="step"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="group">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" ref="label"/>
+        <xs:element minOccurs="0" ref="comment"/>
+        <xs:element minOccurs="0" ref="processnote"/>
+        <xs:element ref="ingredients"/>
+        <xs:choice minOccurs="0">
+          <xs:element ref="steps"/>
+          <xs:element maxOccurs="unbounded" ref="activity"/>
+        </xs:choice>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ingredients">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" ref="yield"/>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element ref="ingredient"/>
+          <xs:element ref="ingredient_choice"/>
+        </xs:choice>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="yield" type="xs:string"/>
+  <!-- enrich servings or quantity -->
+  <xs:element name="ingredient">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:choice>
+          <xs:element minOccurs="0" ref="range"/>
+          <xs:element minOccurs="0" maxOccurs="unbounded" ref="quantity"/>
+        </xs:choice>
+        <xs:element minOccurs="0" ref="variant"/>
+        <xs:element ref="item"/>
+        <xs:element minOccurs="0" ref="preprep"/>
+        <xs:element minOccurs="0" ref="note"/>
+      </xs:sequence>
+      <xs:attributeGroup ref="attlist.ingredient"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="attlist.ingredient">
+    <xs:attribute name="mainingredient" default="false">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="true"/>
+          <xs:enumeration value="false"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+    <xs:attribute name="optional" default="false">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="true"/>
+          <xs:enumeration value="false"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:element name="range">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="quantity"/>
+        <xs:element ref="quantity"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="quantity">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" ref="value"/>
+        <xs:element minOccurs="0" ref="unit"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="altmeasure"/>
+      </xs:sequence>
+      <xs:attributeGroup ref="attlist.quantity"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="attlist.quantity">
+    <xs:attribute name="approximate" default="false">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="true"/>
+          <xs:enumeration value="false"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:element name="altmeasure">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="quantity"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="value" type="xs:string"/>
+  <xs:element name="unit" type="xs:string"/>
+  <xs:element name="variant" type="xs:string"/>
+  <xs:element name="item">
+    <xs:complexType mixed="true">
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="reciperef"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <!-- enrich to reference database -->
+  <xs:element name="preprep" type="xs:string"/>
+  <!-- inline elements -->
+  <xs:element name="note">
+    <xs:complexType mixed="true">
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="inline"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <!-- enrich to reference things like &quot;chopped&quot; -->
+  <xs:element name="ingredient_choice">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="ingredient"/>
+        <xs:element ref="ingredient_group"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ingredient_group">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ingredient"/>
+        <xs:element maxOccurs="unbounded" ref="ingredient"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="steps">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="step"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="step">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:group ref="step"/>
+        <xs:element ref="inline"/>
+      </xs:choice>
+      <xs:attributeGroup ref="attlist.step"/>
+    </xs:complexType>
+  </xs:element>
+  <!-- inline elements, quantities, temperatures, etc. -->
+  <xs:attributeGroup name="attlist.step">
+    <xs:attribute name="photo" type="URI"/>
+  </xs:attributeGroup>
+  <xs:element name="activity">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="label"/>
+        <xs:element minOccurs="0" ref="comment"/>
+        <xs:element minOccurs="0" ref="processnote"/>
+        <xs:choice>
+          <xs:element maxOccurs="unbounded" ref="steps"/>
+          <xs:element maxOccurs="unbounded" ref="activity"/>
+        </xs:choice>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="label" type="xs:string"/>
+  <xs:element name="serving">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:group ref="step"/>
+        <xs:element ref="inline"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <!-- serving suggestions/instructions -->
+  <xs:element name="variation">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" ref="label"/>
+        <xs:element minOccurs="0" ref="comment"/>
+        <xs:element minOccurs="0" ref="processnote"/>
+        <xs:element minOccurs="0" ref="ingredients"/>
+        <xs:choice>
+          <xs:element maxOccurs="unbounded" ref="steps"/>
+          <xs:element maxOccurs="unbounded" ref="activity"/>
+        </xs:choice>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <!-- possibly same content model as step -->
+  <xs:element name="storage" type="xs:string"/>
+  <xs:element name="temperature">
+    <xs:complexType mixed="true">
+      <xs:attributeGroup ref="attlist.temperature"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="attlist.temperature">
+    <xs:attribute name="scale" default="Fahrenheit">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="Fahrenheit"/>
+          <xs:enumeration value="Celsius"/>
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+  </xs:attributeGroup>
+  <xs:element name="time" type="xs:string"/>
+  <!-- equipment: oven, spatula, 9&quot; fry pan, etc. -->
+  <xs:element name="equipment" type="xs:string"/>
+  <!-- procedure: bake, stir-fry, etc. -->
+  <xs:element name="procedure" type="xs:string"/>
+  <xs:element name="reciperef" substitutionGroup="inline">
+    <xs:complexType mixed="true">
+      <xs:attributeGroup ref="attlist.reciperef"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="attlist.reciperef">
+    <xs:attribute name="ref" use="required"/>
+  </xs:attributeGroup>
+  <xs:element name="em" substitutionGroup="inline" type="xs:string"/>
+</xs:schema>

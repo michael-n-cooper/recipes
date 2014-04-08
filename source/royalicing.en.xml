@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Royal Icing</title>
+	<meta>
+		<dishtype>Frostings</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>4</value>
+				<unit>cups</unit>
+			</quantity>
+			<quantity>
+				<value>1</value>
+				<unit>lb</unit>
+			</quantity>
+			<variant>powdered</variant>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>meringue powder</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>water</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Sift together sugar and meringue powder.</step>
+		<step>Add water. Beat gently together until it forms a paste.</step>
+		<step>Beat mixture until it mounts and forms firm peaks. Icing should be stiff enough to hold its shape, and soft enough to squeeze through a pastry bag and remain pliable.</step>
+	</steps>
+	<storage>Store tightly covered, as icing dries out rapidly. Re-beat icing that has been stored longer than a few hours. For long-term storage, store in refrigerator or freezer.</storage>
+</recipe>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Spiced Nuts</title>
+	<meta>
+		<source>Marion Cunningham: The Fannie Farmer Cookbook, 13th Edition (1994: Knopf) (adapted)</source>
+		<dishtype>Snacks</dishtype>
+		<occasion>Christmas</occasion>
+	</meta>
+	<ingredients>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>2 1/2</value>
+				<unit>cups</unit>
+				<altmeasure>
+					<quantity>
+						<value>12</value>
+						<unit>oz</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>unsalted</variant>
+			<item>nuts</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>water</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>cinnamon</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3/4</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient optional="true">
+			<quantity>
+				<value>1</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Toast the nuts in a <temperature>350</temperature> oven for <time>10 minutes</time> until lightly browned. Watch them carefully as they burn easily.</step>
+		<step>Put the sugar, water, cinnamon, and salt in a heavy-bottomed saucepan. Cook over medium heat without stirring to the soft-ball stage (<temperature>236</temperature>), about <time>10 minutes</time>.</step>
+		<step>Remove from heat. Stir in vanilla if using.</step>
+		<step>Add nuts and stir together gently until mixture becomes creamy.</step>
+		<step>Turn out onto a buttered baking sheet. Separate the nuts and let cool. Store airtight.</step>
+	</steps>
+	<variation>
+		<steps>
+			<step>Omit the vanilla.</step>
+			<step>Use <ingredient>
+					<quantity>
+						<value>1/2</value>
+						<unit>tsp</unit>
+					</quantity>
+					<item>cinnamon</item>
+				</ingredient>, and add along with it <ingredient>
+					<quantity>
+						<value>1/2</value>
+						<unit>tsp</unit>
+					</quantity>
+					<item>cardamom</item>
+				</ingredient>, <ingredient>
+					<quantity>
+						<value>1/4</value>
+						<unit>tsp</unit>
+					</quantity>
+					<item>pepper</item>
+				</ingredient>, and <ingredient>
+					<quantity>
+						<value>1</value>
+						<unit>pinch</unit>
+					</quantity>
+					<item>cayenne</item>
+				</ingredient>
+			</step>
+		</steps>
+	</variation>
+</recipe>

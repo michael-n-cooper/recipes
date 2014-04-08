@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Peanut Butter Cookies</title>
+	<meta>
+		<source>Marion Cunningham: The Fannie Farmer Cookbook, 13th Edition (1994: Knopf)</source>
+		<dishtype>Desserts</dishtype>
+		<dishtype>Cookies</dishtype>
+		<comment>For me, the secret to successful cookies is getting the butter and sugar fluffy enough, and accenting that with the eggs. A stand mixer helps a lot, but you can do it with a hand mixer or, if you really want, by hand.</comment>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>butter</item>
+			<preprep>at cool room temperature</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>vanilla</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>granulated sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>brown sugar</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>peanut butter</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+			</quantity>
+			<item>eggs</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/8</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>baking soda</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Preheat the oven to <temperature>350</temperature> and grease <equipment>cookie sheets</equipment>.</step>
+		<step>Cream together the butter, vanilla, and sugars until light and fluffy.</step>
+		<step>Beat in the peanut butter.</step>
+		<step>Add the eggs to the butter and beat well, it should get even fluffier.</step>
+		<step>Sift together the flour, salt, and baking soda, and add to the butter mixture. Beat it in thoroughly, but do not work it any more than you have to or it will get tough.</step>
+		<step>Form into balls (I usually go ping-pong ball sized, but you can go smaller) and place a couple inches apart on the cookie sheets. Once they're all laid out, flatten with a fork that has been dipped in cold water, then press the fork in the crossways direction to form the traditional pattern.</step>
+		<step>Bake <time>8 - 10 minutes</time>. The edges and just the highest part of the tops should begin to brown, but there shouldn't be much noticeable color. Cool on a rack.</step>
+	</steps>
+</recipe>

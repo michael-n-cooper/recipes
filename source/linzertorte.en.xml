@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Linzertorte</title>
+	<meta>
+		<cuisine>Austrian</cuisine>
+		<dishtype>Desserts</dishtype>
+		<dishtype>Tarts</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>210</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1 1/2</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>ground</variant>
+			<item>almonds</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>185</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1 1/2</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>all-purpose</variant>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>135</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>2/3</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<variant>ground</variant>
+			<item>cinnamon</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/16</value>
+				<unit>tsp</unit>
+			</quantity>
+			<variant>ground</variant>
+			<item>cloves</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>195</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>14</value>
+						<unit>tbs</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>butter</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>40</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>2</value>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>egg yolks</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>300</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>preserves</item>
+			<note>currant or raspberry are most traditional, others may be used</note>
+		</ingredient>
+		<ingredient>
+			<item>confectioners' sugar</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Add dry ingredients to a food processor and process until sandy evenly ground and mixed.</step>
+		<step>Add butter and pulse in until mealy.</step>
+		<step>Add egg yolk and vanilla and process until it comes together. Add very small amounts of water if needed to make it form a firm dough.</step>
+		<step>Divide dough into two portions, one slightly larger than the other, form into cohesive disks, wrap both in plastic, and refrigerate until firm but not solid, approximately <time>2 hours</time>.</step>
+		<step>Preheat oven to <temperature>350</temperature>.</step>
+		<step>Roll out larger portion of dough and <procedure>line</procedure> a <equipment>10-inch tart pan</equipment>.</step>
+		<step>Spread the preserves evenly in the shell to the edge.</step>
+		<step>Roll out smaller portion of dough, cut into strips, and <procedure>form a lattice crust</procedure>.</step>
+		<step>Bake for <time>45 minutes</time> until evenly browned and filling bubbles.</step>
+		<step>Cool fully, then dust with confectioners sugar.</step>
+	</steps>
+</recipe>

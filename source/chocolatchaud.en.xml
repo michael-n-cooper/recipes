@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Chocolat Chaud</title>
+	<meta>
+		<dishtype>Beverages</dishtype>
+		<comment>Use the finest ingredients possible, quality chocolate and cocoa make quite a difference here. The original recipe even advises using bottled mineral water.</comment>
+	</meta>
+	<ingredients>
+		<yield>4 6-oz servings</yield>
+		<ingredient>
+			<quantity>
+				<value>1/4 - 1/3</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>1/4</value>
+				<unit>cup</unit>
+				<altmeasure>
+					<quantity>
+						<value>1</value>
+						<unit>oz</unit>
+					</quantity>
+				</altmeasure>
+				<altmeasure>
+					<quantity>
+						<value>28</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>cocoa</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>water</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2 1/4</value>
+				<unit>cups</unit>
+			</quantity>
+			<variant>whole</variant>
+			<item>milk</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>3 1/2</value>
+				<unit>oz</unit>
+				<altmeasure>
+					<quantity>
+						<value>100</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>bittersweet</variant>
+			<item>chocolate</item>
+			<preprep>chopped</preprep>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Combine the sugar, cocoa, and water in a <equipment>2-quart saucepan</equipment>. Bring to the boil, whisking until smooth. Cook <time>1 minute</time>.</step>
+		<step>Add milk and bring to boil again.</step>
+		<step>Add chocolate and return to boil, whisking constantly until chocolate melts and mixture thickens.</step>
+		<step>Blend for <time>5 minutes</time> with an immersion mixer or whirl the hot chocolate in a standard blender for half a minute, until thick and foamy.</step>
+	</steps>
+</recipe>

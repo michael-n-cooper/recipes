@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Black Bean and Corn Salad</title>
+	<meta>
+		<dishtype>Sides</dishtype>
+		<dishtype>Salads</dishtype>
+		<processnote>This is a nice healthy dish. I hope the proteins in the corn and beans are complementary. The orange zest is the "secret ingredient" that puts the flavour over the top.</processnote>
+	</meta>
+	<ingredients>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>4</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>black beans</item>
+			<preprep>cooked</preprep>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>4</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>corn kernels</item>
+			<preprep>cooked</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+			</quantity>
+			<item>onion</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>vinegar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>oil</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/8</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>crushed red pepper</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<variant>fresh</variant>
+			<item>orange zest</item>
+			<preprep>finely minced</preprep>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Cook the corn and the beans. Drain them and measure 4 cups of black beans after cooking; measure the corn before cooking.</step>
+		<step>Chop the onion finely.</step>
+		<step>Toss together all ingredients, ideally while the beans and corn are still warm from cooking.</step>
+		<step>Allow to cool, tossing occasionally. Refrigerate.</step>
+	</steps>
+	<serving>Serve as a cold salad.</serving>
+</recipe>

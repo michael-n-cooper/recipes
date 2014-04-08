@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Quick Coffee Cake</title>
+	<meta>
+		<source>Joy of Cooking</source>
+		<dishtype>Breakfast</dishtype>
+		<occasion>Sunday Brunch</occasion>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>1 1/2</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>baking soda</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>butter</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+			</quantity>
+			<item>egg</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2/3</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>buttermilk</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>cup</unit>
+			</quantity>
+			<item><reciperef ref="streusel">streusel</reciperef></item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Sift together the flour, salt, and baking soda.</step>
+		<step>Cream the butter, then cream in the sugar and beat until fluffy.</step>
+		<step>Add the egg and beat well, then stir in the buttermilk.</step>
+		<step>Stir in the flour mixture until just blended.</step>
+		<step>Spread in a <equipment>9-inch square pan</equipment>. Sprinkle evenly with streusel.</step>
+		<step>Bake at <temperature>350</temperature>F for about <time>30 minutes</time>, until brown and done inside. Cool on a rack.</step>
+	</steps>
+</recipe>

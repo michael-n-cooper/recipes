@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Whole Wheat Bread</title>
+	<meta>
+		<dishtype>Breads</dishtype>
+	</meta>
+	<ingredients>
+		<yield>2 loaves</yield>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>milk</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>4</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>butter</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>4</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>honey</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>water</item>
+			<preprep>lukewarm</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>yeast</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity approximate="true">
+				<value>5</value>
+				<unit>cups</unit>
+			</quantity>
+			<variant>whole wheat</variant>
+			<item>flour</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>
+			<procedure>Scald</procedure> the milk. Add butter, honey, and salt and allow to cool to lukewarm (<temperature>110</temperature>).</step>
+		<step>In a mixing bowl, sprinkle the yeast over the water and allow to dissolve about <time>5 minutes</time>.</step>
+		<step>Add the milk mixture to the yeast mixture.</step>
+		<step>Add flour gradually to make a dough that is not too stiff but holds together and doesn't stick to the bowl. Note: whole wheat flour absorbs water slowly. Add enough flour to make a soft, sticky dough, then let sit 10 minutes. The bran will absorb water and make the dough firmer. Then add enough additional flour to make a dough firm enough to knead.</step>
+		<step><procedure>Knead</procedure> about <time>10 minutes</time> (or <time>5 minutes</time> in a mixer), until dough is supple, elastic, and bounces back when pressed.</step>
+		<step>Add about 1/2 tsp oil to a clean bowl that is at least three times the volume of the dough. Form dough into a ball and place upside down in the bowl, coat with the oil, then flip dough over to coat the underside. Cover bowl with plastic wrap and let dough rise in a warm place. Dough should rise to about 2 1/2 times its original volume, when it still has a domed top but it is just about to flatten out. This usually takes about <time>1 1/2 to 2 hours</time>.</step>
+		<step>Punch down down, turn out of bowl, divide in half, and knead each half gently a couple times to deflate and redistribute the yeast. Don't knead too roughly, which will destroy the tiny air pockets.</step>
+		<step>Shape each half into a loaf by patting out into a circle, then folding two sides of it into the center and pinching together along most of the length, then folding in the other sides and pinching in a triangular pattern from the original seam to seal everything together.</step>
+		<step>Place in a lightly greased standard loaf pan, seam side down. Cover and let rise again until just under doubled in bulk. This rising will take half the time the first rising took, and the dough will feel soft when gently touched but still slightly springy. Do not over-rise at this stage; if risen properly to slightly under double in bulk it will have the best "oven bloom", or additional rising in the oven. This is important for good texture of the crumb.</step>
+		<step>About 10 minutes before the dough is finished rising, preheat the oven to <temperature>375</temperature>. When the dough is ready, put in the oven. Do not open the oven door for the first 10 minutes, as it will rise even further and must not be disturbed with cold air. Bake about <time>50 minutes</time>, until crust is browned and feels solid to the touch.</step>
+		<step>Take bread out of the oven, remove from the pan, and cool completely on a rack before slicing.</step>
+	</steps>
+	<storage>Store in plastic bread bags a few days. Bread can be frozen without much impact on quality, but do not defrost and refreeze. Do not refrigerate.</storage>
+</recipe>

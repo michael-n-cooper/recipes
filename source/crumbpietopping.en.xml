@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Crumb Topping for Pie</title>
+	<meta>
+		<dishtype>Ingredients</dishtype>
+		<dishtype>Pies</dishtype>
+		<processnote>Use this in place of the top crust on a pie. The filling must be precooked before pouring into the shell.</processnote>
+	</meta>
+	<ingredients>
+		<yield>Crust for one pie</yield>
+		<ingredient>
+			<quantity>
+				<value>115</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>3/4</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>155</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>3/4</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2.5</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1/4</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1/2</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>ground</variant>
+			<item>cinnamon</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>80</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>6</value>
+						<unit>tbs</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>butter</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Stir together the dry ingredients.</step>
+		<step>Work in the butter until the mixture forms crumbs with pea-sized pieces.</step>
+		<step>Fill pie with pre-cooked filling, and sprinkle crumbs evenly on top.</step>
+		<step>Bake at <temperature>425</temperature> 15 minutes, then reduce heat to <temperature>350</temperature> and continue to bake until crust browns, approximately <time>25 minutes</time>.</step>
+	</steps>
+</recipe>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Chocolate Frosting</title>
+	<meta>
+		<source>Cook's Country</source>
+		<dishtype>Frostings</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>4</value>
+				<unit>tbs</unit>
+			</quantity>
+			<variant>unsalted</variant>
+			<item>butter</item>
+			<preprep>cut into 4 pieces</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>oz</unit>
+			</quantity>
+			<variant>unsweetened</variant>
+			<item>chocolate</item>
+			<preprep>chopped</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3/4</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>cocoa</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>powdered sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>milk</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Melt butter and chocolate together until smooth. Stir in salt and cool <time>10 minutes</time>.</step>
+		<step>Sift together cocoa and powdered sugar.</step>
+		<step>Gradually add cocoa mixture to chocolate mixture, beating constantly at low speed.</step>
+		<step>Gradually add milk, beating until completely incorporated.</step>
+		<step>Beat at high speed until light and creamy, about <time>1 minute</time>.</step>
+	</steps>
+</recipe>

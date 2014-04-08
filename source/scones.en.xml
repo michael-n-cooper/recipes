@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>English Scones</title>
+	<meta>
+		<cuisine>English</cuisine>
+		<dishtype>Breads</dishtype>
+		<dishtype>Rolls</dishtype>
+		<processnote>These are leaner and higher than American <reciperef ref="buttermilkbiscuits">biscuits</reciperef>, but are otherwise similar. It is important that they are an even thickness when cutting, or the tops will topple over in the oven.</processnote>
+	</meta>
+	<ingredients>
+		<yield>8 scones</yield>
+		<ingredient>
+			<quantity>
+				<value>142</value>
+				<unit>grams</unit>
+				<altmeasure>
+					<quantity>
+						<value>1</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>all-purpose</variant>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>142</value>
+				<unit>grams</unit>
+				<altmeasure>
+					<quantity>
+						<value>1 1/4</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>pastry</variant>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>baking powder</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>cup</unit>
+				<altmeasure>
+					<quantity>
+						<value>2</value>
+						<unit>oz</unit>
+					</quantity>
+				</altmeasure>
+				<altmeasure>
+					<quantity>
+						<value>57</value>
+						<unit>grams</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>butter</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>7/8</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>milk</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Stir together all the dry ingredients until well blended.</step>
+		<step><procedure>Cut in the butter</procedure> until mixture resembles cornmeal.</step>
+		<step>Add the milk and mix until just blended.</step>
+		<step>Preheat oven to <temperature>425</temperature>.</step>
+		<step><procedure>Knead</procedure> 10 seconds on a floured board.</step>
+		<step>Pat or roll evenly on board until 1 inch thick.</step>
+		<step>Cut into 2-inch rounds. Place about 1 inch apart on a greased <equipment>baking sheet</equipment>.</step>
+		<step>Optional: brush tops with milk.</step>
+		<step>Bake <time>15 minutes</time>, until golden on top. Cool 10 minutes before serving.</step>
+	</steps>
+	<serving>Serve with clotted cream, jam, and tea.</serving>
+	<storage>Freeze in a freezer bag. Than and rewarm in the oven to serve.</storage>
+</recipe>

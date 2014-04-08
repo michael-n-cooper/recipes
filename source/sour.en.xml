@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Sour</title>
+	<meta>
+		<source>Rombauer, I.S. and Rombauer Becker, M.: Joy of Cooking (New York: Plume, 1997)</source>
+		<dishtype>Drinks</dishtype>
+	</meta>
+	<ingredients>
+		<yield>4 drinks</yield>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>jigger</unit>
+			</quantity>
+			<item>
+				<reciperef ref="sugarsyrup">Mixer Syrup</reciperef>
+			</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>jiggers</unit>
+			</quantity>
+			<item>lemon or lime juice</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>5</value>
+				<unit>jiggers</unit>
+			</quantity>
+			<item>gin, whisky, rum, or brandy</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3/4</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>cracked ice</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Shake the ingredients together until mixed and chilled.</step>
+		<step>Strain into chilled glasses.</step>
+	</steps>
+</recipe>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Cream Cheese Frosting</title>
+	<meta>
+		<source>Claiborn, Craig: The New York Times Cookbook (New York: Harper &amp; Row, 1990)</source>
+		<dishtype>Frostings</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>16</value>
+				<unit>oz</unit>
+				<altmeasure>
+					<quantity>
+						<value>500</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>cream cheese</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>8</value>
+				<unit>oz</unit>
+				<altmeasure>
+					<quantity>
+						<value>250</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>butter</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>5</value>
+				<unit>cups</unit>
+				<altmeasure>
+					<quantity>
+						<value>22</value>
+						<unit>oz</unit>
+					</quantity>
+				</altmeasure>
+				<altmeasure>
+					<quantity>
+						<value>625</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>confectioner's sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Ensure the cream cheese and butter are at room temperature. Whip together until lightened.</step>
+		<step>Add the confectioner's sugar and vanilla. Whip together a few minutes until completely smooth and fluffy.</step>
+	</steps>
+</recipe>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Fruit Crisp</title>
+	<meta>
+		<source>Marion Cunningham: The Fannie Farmer Cookbook, 13th Edition (1994: Knopf) (adapted)</source>
+		<dishtype>Desserts</dishtype>
+		<dishtype>Fruit Desserts</dishtype>
+		<comment>See also: <reciperef ref="applecrisp">Apple Crisp</reciperef></comment>
+	</meta>
+	<ingredients>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>4</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>fruit</item>
+			<note>apples, rhubarb, berries, peaches, etc.</note>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>baking powder</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+			</quantity>
+			<item>egg</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>lb</unit>
+			</quantity>
+			<item>butter</item>
+			<preprep>melted</preprep>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Preheat the oven to <temperature>375</temperature>. Butter an <equipment>8-inch square baking dish</equipment>.</step>
+		<step><procedure>Chop</procedure> the fruit, and put in the bottom of the baking dish. If using rhubarb, add a little extra sugar to the rhubarb at this point.</step>
+		<step>Blend together the sugar, flour, and baking powder.</step>
+		<step>Beat the egg lightly and add to the flour. Mix together well until you have a dry, clumpy mixture.</step>
+		<step>Sprinkle the flour mixture over the fruit. Pour the melted butter evenly over the top, and distribute evenly with a spoon.</step>
+		<step>Bake about <time>25 minutes</time>, until the fruit is cooked and the top is crisp and brown. Serve warm, with whipped cream or ice cream if desired.</step>
+	</steps>
+</recipe>

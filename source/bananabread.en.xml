@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Banana Bread</title>
+	<meta>
+		<dishtype>Breads</dishtype>
+		<dishtype>Quick Breads</dishtype>
+		<comment>I'm not a banana person, but a roommate generating lots of overripe leftover bananas prompted me to develop a recipe. I think this one is pretty good. The whole wheat and oat flour help balance the flavour and render slightly more healthy what is essentially a cake. The oat flour can be substituted for more whole wheat, or both can be substituted for white.</comment>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>3/4</value>
+				<unit>cup</unit>
+				<altmeasure>
+					<quantity>
+						<value>90</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>chopped</variant>
+			<item>walnuts</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<altmeasure>
+					<quantity>
+						<value>114</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>eggs</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3/4</value>
+				<unit>cup</unit>
+				<altmeasure>
+					<quantity>
+						<value>150</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>brown</variant>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+				<altmeasure>
+					<quantity>
+						<value>150</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>all purpose</variant>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3/4</value>
+				<unit>cup</unit>
+				<altmeasure>
+					<quantity>
+						<value>100</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>pastry</variant>
+			<item>whole wheat flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>cup</unit>
+				<altmeasure>
+					<quantity>
+						<value>65</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>oat flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+				<altmeasure>
+					<quantity>
+						<value>5</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>baking powder</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+				<altmeasure>
+					<quantity>
+						<value>3</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>baking soda</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+				<altmeasure>
+					<quantity>
+						<value>4</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>2</value>
+				<altmeasure>
+					<quantity>
+						<value>230</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>very ripe</variant>
+			<item>bananas</item>
+		</ingredient>
+		<ingredient_choice>
+			<ingredient>
+				<quantity>
+					<value>1/4</value>
+					<unit>cup</unit>
+					<altmeasure>
+						<quantity>
+							<value>60</value>
+							<unit>g</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>orange juice concentrate</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1/4</value>
+					<unit>cup</unit>
+					<altmeasure>
+						<quantity>
+							<value>60</value>
+							<unit>g</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>buttermilk</item>
+			</ingredient>
+		</ingredient_choice>
+		<ingredient>
+			<quantity>
+				<value>1 1/2</value>
+				<unit>tsp</unit>
+				<altmeasure>
+					<quantity>
+						<value>7</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>cup</unit>
+				<altmeasure>
+					<quantity>
+						<value>50</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>butter</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Preheat the oven to <temperature>375</temperature>.</step>
+		<step>Toast the walnuts <time>5 minutes</time> until lightly toasted, then remove and cool.</step>
+		<step>Melt the butter and let cool.</step>
+		<step>Meanwhile, <procedure>whip</procedure> the eggs and sugar together until they form a ribbon, about <time>5 minutes</time>.</step>
+		<step>While the eggs whip, mash the bananas well and stir in the orange juice concentrate or buttermilk and vanilla extract.</step>
+		<step>Sift together the flours, baking soda and baking powder, and salt.</step>
+		<step>Stir the banana mixture into the eggs, then add the butter, flour mixture, and walnuts and stir until evenly moistened.</step>
+		<step>Grease a <equipment>9 x 5 inch loaf pan</equipment>. Put the batter in the pan and bake <time>45 minutes</time> until <procedure>cake tests done</procedure>.</step>
+		<step>Cool <time>5 minutes</time>, then remove loaf from pan and cool on rack.</step>
+	</steps>
+</recipe>

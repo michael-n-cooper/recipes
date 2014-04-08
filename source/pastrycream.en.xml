@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Pastry Cream (Crème Pâtissière)</title>
+	<meta>
+		<dishtype>Ingredients</dishtype>
+	</meta>
+	<group>
+		<ingredients>
+			<yield>2 cups cake filling</yield>
+			<ingredient>
+				<quantity>
+					<value>1/2</value>
+					<unit>cup</unit>
+				</quantity>
+				<item>sugar</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1/4</value>
+					<unit>cup</unit>
+				</quantity>
+				<variant>all-purpose</variant>
+				<item>flour</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>3</value>
+				</quantity>
+				<item>egg yolks</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1 1/2</value>
+					<unit>cups</unit>
+				</quantity>
+				<item>milk</item>
+			</ingredient>
+			<ingredient_choice>
+				<ingredient>
+					<quantity>
+						<value>1/2</value>
+					</quantity>
+					<item>vanilla bean</item>
+				</ingredient>
+				<ingredient>
+					<quantity>
+						<value>1 1/2</value>
+						<unit>tsp</unit>
+					</quantity>
+					<item>vanilla extract</item>
+				</ingredient>
+			</ingredient_choice>
+			<ingredient optional="true">
+				<quantity>
+					<value>1</value>
+					<unit>tbs</unit>
+				</quantity>
+				<item>butter</item>
+			</ingredient>
+		</ingredients>
+	</group>
+	<group>
+		<ingredients>
+			<yield>2 1/2 cups tart filling</yield>
+			<ingredient>
+				<quantity>
+					<value>1</value>
+					<unit>cup</unit>
+				</quantity>
+				<item>sugar</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1/2</value>
+					<unit>cup</unit>
+				</quantity>
+				<variant>all-purpose</variant>
+				<item>flour</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>5</value>
+				</quantity>
+				<item>egg yolks</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>2</value>
+					<unit>cups</unit>
+				</quantity>
+				<item>milk</item>
+			</ingredient>
+			<ingredient_choice>
+				<ingredient>
+					<quantity>
+						<value>1</value>
+					</quantity>
+					<item>vanilla bean</item>
+				</ingredient>
+				<ingredient>
+					<quantity>
+						<value>1 1/2</value>
+						<unit>tbs</unit>
+					</quantity>
+					<item>vanilla extract</item>
+				</ingredient>
+			</ingredient_choice>
+			<ingredient optional="true">
+				<quantity>
+					<value>1</value>
+					<unit>tbs</unit>
+				</quantity>
+				<item>butter</item>
+			</ingredient>
+		</ingredients>
+	</group>
+	<steps>
+		<step>Whisk together sugar and flour until evenly blended.</step>
+		<step>Add egg yolks and enough milk to make a paste and beat until smooth.</step>
+		<step>If using vanilla bean, split and heat in the milk until simmering. Add the hot milk to the sugar mixture slowly, beating constantly. Scrape the seeds from the vanilla bean and add as well. If not using vanilla bean, simply add the remainder of the cold milk to the sugar mixture.</step>
+		<step>Heat mixture, beating constantly, until boiling and thick. Lumps may develop but should smooth out. Cook a few more minutes, beathing constantly, to cook the flour.</step>
+		<step>Remove from heat and beat in the butter and vanilla extract, if using.</step>
+		<step>Put custard through a <equipment>fine strainer</equipment> to remove any stray lumps and curdled egg.</step>
+		<step>Place plastic wrap directly on the surface of the custard and smooth out any air pockets. Allow to cool to room temperature.</step>
+	</steps>
+	<serving>Beat briefly before using in recipe.</serving>
+	<storage>Store in refrigerator tightly covered. Return to room termperature before using.</storage>
+</recipe>

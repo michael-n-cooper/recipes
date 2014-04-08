@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Raspberry Sorbet</title>
+	<meta>
+		<source>The Italian Kitchen</source>
+		<dishtype>Desserts</dishtype>
+		<dishtype>Sorbet</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+			</quantity>
+			<item>lemons</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3 1/2</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>4</value>
+				<unit>lbs</unit>
+			</quantity>
+			<item>raspberries</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>lemon juice</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Pulse-chop the lemons (with peel and seeds) in a food processor until finely chopped.</step>
+		<step>Blend in the sugar.</step>
+		<step>Blend in the raspberries until smooth. Add the remaining lemon juice.</step>
+		<step>Freeze in an <equipment>ice cream freezer</equipment>.</step>
+	</steps>
+</recipe>

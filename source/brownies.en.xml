@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Brownies</title>
+	<meta>
+		<source>Marion Cunningham: The Fannie Farmer Cookbook, 13th Edition (1994: Knopf)</source>
+		<dishtype>Desserts</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>6</value>
+				<unit>oz</unit>
+			</quantity>
+			<variant>unsweetened</variant>
+			<item>chocolate</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3/4</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>butter</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>4</value>
+			</quantity>
+			<item>eggs</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2 3/4</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>sugar</item>
+			<note>Fine crystal sugar is best as it dissolves more easily into the eggs.</note>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1 1/2</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1 1/2</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>walnuts</item>
+			<preprep>chopped</preprep>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Toast the walnuts about <time>15 minutes</time> in a <temperature>350</temperature> oven until fragrant. Cool. Increase oven heat to <temperature>375</temperature>. Butter and flour a <equipment>9 x 13 x 2 inch baking pan</equipment>.</step>
+		<step>Melt chocolate and butter together, stirring often. Remove from heat and cool.</step>
+		<step>Combine the eggs, vanilla, salt, and sugar in a mixing bowl and <procedure>beat</procedure> for <time>8 to 10 minutes</time>, until light in colour, fluffy, and the sugar has dissolved.</step>
+		<step>Gently stir in the chocolate and butter mixture, then fold in the flour just until well blended. Stir in the walnuts.</step>
+		<step>Spread in the prepared baking pan and bake about <time>25 minutes</time>, until the edges are set but the center is still slightly moist.</step>
+		<step>Cool in the pan a few hours, then cut into squares.</step>
+	</steps>
+</recipe>

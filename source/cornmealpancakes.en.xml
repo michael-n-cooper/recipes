@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Cornmeal pancakes</title>
+	<meta>
+		<dishtype>Breakfast</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>cornmeal</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3/4</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient_choice>
+			<ingredient>
+				<quantity>
+					<value>1</value>
+					<unit>tbs</unit>
+				</quantity>
+				<item>honey</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1</value>
+					<unit>tbs</unit>
+				</quantity>
+				<item>sugar</item>
+			</ingredient>
+		</ingredient_choice>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>water</item>
+			<preprep>boiling</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>milk</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+			</quantity>
+			<item>egg</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>butter</item>
+			<preprep>melted</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>cup</unit>
+			</quantity>
+			<variant>all-purpose</variant>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>baking powder</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Stir the water into the cornmeal, salt, and sugar or honey. Let rest, covered, <time>10 minutes</time>.</step>
+		<step>Beat together the egg and milk, then whisk in the melted butter. Combine with the cornmeal mixture.</step>
+		<step>Sift together the flour and baking powder, then stir into the cornmeal mixture just until mixed.</step>
+		<step>Grease a hot (<temperature>350</temperature>) <equipment>griddle</equipment> with butter. Use about 1/4 cup of batter per pancake. Fry until bubbles break on the surface, then flip over and fry a little longer until cooked through.</step>
+	</steps>
+	<serving>Serve with maple syrup.</serving>
+</recipe>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Fondant</title>
+	<meta>
+		<dishtype>Ingredients</dishtype>
+		<dishtype>Candy</dishtype>
+		<processnote>Most recipes call for allowing the fondant to "ripen" for a day or two before using, though I haven't figured out what the purpose of this is yet, as I haven't cbserved any changes it undergoes during that period.</processnote>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>water</item>
+		</ingredient>
+		<ingredient_choice>
+			<ingredient>
+				<quantity>
+					<value>1/4</value>
+					<unit>tsp</unit>
+				</quantity>
+				<item>cream of tarter</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>2</value>
+					<unit>tbs</unit>
+				</quantity>
+				<item>corn syrup</item>
+			</ingredient>
+		</ingredient_choice>
+		</ingredients>
+	<steps>
+		<step>Put the sugar and water in a heavy pot. Bring to a boil over medium high heat, add the cream of tarter, and boil covered for <time>3 minutes</time> to ensure there are no stray sugar crystals in the pot. Remove the cover and cook as for candy to the soft-ball state (<temperature>243</temperature>). The temperatue can be slighly higher or lower, but minor variations will have a major effect on the firmness of the fondant.</step>
+		<step>Pour sugar onto a clean stone surface. Do not scrape or shake any sugar from the pot that doesn't pour easily. Let cool until lukewarm (<temperature>100</temperature>). It should feel barely warm and wrinkle when touched, but still be fluid.</step>
+		<step>Using a <equipment>bench knife</equipment> or <equipment>fondant paddle</equipment>, work the fondant. Scrape the outer parts into the middle, then spread the middle out, and scrape back together thoroughly. Repeat this motion until the fondant thickens. It is helpful to intersperse the spreading and recombining with a motion of scraping a small section of the candy out and working it back over itself repeatedly, then scrape it into the main mass and work the entire mass again. The worked section will be lighter than the main mass, which indicates it is contributing seed crystals; this is faster than just working the main mass alone. Also, taking an occasional break from the motion and letting it (and you) rest helps, but only allow 30 seconds or so or the entire mass will crystallize and seize up, not yielding the desired smooth result.</step>
+		<step>The fondant will gradually whiten and thicken over a period of <time>5 to 10 minutes</time>. When it is too thick to continue working with the tool, begin kneading it with the hands like bread dough. It should continue to thicken and smooth out into a thick, even candy and be much like a heavy bread dough in texture.</step>
+	</steps>
+	<storage>Store completley airtight.</storage>
+</recipe>

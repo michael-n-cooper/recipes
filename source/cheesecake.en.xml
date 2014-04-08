@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Cheesecake</title>
+	<meta>
+		<source>John Gale</source>
+		<dishtype>Desserts</dishtype>
+	</meta>
+	<group>
+		<label>Crust</label>
+		<ingredients>
+			<ingredient>
+				<quantity>
+					<value>5</value>
+					<unit>oz</unit>
+				</quantity>
+				<item>graham crackers</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>3</value>
+					<unit>tbs</unit>
+				</quantity>
+				<item>sugar</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>6</value>
+					<unit>tbs</unit>
+				</quantity>
+				<item>butter, melted</item>
+			</ingredient>
+		</ingredients>
+		<steps>
+			<step>Preheat the oven to <temperature>325</temperature>.</step>
+			<step>Pulse the graham crackers and sugar in a food processor until evenly sandy.</step>
+			<step>In a bowl, combine graham cracker crumbs with melted butter until butter is evenly distributed.</step>
+			<step>Spread crumbs on bottom of a greased <equipment>9-inch springform pan</equipment> and press down.</step>
+			<step>Bake about <time>10 minutes</time> until lightly browned. Cool before adding filling.</step>
+		</steps>
+	</group>
+	<group>
+		<label>Filling</label>
+		<ingredients>
+			<ingredient mainingredient="true">
+				<quantity>
+					<value>2</value>
+					<unit>lb</unit>
+				</quantity>
+				<item>cream cheese</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1 1/4</value>
+					<unit>cups</unit>
+				</quantity>
+				<item>sugar</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>4</value>
+				</quantity>
+				<item>eggs</item>
+			</ingredient>
+			<ingredient_choice>
+				<ingredient>
+					<quantity>
+						<value>1/2</value>
+						<unit>tbs</unit>
+					</quantity>
+					<item>vanilla extract</item>
+				</ingredient>
+				<ingredient>
+					<quantity>
+						<value>1 1/2</value>
+						<unit>tbs</unit>
+					</quantity>
+					<item>lemon juice</item>
+				</ingredient>
+				<ingredient>
+					<item>other flavoring of choice</item>
+				</ingredient>
+			</ingredient_choice>
+		</ingredients>
+		<steps>
+			<step>Mix the cream cheese and sugar together until smooth.</step>
+			<step>Add the eggs one at a time, making sure mixture is fully combined.</step>
+			<step>Add the flavoring and blend.</step>
+			<step>Pour filling over the baked crust.</step>
+			<step>With the oven still at <temperature>325</temperature>, bake  about <time>1 hour</time>, until sides are firm and center is barely wobbly.</step>
+			<step>Cool on a rack in the pan a few hours. Run a paring knife along the edges of the pan, then remove the sides. Chill cake until firm.</step>
+		</steps>
+	</group>
+</recipe>

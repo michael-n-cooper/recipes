@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Almond Wafers</title>
+	<meta>
+		<source>Martha Stewart Cookies</source>
+		<dishtype>Cookies</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>3</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>baking soda</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<variant>unsalted</variant>
+			<item>butter</item>
+			<preprep>softened</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1 1/2</value>
+				<unit>cups</unit>
+			</quantity>
+			<variant>dark brown</variant>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+			</quantity>
+			<variant>large</variant>
+			<item>eggs</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>cinnamon</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>nutmeg</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1 1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>ginger</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>cloves</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>almonds</item>
+			<preprep>blanched</preprep>
+			<note>Original recipe called for this amount sliced almonds, may need a different quantity of whole</note>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Line two <equipment>6 x 3 1/4 x 2 in mini loaf pans</equipment> with plastic wrap.</step>
+		<step>Sift together flour, baking soda, and salt.</step>
+		<step><procedure>Cream</procedure> butter and sugar until fluffy.</step>
+		<step>Beat in eggs and spices.</step>
+		<step>Add flour mixture in 3 additions, mixing well after each addition. Stir in almonds.</step>
+		<step>Divide dough between the pans and press in. Freeze until firm, <time>1 1/2 hours</time> or overnight.</step>
+		<step>Preheat oven to <temperature>400</temperature>.</step>
+		<step>One at a time, remove plastic wrap from dough and slice crossways as thin as possible. Place slices 2 inches apart on greased baking sheets.</step>
+		<step>Bake until dark golden brown, <time>9 to 10 minutes</time>.</step>
+		<step>Transfer to wire racks and cool completely.</step>
+	</steps>
+	<storage>Store airtight up to one week.</storage>
+	
+</recipe>

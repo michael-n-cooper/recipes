@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Butter Sponge Cake</title>
+	<meta>
+		<source>Julia Child: Mastering the Art of French Cooking</source>
+		<dishtype>Desserts</dishtype>
+		<dishtype>Cakes</dishtype>
+	</meta>
+	<ingredients>
+		<yield>1 10-inch cake</yield>
+		<ingredient>
+			<quantity>
+				<value>4</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>butter</item>
+			<preprep>clarified</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2/3</value>
+				<unit>cup</unit>
+			</quantity>
+			<quantity>
+				<value>2</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>4</value>
+			</quantity>
+			<item>eggs</item>
+			<preprep>separated</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/8</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3/4</value>
+				<unit>cup</unit>
+				<altmeasure>
+					<quantity>
+						<value>2 3/4</value>
+						<unit>oz</unit>
+					</quantity>
+				</altmeasure>
+				<altmeasure>
+					<quantity>
+						<value>75</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>cake</variant>
+			<item>flour</item>
+			<preprep>sifted</preprep>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Preheat oven to <temperature>350</temperature>. Butter and flour a <equipment>10-inch cake pan</equipment>.</step>
+		<step>Melt the butter, and let cool.</step>
+		<step>Gradually beat the 2/3 cup sugar into the egg yolks. Add the vanilla extract, then continue to beat until the mixture is thick, pale yellow, and forms a ribbon, about <time>5 minutes</time>.</step>
+		<step>Beat the egg whites and salt together in a clean (grease-free) bowl with clean beater blades. Beat until soft peaks form, then sprinkle on the 2 tbs sugar and beat until stiff peaks form.</step>
+		<step>Add 1/4 of the egg white mixture to the egg yolk mixture, and sift on 1/4 of the flour. Fold gently together until partly blended.</step>
+		<step>Repeat with 1/3 of the remaining egg whites and flour, then with half the rest, and finally the remainder. With the last batch, add the butter. Mix well but gently to avoid deflating.</step>
+		<step>Spread evenly into pan. Bake <time>30 to 35 minutes</time>, or <time>12 minutes</time> for a jelly roll cake.</step>
+		<step>Invert onto a rack, then immediately flip again onto its base to cool.</step>
+	</steps>
+	<variation>
+		<label>Jelly roll or yule log</label>
+		<steps>
+			<step>Preheat oven to <temperature>375</temperature>.</step>
+			<step>Use a <equipment>12 x 17 inch jelly roll pan</equipment>. Add a layer of parchment paper to the bottom, and grease that.</step>
+			<step>Be sure to spread batter very evenly in a thin layer in the pan. Bake about <time>12 minutes</time>.</step>
+			<step>Invert onto a towel. Remove the parchment paper and immediately roll up lengthwise with the towel in it. Let cool in the towel.</step>
+			<step>When cool, unroll, remove towel, fill with desired filling, and reroll.</step>
+		</steps>
+	</variation>
+</recipe>

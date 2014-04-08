@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Cookie Press Cookies</title>
+	<meta>
+		<source>Peggy Eskow</source>
+		<dishtype>Desserts</dishtype>
+		<dishtype>Cookies</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>3/4</value>
+				<unit>lb</unit>
+			</quantity>
+			<item>butter (3 sticks)</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+			</quantity>
+			<item>egg</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>milk</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>almond extract</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>4</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>baking powder</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Preheat oven to <temperature>400</temperature>.</step>
+		<step><procedure>Cream</procedure> butter and sugar together.</step>
+		<step>Add egg, milk, and extracts and mix until smooth.</step>
+		<step><procedure>Sift</procedure> together flour and baking powder, then mix into butter mixture.</step>
+		<step>Fill <equipment>cookie press</equipment> and press onto chilled ungreased <equipment>cookie sheets</equipment>.</step>
+		<step>Bake about <time>10 minutes</time>, until they begin to turn light brown at edges.</step>
+		<step>Cool <time>1 minute</time>, then slide off cookie sheet.</step>
+	</steps>
+</recipe>

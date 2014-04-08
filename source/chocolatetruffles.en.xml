@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Chocolate Truffles</title>
+	<meta>
+		<source>Weinstein, Bruce: The Ultimate Candy Book (2000: William Morrow) (adapted)</source>
+		<dishtype>Candy</dishtype>
+	</meta>
+	<group>
+		<label>Centers</label>
+		<ingredients>
+			<yield>36 truffles</yield>
+			<ingredient mainingredient="true">
+				<quantity>
+					<value>12</value>
+					<unit>oz</unit>
+				</quantity>
+				<variant>bittersweet or semisweet</variant>
+				<item>chocolate</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>2/3</value>
+					<unit>cup</unit>
+				</quantity>
+				<item>heavy cream</item>
+				<note>(1/2 cup if using a liqueur flavoring)</note>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1</value>
+					<unit>tbs</unit>
+				</quantity>
+				<variant>unsalted</variant>
+				<item>butter</item>
+				<preprep>softened</preprep>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1</value>
+					<unit>tbs</unit>
+				</quantity>
+				<item>vanilla extract</item>
+			</ingredient>
+			<ingredient optional="true">
+				<quantity>
+					<value>3</value>
+					<unit>tbs</unit>
+				</quantity>
+				<item>liqueur</item>
+				<note>rum, whisky, Grand Marnier, Amaretto, Chambord, etc.</note>
+			</ingredient>
+		</ingredients>
+		<steps>
+			<step>Chop the chocolate and place in a bowl.</step>
+			<step>Bring the cream to a simmer, then pour over the chocolate.</step>
+			<step>Stir cream and chocolate until chocolate melts and mixture is completely blended.</step>
+			<step>Add butter, vanilla extract, and liqueur (if using) and blend in.</step>
+			<step>Refrigerate chocolate mixture at least <time>1 hour</time>, until firm.</step>
+			<step>Scoop out heaping teaspoons of the chocolate and form into balls with your palms. Wear rubber gloves as your body heat will melt the chocolate instantly making it much harder to form.</step>
+		</steps>
+	</group>
+	<group>
+		<label>Coating</label>
+		<ingredients>
+			<ingredient_choice>
+				<ingredient>
+					<quantity>
+						<value>1/2</value>
+						<unit>cup</unit>
+					</quantity>
+					<item>cocoa</item>
+				</ingredient>
+				<ingredient>
+					<quantity>
+						<value>1/2</value>
+						<unit>cup</unit>
+					</quantity>
+					<item>powdered sugar</item>
+				</ingredient>
+				<ingredient>
+					<quantity>
+						<value>1</value>
+						<unit>cup</unit>
+					</quantity>
+					<item>finely chopped toasted nuts</item>
+				</ingredient>
+				<ingredient>
+					<quantity>
+						<value>12</value>
+						<unit>oz</unit>
+					</quantity>
+					<item>milk or dark chocolate, melted</item>
+				</ingredient>
+			</ingredient_choice>
+		</ingredients>
+		<activity>
+			<label>If using one of the dry coatings</label>
+			<steps>
+				<step>roll the centers in the coating</step>
+				<step>roll with your hands so coating will adhere, and roll again</step>
+			</steps>
+		</activity>
+		<activity>
+			<label>To dip the truffles in chocolate</label>
+			<steps>
+				<step>Chop chocolate and place in top pan of a double boiler.</step>
+				<step>Bring water in bottom pan of double boiler to a boil. Make sure the water level is not so high it will touch top pan. Do not place the top pan over the bottom pan yet.</step>
+				<step>Turn off the heat. Place top pan over bottom pan. Stir chocolate until it melts. Ensure that seal between boiler pans is tight so steam will not escape and condense into the chocolate, which would cause it to seize.</step>
+				<step>Remove top pan and allow chocolate to cool, stirring occasionally, until it reaches <temperature>88</temperature> to <temperature>90</temperature> for semisweet chocolate, or <temperature>86</temperature> to <temperature>88</temperature> for milk or white chocolate. The chocolate should be still melted but just ready to set.</step>
+				<step>Dip the truffles in the chocolate, turning to coat completely, and place on wax paper to cool.</step>
+			</steps>
+		</activity>
+	</group>
+	<storage>Store truffles refrigerated, but serve at room temperature.</storage>
+</recipe>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Almond Macaroons</title>
+	<meta>
+		<cuisine>French</cuisine>
+		<dishtype>Cookies</dishtype>
+	</meta>
+	<group>
+		<label>Meringue method</label>
+		<comment>This is a traditional recipe, which makes a very light macaroon with a domed sugar crust.</comment>
+		<ingredients>
+			<ingredient>
+				<quantity>
+					<value>4</value>
+					<unit>oz</unit>
+					<altmeasure>
+						<quantity>
+							<value>1 1/8</value>
+							<unit> cup</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>almonds</item>
+				<preprep>ground</preprep>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>7</value>
+					<unit>oz</unit>
+					<altmeasure>
+						<quantity>
+							<value>1 1/2</value>
+							<unit>cup</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<variant>confectioners'</variant>
+				<item>sugar</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1</value>
+					<unit>oz</unit>
+					<altmeasure>
+						<quantity>
+							<value>2</value>
+							<unit>tbs</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>sugar</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>3</value>
+					<altmeasure>
+						<quantity>
+							<value>3/8</value>
+							<unit>cup</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>egg whites</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1</value>
+					<unit>tsp</unit>
+				</quantity>
+				<item>almond extract</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1/2</value>
+					<unit>tsp</unit>
+				</quantity>
+				<item>vanilla extract</item>
+			</ingredient>
+		</ingredients>
+	</group>
+	<group>
+		<label>Almond paste method</label>
+		<comment>This Americanized recipe makes a smaller, chewy macaroon.</comment>
+		<ingredients>
+			<ingredient>
+				<quantity>
+					<value>8</value>
+					<unit>oz</unit>
+				</quantity>
+				<item>almond paste</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>4</value>
+					<unit>oz</unit>
+					<altmeasure>
+						<quantity>
+							<value>1/2</value>
+							<unit>cup</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>sugar</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>2</value>
+					<altmeasure>
+						<quantity>
+							<value>1/4</value>
+							<unit>cup</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>egg whites</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1/2</value>
+					<unit>tsp</unit>
+				</quantity>
+				<item>almond extract</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1/2</value>
+					<unit>tsp</unit>
+				</quantity>
+				<item>vanilla extract</item>
+			</ingredient>
+		</ingredients>
+		<steps>
+			<step>Preheat oven to <temperature>325</temperature>. Line two <equipment>baking sheets</equipment> with <equipment>parchment paper</equipment>.</step>
+			<step>Sift together ground almonds and confectioners' sugar.</step>
+			<step>Beat egg whites until they form soft peaks. While still beating, slowly add the sugar, and continue to beat until it forms stiff peaks. Beat in the extracts.</step>
+			<step><procedure>Fold</procedure> the almond mixture into the egg whites.</step>
+			<step>Scrape into a <equipment>pastry bag</equipment> fitted with a <equipment>1/2 inch round tip</equipment>. Pipe 1-tbs amounts 2 inches apart on the parchment. Form perfectly round discs with no tails.</step>
+			<step>Bake until lightly browned, about <temperature>15 minutes</temperature>.</step>
+			<step>Slide parchment onto a rack to cool. When cookies have fully cooled, peel off paper.</step>
+		</steps>
+	</group>
+</recipe>

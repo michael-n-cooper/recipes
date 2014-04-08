@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Red Velvet Cake</title>
+	<meta>
+		<dishtype>Desserts</dishtype>
+		<dishtype>Cakes</dishtype>
+		<processnote>Most recipes do not call for baking powder, but use 1 tsp baking soda and 1 tbs white vinegar added at the end. I swapped to baking powder because it is double-acting and won't expend itself during the mixing phase.</processnote>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>150</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1 1/4</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>all-purpose</variant>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>100</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>pastry</variant>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>12</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>2 1/2</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>baking powder</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3.5</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1/2</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>15</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>2</value>
+						<unit>tbs</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>natural</variant>
+			<item>cocoa</item>
+		</ingredient>
+		<ingredient_choice>
+			<ingredient>
+				<quantity>
+					<value>30</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>2</value>
+							<unit>tbs</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>liquid red food coloring</item>
+			</ingredient>
+			<ingredient_group>
+				<ingredient>
+					<quantity>
+						<value>25</value>
+						<unit>g</unit>
+						<altmeasure>
+							<quantity>
+								<value>2</value>
+								<unit>tbs</unit>
+							</quantity>
+						</altmeasure>
+					</quantity>
+					<item>water</item>
+				</ingredient>
+				<ingredient>
+					<quantity>
+						<value>5</value>
+						<unit>g</unit>
+						<altmeasure>
+							<quantity>
+								<value>1/2</value>
+								<unit>tsp</unit>
+							</quantity>
+						</altmeasure>
+					</quantity>
+					<item>concentrated red food coloring gel</item>
+				</ingredient>
+			</ingredient_group>
+		</ingredient_choice>
+		<ingredient>
+			<quantity>
+				<value>5</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>115</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1/2</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>butter</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1 1/2</value>
+				<unit>cups</unit>
+				<altmeasure>
+					<quantity>
+						<value>340</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+			</quantity>
+			<item>eggs</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>235</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>buttermilk</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Preheat the oven to <temperature>350</temperature>.</step>
+		<step>Grease the inside of two <equipment>9-inch round cake pans</equipment>. Line each with a round of parchment paper.</step>
+		<step><procedure>Sift</procedure> together the flours, baking powder, and salt.</step>
+		<step>Mix the cocoa, vanilla extract, and food coloring to make a paste.</step>
+		<step><procedure>Cream</procedure> the butter and sugar until fluffy, about <time>5 minutes</time>.</step>
+		<step>Beat in the eggs, one at a time, until well incorporated.</step>
+		<step>Stir in the cocoa mixture.</step>
+		<step>Add the flour mixture in three parts alternately with the buttermilk in two parts. Incorporate well between additions but do not over-mix. Then mix until fully homogenous.</step>
+		<step>Distribute the batter among the cake pans and level. Bake <time>35 to 40 minutes</time>, until the tops spring back when gently pressed.</step>
+		<step>Cool in the pan <time>10 minutes</time> on a <equipment>wire rack</equipment>, then remove from the pans and finish cooling on the rack.</step>
+		<step><procedure>Split</procedure> each layer in half horizontally to yield four layers.</step>
+		<step>Fill and frost with <reciperef ref="creamcheesefrosting">Cream Cheese Frosting</reciperef>.</step>
+	</steps>
+</recipe>
