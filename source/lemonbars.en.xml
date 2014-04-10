@@ -63,6 +63,13 @@
 			</ingredient>
 			<ingredient>
 				<quantity>
+					<value>1/4</value>
+					<unit>tsp</unit>
+				</quantity>
+				<item>vanilla extract</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
 					<value>1/8</value>
 					<unit>tsp</unit>
 				</quantity>
