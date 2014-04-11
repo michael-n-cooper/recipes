@@ -32,7 +32,7 @@
 			</ingredient>
 			<ingredient>
 				<quantity>
-					<value>2</value>
+					<value>1</value>
 					<unit>tsp</unit>
 				</quantity>
 				<item>lemon zest</item>
@@ -99,7 +99,7 @@
 		</ingredients>
 		<steps>
 			<step>Stir together flour and sugar.</step>
-			<step>Combine eggs, lemon zest, salt, and lemon juice and mix until well blended.</step>
+			<step>Combine eggs, lemon zest, vanilla, salt, and lemon juice and mix until well blended.</step>
 			<step>Add sugar-flour mixture and incorporate well.</step>
 			<step>Pour filling onto hot crust. Return to oven and bake about <time>25 minutes</time>, until top is golden brown. Cool completely.</step>
 		</steps>
