@@ -1,4 +1,4 @@
-<!DOCTYPE recipe SYSTEM ../recipes.dtd>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
 <recipe>
     <title>Raspberry Jam</title>
     <meta>
@@ -38,12 +38,12 @@
     <steps>
         <step>Preheat an oven to <temperature>215</temperature>.</step>
         <step>Put the sugar in the oven and warm to the oven's temperature, at least <time>1 hour</time>.</step>
-        <step>Fill a canning kettle with water to the appropriate level and brin to boil. Reduce heat and keep ready at the boil until the jam is ready. Sterilize <equipment>canning jars</equipment> and lids.</step>
+        <step>Fill a canning kettle with water to the appropriate level and bring to boil. Reduce heat and keep ready at the boil until the jam is ready. Sterilize <equipment>canning jars</equipment> and lids.</step>
         <step>Run the raspberries through the fine plate of a food mill to remove seeds. Mill completely to remove as much pulp from around the seeds as possible.</step>
         <step>Return about half the seeds to the batch. Discard the rest.</step>
         <step>Put the raspberries in a pot with at least three times the capacity of the batch.</step>
         <step>Bring batch to a boil. Keep at the boil, stirring occasionally, until the volume drops noticeably and mixture starts to thicken.</step>
-        <step>Add the hot sugar to the raspberries, stir in to dissolve, and return to the boil. Continue to cook, stirring frequently, unti the batch reaches <temperature>215</temperature>.</step>
+        <step>Add the hot sugar to the raspberries, stir in to dissolve, and return to the boil. Continue to cook, stirring frequently, until the batch reaches <temperature>215</temperature>.</step>
         <step>Add the lemon juice and pectin.</step>
         <step>Continue to cook, stirring frequently, until mixture reaches the jellying point, around <temperature>221</temperature>.</step>
         <step><procedure>Can</procedure> and seal jars in canning kettle <time>10 minutes</time>.</step>
