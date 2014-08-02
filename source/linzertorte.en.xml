@@ -10,7 +10,7 @@
 	<ingredients>
 		<ingredient>
 			<quantity>
-				<value>210</value>
+				<value>200</value>
 				<unit>g</unit>
 				<altmeasure>
 					<quantity>
@@ -24,11 +24,11 @@
 		</ingredient>
 		<ingredient>
 			<quantity>
-				<value>185</value>
+				<value>200</value>
 				<unit>g</unit>
 				<altmeasure>
 					<quantity>
-						<value>1 1/2</value>
+						<value>1 2/3</value>
 						<unit>cup</unit>
 					</quantity>
 				</altmeasure>
@@ -38,7 +38,7 @@
 		</ingredient>
 		<ingredient>
 			<quantity>
-				<value>135</value>
+				<value>150</value>
 				<unit>g</unit>
 				<altmeasure>
 					<quantity>
@@ -74,7 +74,7 @@
 		</ingredient>
 		<ingredient>
 			<quantity>
-				<value>195</value>
+				<value>200</value>
 				<unit>g</unit>
 				<altmeasure>
 					<quantity>
@@ -87,15 +87,15 @@
 		</ingredient>
 		<ingredient>
 			<quantity>
-				<value>40</value>
+				<value>60</value>
 				<unit>g</unit>
 				<altmeasure>
 					<quantity>
-						<value>2</value>
+						<value>1</value>
 					</quantity>
 				</altmeasure>
 			</quantity>
-			<item>egg yolks</item>
+			<item>egg</item>
 		</ingredient>
 		<ingredient>
 			<quantity>
@@ -110,7 +110,7 @@
 				<unit>g</unit>
 				<altmeasure>
 					<quantity>
-						<value>1</value>
+						<value>1 1/4</value>
 						<unit>cup</unit>
 					</quantity>
 				</altmeasure>
@@ -125,8 +125,8 @@
 	<steps>
 		<step>Add dry ingredients to a food processor and process until sandy evenly ground and mixed.</step>
 		<step>Add butter and pulse in until mealy.</step>
-		<step>Add egg yolk and vanilla and process until it comes together. Add very small amounts of water if needed to make it form a firm dough.</step>
-		<step>Divide dough into two portions, one slightly larger than the other, form into cohesive disks, wrap both in plastic, and refrigerate until firm but not solid, approximately <time>2 hours</time>.</step>
+		<step>Add egg and vanilla and process until it comes together.</step>
+		<step>Divide dough into two portions, one 2/3 and the other 1/3 of the dough. Form into cohesive disks, and if desired, wrap both in plastic, and refrigerate until firm but not solid, approximately <time>2 hours</time>.</step>
 		<step>Preheat oven to <temperature>350</temperature>.</step>
 		<step>Roll out larger portion of dough and <procedure>line</procedure> a <equipment>10-inch tart pan</equipment>.</step>
 		<step>Spread the preserves evenly in the shell to the edge.</step>
