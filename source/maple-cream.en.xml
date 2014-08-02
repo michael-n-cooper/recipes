@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "recipes.dtd">
+<recipe>
+<title>Maple Cream</title>
+<meta>
+<processnote>This is a spreadable creamy form of 100% maple syrup. Use as for other sweet spreads. There is no doctoring agent to help prevent crystalization during the cooking process. If crystals form prior to the stirring stage, a grainy texture will result in the final product. Be careful not to provoke crystal formation by stirring, and do not scrape the sides of the pot which could have crystals from the boiling process.
+</processnote>
+<dishtype>Spread</dishtype>
+</meta>
+<ingredients>
+      <yield>2 lb</yield>
+<ingredient><quantity><value>500</value><unit>ml</unit></quantity><item>maple syrup</item></ingredient>
+<ingredient><quantity><value>0.5</value><unit>t</unit></quantity><item>oil</item></ingredient>
+<ingredient><quantity><value>0.125</value><unit>t</unit></quantity><item>salt</item></ingredient>
+<ingredient><quantity><value>1</value><unit>T</unit></quantity><item>fondant</item><prep>optional</prep></ingredient>
+<ingredient><quantity><value>0.5</value><unit>t</unit></quantity><item>vanilla extract</item><prep>optional</prep></ingredient>
+</ingredients>
+<steps>
+<step>Put maple syrup in a saucepan several times its volume, to allow for foaming. Add oil to reduce boil-over risk. Set in a candy thermometer.</step>
+<step>Bring to a boil over medium heat. Cook without stirring, adjusting heat to keep boiling without excess foam, until it registers 235 F. As it approaches temperature, add salt if using.</step>
+<step>Remove from heat and transfer syrup, without scraping pot, to a stand mixer. Place bowl in an ice water bath and cool, without disturbing, until lukewarm, 100 F, and thick but still workable.</step>
+<step>Add fondant or a little maple cream from a previous batch, if using, to speed up crystalization. Add optional vanilla extract.</step>
+<step>Stir with the stand mixer paddle attachment on lowest speed until the sugar crystalizes and loses its gloss, making a light colour and thick creamy texture. This will take about 30 minutes, less with fondant addition.</step>
+<step>Quickly transfer to a jar while it is still fluid. Cover tightly and let ripen at room temperature 1 day.</step>
+</steps>
+<storage>Store at room temperature or in refrigerator 6 months.</storage>
+</recipe>
