@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+    <title>Kimchi</title>
+<meta>
+<cuisine>Korean</cuisine>
+    <processnote>There are many ways to make kimchi. This is my take, salting the cabbage instead of using a brine, and vegan because it does not use fish sauce or dried shrimps.</processnote>
+</meta>
+<ingredients>
+    <yield>1 Litre jar</yield>
+    <ingredient><quantity><value>1500</value><unit>g</unit></quantity><item>Napa Cabbage</item></ingredient>
+<ingredient><quantity><value>45</value><unit>g</unit></quantity><item>salt</item></ingredient>
+<ingredient><quantity><value>1</value><unit>clv</unit></quantity><item>garlic</item></ingredient>
+<ingredient><quantity><value>1</value><unit>T</unit></quantity><item>ginger</item></ingredient>
+<ingredient><quantity><value>0.25</value><unit>c</unit></quantity><item>gochugaru</item><prep>fermented chili paste or chili powder</prep></ingredient>
+<ingredient><quantity><value>1</value><unit>t</unit></quantity><item>sugar</item></ingredient>
+<ingredient><quantity><value>100</value><unit>g</unit></quantity><item>scallions</item><prep>or onion tps</prep></ingredient>
+<ingredient><quantity><value>200</value><unit>g</unit></quantity><item>carrots</item></ingredient>
+<ingredient><quantity><value>200</value><unit>g</unit></quantity><item>radish</item><note>daikon preferred</note></ingredient>
+</ingredients>
+<steps>
+<step>Quarter the cabbage lengthwise. Trim out and discard core, then cut crosswise into 2-inch chunks.</step>
+<step>Mix the salt and cabbage in a bowl and let sit overnight. The salt will draw water out of the cabbage.</step>
+<step>The next day, drain well and reserve the brine.</step>
+<step>Grate the ginger and garlic into a mixing bowl. Add the chili paste, sugar, and enough of the cabbage brine to make a thick but stirrable mixture.</step>
+<step>Julienne the radish, slice the carrots thinly on a steep bias, and cut the scallions (with greens) into 2-inch lengths.</step>
+<step>Add the cabbage and other veggies to the chili paste bowl and mix together well.</step>
+<step>Pack into a 1-litre jar. Cover and let sit at room temperature 3 days to ferment. Occasionally release gas from the jar.</step>
+</steps>
+<storage>Transfer jar to a refrigerator. Store one week or up to 6 months refrigerated before serving.</storage>
+</recipe>
