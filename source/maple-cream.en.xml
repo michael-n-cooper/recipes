@@ -12,8 +12,8 @@
 <ingredient><quantity><value>500</value><unit>ml</unit></quantity><item>maple syrup</item></ingredient>
 <ingredient><quantity><value>0.5</value><unit>t</unit></quantity><item>oil</item></ingredient>
 <ingredient><quantity><value>0.125</value><unit>t</unit></quantity><item>salt</item></ingredient>
-<ingredient><quantity><value>1</value><unit>T</unit></quantity><item>fondant</item><prep>optional</prep></ingredient>
-<ingredient><quantity><value>0.5</value><unit>t</unit></quantity><item>vanilla extract</item><prep>optional</prep></ingredient>
+<ingredient optional="true"><quantity><value>1</value><unit>T</unit></quantity><item>fondant</item></ingredient>
+<ingredient optional="true"><quantity><value>0.5</value><unit>t</unit></quantity><item>vanilla extract</item></ingredient>
 </ingredients>
 <steps>
 <step>Put maple syrup in a saucepan several times its volume, to allow for foaming. Add oil to reduce boil-over risk. Set in a candy thermometer.</step>
