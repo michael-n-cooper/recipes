@@ -12,9 +12,9 @@
 <ingredient><quantity><value>45</value><unit>g</unit></quantity><item>salt</item></ingredient>
 <ingredient><quantity><value>1</value><unit>clv</unit></quantity><item>garlic</item></ingredient>
 <ingredient><quantity><value>1</value><unit>T</unit></quantity><item>ginger</item></ingredient>
-<ingredient><quantity><value>0.25</value><unit>c</unit></quantity><item>gochugaru</item><prep>fermented chili paste or chili powder</prep></ingredient>
+<ingredient><quantity><value>0.25</value><unit>c</unit></quantity><item>gochugaru</item><processnote>fermented chili paste or chili powder</processnote></ingredient>
 <ingredient><quantity><value>1</value><unit>t</unit></quantity><item>sugar</item></ingredient>
-<ingredient><quantity><value>100</value><unit>g</unit></quantity><item>scallions</item><prep>or onion tps</prep></ingredient>
+<ingredient><quantity><value>100</value><unit>g</unit></quantity><item>scallions or onion tops</item></ingredient>
 <ingredient><quantity><value>200</value><unit>g</unit></quantity><item>carrots</item></ingredient>
 <ingredient><quantity><value>200</value><unit>g</unit></quantity><item>radish</item><note>daikon preferred</note></ingredient>
 </ingredients>
