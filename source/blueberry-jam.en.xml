@@ -3,6 +3,7 @@
     <title>Blueberry Jam</title>
     <meta>
         <dishtype>Jams</dishtype>
+        <processnote>Blueberries jam has a wonderful distinct flavour. The berries are sweet and don't require as much sugar as other jams. The jam will still set with the added pectin and lemon juice.</processnote>
     </meta>
     <ingredients>
         <yield>3 pints</yield>
@@ -44,6 +45,7 @@
     </ingredients>
     <steps>
         <step>Fill a canning kettle with water to the appropriate level and bring to boil. Reduce heat and keep ready at the boil until the jam is ready. Sterilize <equipment>canning jars</equipment> and lids.</step>
+        <step>Pick over the blueberries to remove stems and leaves, and rinse them.</step>
         <step>Put the blueberries and water in a pot with at least three times the capacity of the batch.</step>
         <step>Cover and bring batch to a boil. When blueberries are all wetted, uncover. Keep at the boil, stirring occasionally, until the volume drops noticeably and mixture starts to thicken.</step>
         <step>Add the sugar to the blueberries, stir in to dissolve, and return to the boil. Continue to cook, stirring frequently, until the batch reaches <temperature>215</temperature>.</step>
