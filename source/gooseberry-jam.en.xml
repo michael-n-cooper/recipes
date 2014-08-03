@@ -1,0 +1,40 @@
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+    <title>Gooseberry Jam</title>
+    <meta>
+        <dishtype>Jams</dishtype>
+        <processnote>Gooseberry jam is tart and flavourful, good on scones to accompany meats.</processnote>
+    </meta>
+    <ingredients>
+        <yield>3 pints</yield>
+        <ingredient>
+            <quantity>
+                <value>1000</value>
+                <unit>g</unit>
+            </quantity>
+            <item>gooseberries</item>
+        </ingredient>
+        <ingredient>
+            <quantity>
+                <value>250</value>
+                <unit>g</unit>
+            </quantity>
+            <item>water</item>
+        </ingredient>
+        <ingredient>
+            <quantity>
+                <value>1000</value>
+                <unit>g</unit>
+            </quantity>
+            <item>sugar</item>
+        </ingredient>
+    </ingredients>
+    <steps>
+        <step>Fill a canning kettle with water to the appropriate level and bring to boil. Reduce heat and keep ready at the boil until the jam is ready. Sterilize <equipment>canning jars</equipment> and lids.</step>
+        <step>Pick over the gooseberries to remove stems and leaves, and rinse them.</step>
+        <step>Put the gooseberries and water in a pot with at least three times the capacity of the batch.</step>
+        <step>Bring batch to a boil. Keep at the boil, stirring occasionally, until the gooseberries soften and begin to break down, the volume drops noticeably, and mixture starts to thicken.</step>
+        <step>Add the sugar to the gooseberries, stir in to dissolve, and return to the boil. Continue to cook, stirring frequently, until the batch reaches the jellying point, around <temperature>221</temperature>.</step>
+        <step><procedure>Can</procedure> and seal jars in canning kettle <time>10 minutes</time>.</step>
+    </steps>
+</recipe>
