@@ -1,0 +1,54 @@
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+    <title>Blueberry Jam</title>
+    <meta>
+        <dishtype>Jams</dishtype>
+    </meta>
+    <ingredients>
+        <yield>3 pints</yield>
+        <ingredient>
+            <quantity>
+                <value>1000</value>
+                <unit>g</unit>
+            </quantity>
+            <item>blueberries</item>
+        </ingredient>
+        <ingredient>
+            <quantity>
+                <value>100</value>
+                <unit>g</unit>
+            </quantity>
+            <item>water</item>
+        </ingredient>
+        <ingredient>
+            <quantity>
+                <value>700</value>
+                <unit>g</unit>
+            </quantity>
+            <item>sugar</item>
+        </ingredient>
+        <ingredient>
+            <quantity>
+                <value>2</value>
+                <unit>tbs</unit>
+            </quantity>
+            <item>lemon juice</item>
+        </ingredient>
+        <ingredient optional="true">
+            <quantity>
+                <value>1/2</value>
+                <unit>package</unit>
+            </quantity>
+            <item>pectin</item>
+        </ingredient>
+    </ingredients>
+    <steps>
+        <step>Fill a canning kettle with water to the appropriate level and bring to boil. Reduce heat and keep ready at the boil until the jam is ready. Sterilize <equipment>canning jars</equipment> and lids.</step>
+        <step>Put the blueberries and water in a pot with at least three times the capacity of the batch.</step>
+        <step>Cover and bring batch to a boil. When blueberries are all wetted, uncover. Keep at the boil, stirring occasionally, until the volume drops noticeably and mixture starts to thicken.</step>
+        <step>Add the sugar to the blueberries, stir in to dissolve, and return to the boil. Continue to cook, stirring frequently, until the batch reaches <temperature>215</temperature>.</step>
+        <step>Add the lemon juice and pectin.</step>
+        <step>Continue to cook, stirring frequently, until mixture reaches the jellying point, around <temperature>221</temperature>.</step>
+        <step><procedure>Can</procedure> and seal jars in canning kettle <time>10 minutes</time>.</step>
+    </steps>
+</recipe>
