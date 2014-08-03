@@ -5,7 +5,7 @@
         <dishtype>Jams</dishtype>
     </meta>
     <ingredients>
-        <yield>4 pints</yield>
+        <yield>3 pints</yield>
         <ingredient>
             <quantity>
                 <value>1000</value>
@@ -29,7 +29,7 @@
         </ingredient>
         <ingredient optional="true">
             <quantity>
-                <value>1/4</value>
+                <value>1/2</value>
                 <unit>package</unit>
             </quantity>
             <item>pectin</item>
