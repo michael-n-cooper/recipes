@@ -50,14 +50,16 @@
 	</ingredients>
 	<steps>
 		<step>Place a <equipment>strainer</equipment> over a <equipment>8-litre pot</equipment>. Cut the oranges and lemons in half at the equator. Use a <equipment>reamer</equipment> to extract the seeds and juice into the strainer.</step>
-		<step>Cut eat half of the peel into half again. Layer the quarters by twos or fours, and slice as thin as possible crossways. Add them to the pot with the juice.</step>
+		<step>Cut each half of the peel into half again. Layer the quarters by twos or fours, and slice as thin as possible crossways. Add them to the pot with the juice that has passed through the strainer.</step>
 		<step>Add the water to the pot, adding more if needed to barely cover the fruit. Position the strainer so the seeds will be submerged but kept separate, or tie the seeds in a <equipment>cheesecloth</equipment> and add it to the peel mixture.</step>
 		<step>Bring to a boil, stirring occasionally. Remove from heat, cover, and let sit overnight, <time>12 - 24 hours</time>.</step>
-		<step>Sterilize and prepare <equipment>canning jars</equipment> for heat processing. In a <equipment>canner</equipment>, bring water sufficient to cover the jars to a boil.</step>
-		<step>Return orange mixture to the boil, stirring occasionally. Reduce heat to keep at a simmer. Extract the strainer or cloth containing seeds, pressing the gel that now surrounds them back into the mixture. Simmer, stirring occasionally, until peel is soft, approximately <time>1 hour</time>.</step>
-		<step>Raise heat and stir in the sugar. Return to a boil, stirring constantly to avoid scorching the bottom and ensure the sugar dissolves fully.</step>
+        <step>The next day, fill a canning kettle with water to the appropriate level and bring to boil. Reduce heat and keep ready at the boil until the jam is ready. Sterilize <equipment>canning jars</equipment> and lids.</step>
+		<step>Return orange mixture to the boil, stirring occasionally.</step>
+        <step>Extract the strainer or cloth containing seeds, pressing the gel that now surrounds them back into the mixture. Discard the seeds.</step>
+        <step>Reduce heat to keep at a simmer. Simmer, stirring occasionally, until peel is soft, approximately <time>1 hour</time>.</step>
+		<step>Raise heat and stir in the sugar. Return to a boil, stirring frequently to avoid scorching the bottom and ensure the sugar dissolves fully.</step>
 		<step>Reduce heat and boil gently, stirring constantly, until the mixture reaches a temperature of <temperature>221</temperature> and passes the <procedure>gel test</procedure>.</step>
-		<step>Remove from heat and ladle into sterilized canning jars. Heat process 10 minutes to seal.</step>
+        <step><procedure>Can</procedure> and seal jars in canning kettle <time>10 minutes</time>.</step>
 	</steps>
 	<storage>Keeps sealed at least 1 year.</storage>
 </recipe>
