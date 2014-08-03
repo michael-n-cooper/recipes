@@ -3,9 +3,10 @@
     <title>Strawberry Jam</title>
     <meta>
         <dishtype>Jams</dishtype>
+        <processnote>Strawberry jam is, in my opinion, the prototype against which all jams are measured. The optimal texture is neither large pieces nor a fine purée, reached here with a potato masher. This jam easily develops a "cooked" taste that detracts from the distinctiveness of the berries. To minimize that, this recipe boils off water before adding sugar (which would increase cooking temperature and flavour loss) and pre-heats the sugar to reduce the amount of time bringing the batch back up to temperature after adding it.</processnote>
     </meta>
     <ingredients>
-        <yield>4 pints</yield>
+        <yield>3 pints</yield>
         <ingredient>
             <quantity>
                 <value>1000</value>
