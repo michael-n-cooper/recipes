@@ -1,0 +1,50 @@
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+    <title>Apricot Jam</title>
+    <meta>
+        <dishtype>Jams</dishtype>
+        <processnote>Apricot jam has a perfect sweet-tart balance and good gel from the pectic that makes it a standard glaze on many desserts. It is also great in its own right on toast. Using the kernels from the pits adds a complementary almond flavour.</processnote>
+    </meta>
+    <ingredients>
+        <yield>3 pints</yield>
+        <ingredient>
+            <quantity>
+                <value>1000</value>
+                <unit>g</unit>
+            </quantity>
+            <item>apricots</item>
+        </ingredient>
+        <ingredient>
+            <quantity>
+                <value>250</value>
+                <unit>g</unit>
+            </quantity>
+            <item>water</item>
+        </ingredient>
+        <ingredient>
+            <quantity>
+                <value>800</value>
+                <unit>g</unit>
+            </quantity>
+            <item>sugar</item>
+        </ingredient>
+        <ingredient>
+            <quantity>
+                <value>2</value>
+                <unit>tbs</unit>
+            </quantity>
+            <item>lemon juice</item>
+        </ingredient>
+    </ingredients>
+    <steps>
+        <step>Fill a canning kettle with water to the appropriate level and bring to boil. Reduce heat and keep ready at the boil until the jam is ready. Sterilize <equipment>canning jars</equipment> and lids.</step>
+        <step>Cut apricots in half along their seam around the pit. Remove and discard the pits, and put the flesh in a pot with at least three times the capacity of the batch.</step>
+        <step>Optionally, crack 5 of the pits and remove the white kernel inside. Tie the kernels in a cloth bag.</step>
+        <step>Add water and optional kernels to the pot. Bring batch to a boil.</step>
+        <step>Add the sugar to the apricots, stir in to dissolve, and return to the boil. Continue to cook, stirring frequently, until the batch reaches <temperature>215</temperature>.</step>
+        <step>Add the lemon juice.</step>
+        <step>Continue to cook, stirring frequently, until mixture reaches the jellying point, around <temperature>221</temperature>.</step>
+        <step>Remove and discard the bag with the kernels.</step>
+        <step><procedure>Can</procedure> and seal jars in canning kettle <time>10 minutes</time>.</step>
+    </steps>
+</recipe>
