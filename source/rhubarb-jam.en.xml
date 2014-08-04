@@ -1,0 +1,43 @@
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+    <title>Rhubarb Jam</title>
+    <meta>
+        <dishtype>Jams</dishtype>
+        <processnote>Rhubarb isn't a fruit but makes a nice jam. Most recipes produce more of a compote where the vegetable is cooked down to a uniform texture, but I wanted a jam with distinct pieces of rhubarb. This recipe draws off the water and cooks it down separately, then gives just a brief cook with the rhubarb pieces to soften them but not let them disintegrate. It requires a one-day maceration period before cooking the jam. To cut the small pieces, thin stalks can just be sliced; thicker stalks can be split once or twice lengthwise, then sliced.</processnote>
+    </meta>
+    <ingredients>
+        <yield>3 pints</yield>
+        <ingredient>
+            <quantity>
+                <value>1000</value>
+                <unit>g</unit>
+            </quantity>
+            <item>rhubarb</item>
+        </ingredient>
+        <ingredient>
+            <quantity>
+                <value>900</value>
+                <unit>g</unit>
+            </quantity>
+            <item>sugar</item>
+        </ingredient>
+        <ingredient>
+            <quantity>
+                <value>1</value>
+                <unit>package</unit>
+            </quantity>
+            <item>pectin</item>
+        </ingredient>
+    </ingredients>
+    <steps>
+        <step>Slice the rhubarb into roughly 1-cm pieces.</step>
+        <step>Stir together the rhubarb and sugar, cover, and set aside to macerate overnight. During the first few hours, stir occasionally to reincorporate sugar that has settled at the bottom.</step>
+        <step>The next day, fill a canning kettle with water to the appropriate level and bring to boil. Reduce heat and keep ready at the boil until the jam is ready. Sterilize <equipment>canning jars</equipment> and lids.</step>
+        <step>Place a strainer over a pot with at least three times the capacity of the batch. Drain the liquid off the rhubarb pieces into the pot. Set the rhubarb pieces aside.</step>
+        <step>Bring batch to a boil. Keep at the boil until the syrup is slightly higher than the jellying point, about <temperature>225</temperature>.</step>
+        <step>Stir in the pectin.</step>
+        <step>Add the rhubarb pieces to the syrup. Return to the boil.</step>
+        <step>Continue to cook, stirring frequently but gently, until rhubarb pieces soften and turn translucent but still hold their shape, about <time>20 minutes</time>. In that time the mixture should reach the jellying point, around <temperature>221</temperature>.</step>
+        <step><procedure>Can</procedure> and seal jars in canning kettle <time>10 minutes</time>.</step>
+    </steps>
+</recipe>
