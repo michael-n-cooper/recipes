@@ -7,25 +7,16 @@
         <processnote>This Italian cheese cake is less sweet and lower in fat than American style cheese cake. The ricotta cheese gives it a rustic graininess, and the citrus zest complements the savoury flavour.</processnote>
 	</meta>
     <ingredients>
-        <ingredient>
-            <quantity>
-                <value>2/3</value>
-                <unit>cup</unit>
-            </quantity>
-            <item>sugar</item>
-        </ingredient>
-        <ingredient>
-            <quantity>
-                <value>1/3</value>
-                <unit>cup</unit>
-            </quantity>
-            <variant>all-purpose</variant>
-            <item>flour</item>
-        </ingredient>
         <ingredient mainingredient="true">
             <quantity>
-                <value>2</value>
-                <unit>lb</unit>
+                <value>900</value>
+                <unit>g</unit>
+                <altmeasure>
+                    <quantity>
+                        <value>2</value>
+                        <unit>lb</unit>
+                    </quantity>
+                </altmeasure>
             </quantity>
             <item>ricotta cheese</item>
         </ingredient>
@@ -34,13 +25,42 @@
                 <value>1</value>
                 <unit>tsp</unit>
             </quantity>
-            <item>orange or lemon zest</item>
+            <item>orange zest</item>
+            <processnote>zest of one orange</processnote>
         </ingredient>
         <ingredient>
             <quantity>
-                <value>6</value>
+                <value>200</value>
+                <unit>g</unit>
+                <altmeasure>
+                </altmeasure>
+                    <quantity>
+                        <value>7/8</value>
+                        <unit>cup</unit>
+                    </quantity>
             </quantity>
-            <item>eggs</item>
+            <item>sugar</item>
+        </ingredient>
+        <ingredient>
+            <quantity>
+                <value>50</value>
+                <unit>g</unit>
+                <altmeasure>
+                    <quantity>
+                        <value>1/3</value>
+                        <unit>cup</unit>
+                    </quantity>
+                </altmeasure>
+            </quantity>
+            <variant>all-purpose</variant>
+            <item>flour</item>
+        </ingredient>
+        <ingredient>
+            <quantity>
+                <value>1/8</value>
+                <unit>tsp</unit>
+            </quantity>
+            <item>salt</item>
         </ingredient>
         <ingredient>
             <quantity>
@@ -51,22 +71,25 @@
         </ingredient>
         <ingredient>
             <quantity>
-                <value>1/8</value>
-                <unit>tsp</unit>
+                <value>6</value>
+                <altmeasure>
+                    <quantity>
+                        <value>375</value>
+                        <unit>g</unit>
+                    </quantity>
+                </altmeasure>
             </quantity>
-            <item>salt</item>
+            <item>eggs</item>
         </ingredient>
     </ingredients>
     <steps>
         <step>Preheat oven to <temperature>325</temperature>.</step>
-        <step>Line the bottom of a <equipment>9-inch springform pan</equipment> with parchment paper. Grease the bottom and sides, tap a small amount of flour all over, and tap out any excess.</step>
-        <step>Mix together the sugar, flour, and zest.</step>
-        <step>Beat the ricotta cheese until smooth.</step>
-        <step>Stir in the sugar mixture.</step>
-        <step>Beat in the eggs one at a time, making sure mixture is fully combined but do not over mix.</step>
-        <step>Stir in the remaining ingredients.</step>
+        <step>Line the bottom of a <equipment>9-inch springform pan</equipment> with parchment paper. Grease the bottom and sides, tap a small amount of flour all over, and tap out excess.</step>
+        <step>Optionally, in a food processor, process the ricotta cheese and zest until smooth, about <time>2 minutes</time>.</step>
+        <step>Continuing in the processor, or in a hand or stand mixer, mix in the sugar, flour, salt, and vanilla extract until smooth.</step>
+        <step>Beat in the eggs one at a time, making sure mixture is fully combined, but to avoid adding too much air do not over mix.</step>
         <step>Pour into the prepared pan.</step>
-        <step>Bake  about <time>1 hour</time>, until sides are firm and center is barely wobbly.</step>
+        <step>Bake about <time>1 hour 15 minutes</time>, until sides are firm and center is barely wobbly.</step>
         <step>Cool on a rack in the pan a few hours.</step>
         <step>Run a paring knife along the edges of the pan, then remove the sides. Chill cake until firm.</step>
     </steps>
