@@ -16,7 +16,7 @@
         </ingredient>
         <ingredient>
             <quantity>
-                <value>250</value>
+                <value>100</value>
                 <unit>g</unit>
             </quantity>
             <item>water</item>
@@ -38,12 +38,13 @@
     </ingredients>
     <steps>
         <step>Fill a canning kettle with water to the appropriate level and bring to boil. Reduce heat and keep ready at the boil until the jam is ready. Sterilize <equipment>canning jars</equipment> and lids.</step>
-        <step>Cut apricots in half along their seam around the pit. Remove and discard the pits, and put the flesh in a pot with at least three times the capacity of the batch.</step>
-        <step>Optionally, crack 5 of the pits and remove the white kernel inside. Tie the kernels in a cloth bag.</step>
-        <step>Add water and optional kernels to the pot. Bring batch to a boil.</step>
+        <step>Cut apricots in half along their seam around the pit. Remove the pits, and put the flesh in a pot with at least three times the capacity of the batch.</step>
+        <step>Optionally, crack 10 of the pits and remove the kernel inside. Tie the kernels in a cloth bag or put in a tea strainer. Discard the remaining pits.</step>
+        <step>Add water and optional kernels to the pot. Cover and bring batch to a boil.</step>
+        <step>Uncover and boil until the apricots soften, about <time>10 minutes</time>.</step>
         <step>Add the sugar to the apricots, stir in to dissolve, and return to the boil. Continue to cook, stirring frequently, until the batch reaches <temperature>215</temperature>.</step>
         <step>Add the lemon juice.</step>
-        <step>Continue to cook, stirring frequently, until mixture reaches the jellying point, around <temperature>221</temperature>.</step>
+        <step>Continue to cook, stirring frequently, until mixture reaches the jellying point, around <temperature>218</temperature> (apricot jam sets after being cooked to a lower temperature than other jams).</step>
         <step>Remove and discard the bag with the kernels.</step>
         <step><procedure>Can</procedure> and seal jars in canning kettle <time>10 minutes</time>.</step>
     </steps>
