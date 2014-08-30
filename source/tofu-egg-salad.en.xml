@@ -1,0 +1,76 @@
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+    <title>Tofu "Egg" Salad</title>
+    <meta>
+        <processnote>This is a vegan sandwich filling that is very similar to egg salad. I don't usually go for "tasty fakes" but this is a good way to substitute some tofu into the diet. The silken tofu, coloured with turmeric, forms the base of the "yolks" and adds enough moisture that a binder like mayonnaise is not needed. The firm tofu, flavoured by the onion and vinegar, forms the "whites".</processnote>
+    </meta>
+    <ingredients>
+        <yield>4 servings</yield>
+        <ingredient>
+            <quantity>
+                <value>200</value>
+                <unit>g</unit>
+            </quantity>
+            <item>silken tofu</item>
+        </ingredient>
+        <ingredient>
+            <quantity>
+                <value>2</value>
+                <unit>tsp</unit>
+            </quantity>
+            <item>yellow mustard</item>
+        </ingredient>
+        <ingredient>
+            <quantity>
+                <value>1/4</value>
+                <unit>tsp</unit>
+            </quantity>
+            <item>turmeric</item>
+        </ingredient>
+        <ingredient>
+            <quantity>
+                <value>1/4</value>
+                <unit>tsp</unit>
+            </quantity>
+            <item>salt</item>
+        </ingredient>
+        <ingredient>
+            <quantity>
+                <value>2</value>
+                <unit>tsp</unit>
+            </quantity>
+            <item>flax oil</item>
+        </ingredient>
+        <ingredient>
+            <quantity>
+                <value>300</value>
+                <unit>g</unit>
+            </quantity>
+            <item>firm tofu</item>
+        </ingredient>
+        <ingredient>
+            <quantity>
+                <value>60</value>
+                <unit>g</unit>
+                <altmeasure>
+                    <quantity>
+                        <value>1/4</value>
+                    </quantity>
+                </altmeasure>
+            </quantity>
+            <item>onion</item>
+        </ingredient>
+        <ingredient>
+            <quantity>
+                <value>1</value>
+                <unit>tsp</unit>
+            </quantity>
+            <item>cider vinegar</item>
+        </ingredient>
+    </ingredients>
+    <steps>
+        <step>Combine the silken tofu, mustard, turmeric, salt, and oil. Mash together to a uniform paste.</step>
+        <step>Dice the firm tofu and onion.</step>
+        <step>Add the firm tofu, onion, and cider vinegar to the first mixture and stir together.</step>
+    </steps>
+</recipe>
