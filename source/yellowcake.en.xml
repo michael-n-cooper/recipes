@@ -11,41 +11,6 @@
 		<yield>2 9-inch cakes</yield>
 		<ingredient>
 			<quantity>
-				<value>2 2/3</value>
-				<unit>cups</unit>
-				<altmeasure>
-					<quantity>
-						<value>10.5</value><!-- try 11, 11.5, and 12 oz - looking for flat no dome, 10.5 oz falls a little -->
-						<unit>oz</unit>
-					</quantity>
-				</altmeasure>
-			</quantity>
-			<variant>sifted cake</variant>
-			<item>flour</item>
-		</ingredient>
-		<ingredient>
-			<quantity>
-				<value>1 3/4</value>
-				<unit>cups</unit>
-			</quantity>
-			<item>sugar</item>
-		</ingredient>
-		<ingredient>
-			<quantity>
-				<value>2 1/4</value>
-				<unit>tsp</unit>
-			</quantity>
-			<item>baking powder</item>
-		</ingredient>
-		<ingredient>
-			<quantity>
-				<value>1/2</value>
-				<unit>tsp</unit>
-			</quantity>
-			<item>salt</item>
-		</ingredient>
-		<ingredient>
-			<quantity>
 				<value>1/2</value>
 				<unit>lb</unit>
 				<altmeasure>
@@ -61,36 +26,68 @@
 		</ingredient>
 		<ingredient>
 			<quantity>
+				<value>1 1/2</value>
+				<unit>cups</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
 				<value>4</value>
 				<unit />
 			</quantity>
 			<variant>large</variant>
 			<item>eggs</item>
-			<preprep>separated</preprep>
 		</ingredient>
 		<ingredient>
 			<quantity>
-				<value>1</value>
-				<unit>cup</unit>
-			</quantity>
-			<item>milk</item>
-		</ingredient>
-		<ingredient>
-			<quantity>
-				<value>1</value>
+				<value>2</value>
 				<unit>tsp</unit>
 			</quantity>
 			<item>vanilla extract</item>
 		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3</value>
+				<unit>cups</unit>
+				<altmeasure>
+					<quantity>
+						<value>12</value>
+						<unit>oz</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>cake</variant>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>baking powder</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1 1/4</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>milk</item>
+		</ingredient>
 	</ingredients>
 	<steps>
-		<step>Preheat oven to <temperature>350</temperature> and grease two <equipment>9-inch round cake pans</equipment>.</step>
-		<step>Sift together flour, baking powder, and salt.</step>
-		<step>Cream butter, then gradually add 1 3/4 cups of the sugar. Cream until light.</step>
-		<step>Add the yolks to the butter one at a time, beating after each addition. Add vanilla.</step>
-		<step>Add the milk in flour alternately in three parts, mixing gently to combine each time. Beat just until smooth.</step>
-		<step>Whip the egg whites gently until foamy, add the remaining 1/4 cup sugar, then whip until stiff.</step>
-		<step>Fold the egg whites into the batter.</step>
+		<step>Preheat oven to <temperature>350</temperature> and grease two <equipment>9-inch round cake pans</equipment> or one <equipment>9 x 13-inch cake pan</equipment>.</step>
+		<step>Cream butter, then gradually add sugar. Cream until light.</step>
+		<step>Add the eggs to the butter one at a time, beating after each addition. Add vanilla.</step>
+		<step>Meanwhile, sift together flour, baking powder, and salt.</step>
+		<step>Add the milk and flour to the butter mixture alternately in three parts, mixing gently to combine each time. Beat just until smooth.</step>
 		<step>Spread batter in pans and bake until tests done, about <time>40 minutes</time>.</step>
 		<step>Cool on rack <time>10 minutes</time>, then remove from pans and cool completely.</step>
 	</steps>
