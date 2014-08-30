@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Holland Cream</title>
+	<meta>
+        <source>http://allrecipes.com/recipe/holland-cream-white-cream-filling/</source>
+		<dishtype>Fillings</dishtype>
+		<comment>This is the white creme filling in donuts. I love it with a chocolate icing. I don't know where the name comes from, but the recipes online, which all seem to be copies of each other, all call it that.</comment>
+	</meta>
+	<ingredients>
+		<ingredient>
+            <quantity>
+                <value>225</value>
+                <unit>g</unit>
+                <altmeasure>
+                    <quantity>
+                        <value>1</value>
+                        <unit>cup</unit>
+                    </quantity>
+                </altmeasure>
+            </quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+            <quantity>
+                <value>100</value>
+                <unit>g</unit>
+                <altmeasure>
+                    <quantity>
+                        <value>1/2</value>
+                        <unit>cup</unit>
+                    </quantity>
+                </altmeasure>
+            </quantity>
+			<item>water</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>200</value>
+				<unit>g</unit>
+                <altmeasure>
+                    <quantity>
+                        <value>1</value>
+                        <unit>cup</unit>
+                    </quantity>
+                </altmeasure>
+			</quantity>
+			<item>vegetable oil</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>360</value>
+				<unit>g</unit>
+                <altmeasure>
+                    <quantity>
+                        <value>2</value>
+                        <unit>cups</unit>
+                    </quantity>
+                </altmeasure>
+			</quantity>
+			<item>vegetable shortening</item>
+		</ingredient>
+        <ingredient>
+            <quantity>
+                <value>1</value>
+                <unit>tsp</unit>
+            </quantity>
+            <item>clear vanilla extract</item>
+        </ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>kg</unit>
+                <altmeasure>
+                    <quantity>
+                        <value>8</value>
+                        <unit>cups</unit>
+                    </quantity>
+                </altmeasure>
+			</quantity>
+			<item>confectioners' sugar</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Put the white sugar and water in a <equipment>saucepan</equipment>. Put on medium heat and bring to a boil, stirring until the sugar has dissolved.</step>
+		<step>Remove from heat, pour the syrup into a large mixing bowl, and let cool completely.</step>
+		<step>Add vegetable oil, shortening, and clear vanilla extract, and beat with an electric mixer on high speed to blend.</step>
+		<step>Add the confectioners' sugar 1 cup at a time and beat in. Continue to beat until the filling is thick and fluffy. If it's too thick, beat in a tablespoon of water at a time until it's the correct consistency.</step>
+	</steps>
+</recipe>
