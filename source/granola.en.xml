@@ -9,14 +9,14 @@
 	<ingredients>
 		<ingredient mainingredient="true">
 			<quantity>
-				<value>1</value>
+				<value>2</value>
 				<unit>lb</unit>
 			</quantity>
 			<item>rolled oats</item>
 		</ingredient>
 		<ingredient>
 			<quantity>
-				<value>2</value>
+				<value>6</value>
 				<unit>oz</unit>
 			</quantity>
 			<item>nuts</item>
@@ -25,14 +25,14 @@
 		</ingredient>
 		<ingredient>
 			<quantity>
-				<value>2</value>
+				<value>3</value>
 				<unit>oz</unit>
 			</quantity>
 			<item>sunflower seeds</item>
 		</ingredient>
 		<ingredient>
 			<quantity>
-				<value>1/2</value>
+				<value>1</value>
 				<unit>cup</unit>
 			</quantity>
 			<item>water</item>
@@ -41,7 +41,7 @@
 		<ingredient_choice>
 			<ingredient>
 				<quantity>
-					<value>1/2</value>
+					<value>1</value>
 					<unit>cup</unit>
 				</quantity>
 				<item>honey</item>
@@ -49,15 +49,15 @@
 			<ingredient_group>
 				<ingredient>
 					<quantity>
-						<value>1/2</value>
+						<value>1</value>
 						<unit>cup</unit>
 					</quantity>
 					<item>sugar</item>
 				</ingredient>
 				<ingredient>
 					<quantity>
-						<value>2</value>
-						<unit>tbs</unit>
+						<value>1/4</value>
+						<unit>cup</unit>
 					</quantity>
 					<item>molasses</item>
 				</ingredient>
@@ -65,25 +65,25 @@
 		</ingredient_choice>
 		<ingredient>
 			<quantity>
-				<value>1 1/2</value>
-				<unit>tsp</unit>
+				<value>1</value>
+				<unit>tbs</unit>
 			</quantity>
 			<item>salt</item>
 		</ingredient>
 		<ingredient>
 			<quantity>
-				<value>1/4</value>
+				<value>1/2</value>
 				<unit>cup</unit>
 			</quantity>
 			<item>peanut oil</item>
 		</ingredient>
 		<ingredient>
 			<quantity>
-				<value>2</value>
+				<value>6</value>
 				<unit>oz</unit>
 			</quantity>
 			<item>dried fruit</item>
-			<note>I prefer dried cranberries as I don't like raisins. Dried blueberries, strawberries, or currants work well too but are more expensive. I find dried cherries too sour; and dried apricots not dry enough and need to be chopped.</note>
+			<note>I prefer dried cranberries and blueberries.</note>
 		</ingredient>
 	</ingredients>
 	<steps>
