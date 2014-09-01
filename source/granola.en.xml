@@ -8,92 +8,153 @@
 	</meta>
 	<ingredients>
 		<ingredient mainingredient="true">
-			<quantity>
-				<value>2</value>
-				<unit>lb</unit>
-			</quantity>
+            <quantity>
+                <value>1</value>
+                <unit>kg</unit>
+                <altmeasure>
+                    <quantity>
+                        <value>2</value>
+                        <unit>lb</unit>
+                    </quantity>
+                </altmeasure>
+            </quantity>
 			<item>rolled oats</item>
 		</ingredient>
 		<ingredient>
-			<quantity>
-				<value>6</value>
-				<unit>oz</unit>
-			</quantity>
+            <quantity>
+                <value>200</value>
+                <unit>g</unit>
+                <altmeasure>
+                    <quantity>
+                        <value>6</value>
+                        <unit>oz</unit>
+                    </quantity>
+                </altmeasure>
+            </quantity>
 			<item>nuts</item>
-			<preprep>chopped</preprep>
-			<note>I prefer almonds, pecans, or walnuts</note>
+			<note>I prefer half unblanched almonds and half pecans</note>
 		</ingredient>
 		<ingredient>
-			<quantity>
-				<value>3</value>
-				<unit>oz</unit>
-			</quantity>
+            <quantity>
+                <value>100</value>
+                <unit>g</unit>
+                <altmeasure>
+                    <quantity>
+                        <value>3</value>
+                        <unit>oz</unit>
+                    </quantity>
+                </altmeasure>
+            </quantity>
 			<item>sunflower seeds</item>
 		</ingredient>
 		<ingredient>
-			<quantity>
-				<value>1</value>
-				<unit>cup</unit>
-			</quantity>
+            <quantity>
+                <value>200</value>
+                <unit>g</unit>
+                <altmeasure>
+                    <quantity>
+                        <value>1</value>
+                        <unit>cup</unit>
+                    </quantity>
+                </altmeasure>
+            </quantity>
 			<item>water</item>
-			<preprep>boiling</preprep>
 		</ingredient>
 		<ingredient_choice>
+            <quantity>
+                <value>300</value>
+                <unit>g</unit>
+                <altmeasure>
+                    <quantity>
+                        <value>1</value>
+                        <unit>cup</unit>
+                    </quantity>
+                </altmeasure>
+            </quantity>
 			<ingredient>
-				<quantity>
-					<value>1</value>
-					<unit>cup</unit>
-				</quantity>
 				<item>honey</item>
 			</ingredient>
 			<ingredient_group>
 				<ingredient>
-					<quantity>
-						<value>1</value>
-						<unit>cup</unit>
-					</quantity>
+                    <quantity>
+                        <value>200</value>
+                        <unit>g</unit>
+                        <altmeasure>
+                            <quantity>
+                                <value>1</value>
+                                <unit>cup</unit>
+                            </quantity>
+                        </altmeasure>
+                    </quantity>
 					<item>sugar</item>
 				</ingredient>
 				<ingredient>
-					<quantity>
-						<value>1/4</value>
-						<unit>cup</unit>
-					</quantity>
+                    <quantity>
+                        <value>75</value>
+                        <unit>g</unit>
+                        <altmeasure>
+                            <quantity>
+                                <value>1/4</value>
+                                <unit>cup</unit>
+                            </quantity>
+                        </altmeasure>
+                    </quantity>
 					<item>molasses</item>
 				</ingredient>
 			</ingredient_group>
 		</ingredient_choice>
 		<ingredient>
-			<quantity>
-				<value>1</value>
-				<unit>tbs</unit>
-			</quantity>
+            <quantity>
+                <value>20</value>
+                <unit>g</unit>
+                <altmeasure>
+                    <quantity>
+                        <value>1</value>
+                        <unit>tbs</unit>
+                    </quantity>
+                </altmeasure>
+            </quantity>
 			<item>salt</item>
 		</ingredient>
 		<ingredient>
-			<quantity>
-				<value>1/2</value>
-				<unit>cup</unit>
-			</quantity>
+            <quantity>
+                <value>75</value>
+                <unit>g</unit>
+                <altmeasure>
+                    <quantity>
+                        <value>1/2</value>
+                        <unit>cup</unit>
+                    </quantity>
+                </altmeasure>
+            </quantity>
 			<item>peanut oil</item>
 		</ingredient>
 		<ingredient>
-			<quantity>
-				<value>6</value>
-				<unit>oz</unit>
-			</quantity>
+            <quantity>
+                <value>200</value>
+                <unit>g</unit>
+                <altmeasure>
+                    <quantity>
+                        <value>6</value>
+                        <unit>oz</unit>
+                    </quantity>
+                </altmeasure>
+            </quantity>
 			<item>dried fruit</item>
-			<note>I prefer dried cranberries and blueberries.</note>
+			<note>I prefer half cranberries and half blueberries</note>
 		</ingredient>
 	</ingredients>
 	<steps>
 		<step>Preheat oven to <temperature>350</temperature>.</step>
+        <step>Bring the water to a boil. Add the salt and the honey or sugar and molasses. Stir until completely dissolved. Add the peanut oil.</step>
+        <step>Chop the nuts into small pieces. <note>I halve almonds and use pre-chopped pecans.</note></step>
 		<step>Combine the rolled oats, nuts, and seeds. 
     </step>
-		<step>Dissolve the honey or sugar and molasses, and the salt, in the water. Add the oil.</step>
 		<step>Combine the sugar mixture with the oat mixture. Stir well to combine thoroughly.</step>
-		<step>Spread mixture in a lightly greased baking pan. Place in oven and toast for <time>15 minutes</time>.</step>
-		<step>Stir the mixture well, being careful to mix the edges into the center. Reduce oven heat to <temperature>275</temperature> and continue toasting, stirring every <time>15 minutes</time>, for <time>1 to 1 1/2 hours</time>, until lightly browned.</step>
-		<step>Cool. When cool, add the dried fruit. Store tightly covered.</step>
+		<step>Grease a large baking pan. Spread the oat mixture evenly in the pan. Place in oven and toast for <time>15 minutes</time>.</step>
+		<step>Stir the mixture well, being careful to mix the edges into the center.</step>
+        <step>Reduce oven heat to <temperature>275</temperature> and continue toasting, stirring every <time>15 minutes</time>, for <time>1 to 1 1/2 hours</time>, until lightly browned.</step>
+		<step>Cool. When completely cool, mix in the dried fruit.</step>
 	</steps>
+    <storage>Store tightly covered.</storage>
 </recipe>
