@@ -15,31 +15,45 @@
         </ingredient>
         <ingredient>
             <quantity>
-                <value>2</value>
-                <unit>tsp</unit>
+                <value>1</value>
+                <unit>tbs</unit>
             </quantity>
             <item>yellow mustard</item>
         </ingredient>
         <ingredient>
             <quantity>
-                <value>1/4</value>
+                <value>1/2</value>
                 <unit>tsp</unit>
             </quantity>
-            <item>turmeric</item>
+            <item>turmeric powder</item>
+        </ingredient>
+        <ingredient optional="true">
+            <quantity>
+                <value>1/8</value>
+                <unit>tsp</unit>
+            </quantity>
+            <item>cayenne powder</item>
         </ingredient>
         <ingredient>
             <quantity>
-                <value>1/4</value>
+                <value>1/2</value>
                 <unit>tsp</unit>
             </quantity>
             <item>salt</item>
         </ingredient>
         <ingredient>
             <quantity>
-                <value>2</value>
-                <unit>tsp</unit>
+                <value>1</value>
+                <unit>tbs</unit>
             </quantity>
             <item>flax oil</item>
+        </ingredient>
+        <ingredient>
+            <quantity>
+                <value>1 1/2</value>
+                <unit>tsp</unit>
+            </quantity>
+            <item>cider vinegar</item>
         </ingredient>
         <ingredient>
             <quantity>
@@ -60,17 +74,10 @@
             </quantity>
             <item>onion</item>
         </ingredient>
-        <ingredient>
-            <quantity>
-                <value>1</value>
-                <unit>tsp</unit>
-            </quantity>
-            <item>cider vinegar</item>
-        </ingredient>
     </ingredients>
     <steps>
-        <step>Combine the silken tofu, mustard, turmeric, salt, and oil. Mash together to a uniform paste.</step>
-        <step>Dice the firm tofu and onion.</step>
-        <step>Add the firm tofu, onion, and cider vinegar to the first mixture and stir together.</step>
+        <step>Combine all ingredients except the firm tofu and onion. Puree in a food processor or mash together to a uniform paste.</step>
+        <step>Finely dice the firm tofu and onion.</step>
+        <step>Add the firm tofu and onion to the first mixture and stir together.</step>
     </steps>
 </recipe>
