@@ -11,10 +11,30 @@
 		<ingredients>
 			<ingredient>
 				<quantity>
-					<value>3</value>
+					<value>2</value>
 					<unit>cups</unit>
 				</quantity>
 				<item>apple cider</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1/4</value>
+					<unit>cup</unit>
+					<altmeasure>
+						<quantity>
+							<value>50</value>
+							<unit>g</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>butter</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>3/4</value>
+					<unit>cup</unit>
+				</quantity>
+				<item>sugar</item>
 			</ingredient>
 			<ingredient>
 				<quantity>
@@ -27,20 +47,20 @@
 					<value>1/2</value>
 					<unit>cup</unit>
 				</quantity>
-				<item>sugar</item>
+				<item>milk</item>
 			</ingredient>
 			<ingredient>
 				<quantity>
-					<value>18</value>
-					<unit>oz</unit>
+                    <value>3 1/2</value>
+                    <unit>cup</unit>
 					<altmeasure>
 						<quantity>
-							<value>3 1/2</value>
-							<unit>cup</unit>
+                            <value>450</value>
+                            <unit>g</unit>
 						</quantity>
 					</altmeasure>
 				</quantity>
-				<variant>pastry</variant>
+				<variant>all purpose</variant>
 				<item>flour</item>
 			</ingredient>
 			<ingredient>
@@ -79,30 +99,19 @@
 				<item>baking powder</item>
 			</ingredient>
 			<ingredient>
-				<quantity>
-					<value>4</value>
-					<unit>tbs</unit>
-					<altmeasure>
-						<quantity>
-							<value>2</value>
-							<unit>oz</unit>
-						</quantity>
-					</altmeasure>
-				</quantity>
-				<item>butter</item>
-			</ingredient>
-			<ingredient>
-				<item>oil</item>
+				<item>oil for frying</item>
 			</ingredient>
 		</ingredients>
 		<steps>
-			<step>Boil the cider down until it reaches quarter the original volume, 3/4 cup. Cool.</step>
-			<step>Melt the butter and cool.</step>
-			<step>Beat eggs and sugar together to form the ribbon.</step>
-			<step>Sift together the dry ingredients.</step>
-			<step>Stir in the apple cider, dry ingredients, and butter and mix just until it forms a soft dough.</step>
-			<step>Turn dough onto a heavily floured surface (dough is extremely soft and can be sticky). Flour the top well and roll out to 1/2 inch thick. Cut with a donut cutter, and set the pieces aside a few minutes. Re-roll the scraps and cut until all the dough is used.</step>
-			<step>Deep fry in oil a minute, turn over, and fry another minute. Remove to a wire rack set over a drip tray. Let cool while frying the remainder.</step>
+			<step>Boil the cider down until it reaches quarter the original volume, 1/2 cup. Cool.</step>
+			<step>Cream the butter and sugar together until light.</step>
+			<step>Beat in eggs one at a time until smooth.</step>
+            <step>Stir in 1/4 cup of the boiled cider and milk.</step>
+			<step>Sift together the dry ingredients and add to the wet mixture. Mix just until it forms a soft dough.</step>
+            <step>Optionally, cover and refrigerate dough a couple hours to firm up. Othrwise, more flour is required when rolling.</step>
+            <step>Add enough oil to a pan or fryer to cover the donuts (about 5 cm deep). Heat to <temperature>370</temperature>.</step>
+			<step>Turn dough onto a heavily floured surface. Flour the top well and roll out to 1/2 inch thick. Cut with a donut cutter, and set the pieces aside a few minutes. Re-roll the scraps and cut until all the dough is used.</step>
+			<step><procedure>Deep fry</procedure> in oil until brown, about a minute. Turn over, and fry until second side browns, another minute. Remove to a wire rack set over a drip tray. Let cool while frying the remainder.</step>
 		</steps>
 	</group>
 	<group>
@@ -110,22 +119,23 @@
 		<ingredients>
 			<ingredient>
 				<quantity>
+					<value>1/4</value>
+					<unit>cup</unit>
+				</quantity>
+				<item>boiled apple cider</item>
+                <note>from donut making</note>
+			</ingredient>
+			<ingredient>
+				<quantity>
 					<value>2</value>
 					<unit>cups</unit>
 				</quantity>
 				<item>confectioner's sugar</item>
 			</ingredient>
-			<ingredient>
-				<quantity>
-					<value>4</value>
-					<unit>tbs</unit>
-				</quantity>
-				<item>apple cider</item>
-			</ingredient>
 		</ingredients>
 		<steps>
-			<step>Mix together confectioner's sugar and apple cider to make a thin glaze.</step>
-			<step>Dip the cooled donuts in the glaze and let dry.</step>
+			<step>Mix together confectioner's sugar and boiled cider to make a glaze.</step>
+			<step>Dip the cooled donuts on both sides in the glaze and let dry on a rack.</step>
 		</steps>
 	</group>
 	<serving>Serve hot, or cool and glazed.</serving>
