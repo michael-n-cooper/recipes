@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Key Lime Pie</title>
+	<meta>
+		<dishtype>Pies</dishtype>
+	</meta>
+	<group>
+		<label>Crust</label>
+		<ingredients>
+			<ingredient>
+				<quantity>
+                    <value>1 1/4</value>
+                    <unit>cup</unit>
+                    <!--
+                    <altmeasure>
+                        <value>@@</value>
+                        <unit>oz</unit>
+                    </altmeasure>
+                    -->
+				</quantity>
+				<item>graham cracker crumbs</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>5</value>
+					<unit>tbs</unit>
+				</quantity>
+				<item>sugar</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>5</value>
+					<unit>tbs</unit>
+				</quantity>
+				<item>butter</item>
+			</ingredient>
+		</ingredients>
+		<steps>
+			<step>Preheat the oven to <temperature>350</temperature>.</step>
+			<step>If using whole graham crackers, pulse them in a food processor until evenly sandy. Mix together graham cracker crumbs and sugar.</step>
+			<step>Melt butter and stir together graham cracker crumbs until butter is evenly distributed.</step>
+			<step>Grease a <equipment>9-inch pie plate</equipment>. Spread crumbs on bottom and sides evenly and press down.</step>
+			<step>Bake about <time>10 minutes</time> until lightly browned. Cool before adding filling. Keep oven on.</step>
+		</steps>
+	</group>
+	<group>
+		<label>Filling</label>
+		<ingredients>
+			<ingredient>
+				<quantity>
+					<value>1</value>
+                    <unit>can</unit>
+					<altmeasure>
+                        <quantity>
+                            <value>14</value>
+                            <unit>oz</unit>
+                        </quantity>
+                    </altmeasure>
+				</quantity>
+				<item>sweetened condensed milk</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>3</value>
+				</quantity>
+				<item>egg yolks</item>
+			</ingredient>
+			<ingredient mainingredient="true">
+				<quantity>
+					<value>2/3</value>
+					<unit>cup</unit>
+				</quantity>
+				<item>key lime juice</item>
+			</ingredient>
+            <ingredient optional="true">
+                <quantity>
+                    <value>2</value>
+                    <unit>tsp</unit>
+                </quantity>
+                <item>key lime zest</item>
+            </ingredient>
+		</ingredients>
+		<steps>
+			<step>Beat together the condensed milk and egg yolks together until smooth.</step>
+			<step>Stir in the lime juice and zest until evenly mixed.</step>
+			<step>Pour filling over the baked crust.</step>
+			<step>Return to oven and bake until edges are firm and center is still slightly wobbly, about <time>15 minutes</time>.</step>
+			<step>Cool on a rack. Cover and chill until firm.</step>
+		</steps>
+	</group>
+    <group>
+        <label>Topping</label>
+        <ingredients>
+			<ingredient>
+				<quantity>
+					<value>1/2</value>
+					<unit>cup</unit>
+				</quantity>
+				<item>whipping cream</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1</value>
+					<unit>tsp</unit>
+				</quantity>
+				<item>key lime juice</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1</value>
+					<unit>tbs</unit>
+				</quantity>
+				<item>sugar</item>
+			</ingredient>
+        </ingredients>
+        <steps>
+            <step>Combine ingredients and <procedure>whip</procedure> until stiff.</step>
+            <step>Transfer to a small <equipment>pastry bag</equipment> fitted with a <equipment>star tip</equipment>. <procedure>Pipe</procedure> 12 decorative dots in a circle around the outer part the pie.</step>
+        </steps>
+    </group>
+</recipe>
