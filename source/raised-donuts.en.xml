@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Raised Donuts</title>
+	<meta>
+		<dishtype>Donuts</dishtype>
+	</meta>
+    <ingredients>
+        <ingredient>
+            <quantity>
+                <value>1 1/4</value>
+                <unit>cup</unit>
+            </quantity>
+            <item>milk</item>
+        </ingredient>
+        <ingredient>
+            <quantity>
+                <value>1/4</value>
+                <unit>cup</unit>
+                <altmeasure>
+                    <quantity>
+                        <value>50</value>
+                        <unit>g</unit>
+                    </quantity>
+                </altmeasure>
+            </quantity>
+            <item>butter</item>
+        </ingredient>
+        <ingredient>
+            <quantity>
+                <value>1</value>
+            </quantity>
+            <item>egg</item>
+        </ingredient>
+        <ingredient>
+            <quantity>
+                <value>1/3</value>
+                <unit>cup</unit>
+            </quantity>
+            <item>sugar</item>
+        </ingredient>
+        <ingredient>
+            <quantity>
+                <value>1</value>
+                <unit>tsp</unit>
+            </quantity>
+            <item>salt</item>
+        </ingredient>
+        <ingredient>
+            <quantity>
+                <value>3 1/2</value>
+                <unit>cup</unit>
+                <altmeasure>
+                    <quantity>
+                        <value>450</value>
+                        <unit>g</unit>
+                    </quantity>
+                </altmeasure>
+            </quantity>
+            <variant>all purpose</variant>
+            <item>flour</item>
+        </ingredient>
+        <ingredient>
+            <quantity>
+                <value>2</value>
+                <unit>tsp</unit>
+            </quantity>
+            <variant>instant</variant>
+            <item>yeast</item>
+        </ingredient>
+        <ingredient>
+            <item>oil for frying</item>
+        </ingredient>
+    </ingredients>
+    <steps>
+        <step><procedure>Scald</procedure> milk. Add butter to melt, and cool.</step>
+        <step>Beat in eggs, sugar, and salt.</step>
+        <step>Stir in flour and yeast. <procedure>Knead</procedure> well until smooth.</step>
+        <step>Lightly oil a bowl with twice the volume of the dough. Place dough in bowl and cover.</step>
+        <step><procedure>Proof</procedure> <time>1 hour</time> and put in refrigerator overnight (preferred for flavour development and easier handling), or proof <time>1 1/2 hours</time> to make immediately.</step>
+        <step>Roll out 2 cm thick and cut donuts. Re-roll the scraps and cut until all the dough is used.</step>
+        <step>Cover and let rise until nearly doubled, about <time>45 minutes</time>, or <time>1 1/2 hours</time> if retarded overnight.</step>
+        <step>Add enough oil to a pan or fryer to cover the donuts (about 5 cm deep). Heat to <temperature>360</temperature>.</step>
+        <step><procedure>Deep fry</procedure> in oil until brown, about <time>2 minutes</time>. Turn over, and fry until second side browns, another <time>1 minute</time>. Remove to a wire rack set over a drip tray. Let cool while frying the remainder.</step>
+    </steps>
+	<serving>Cool and dip in icing, cover on both sides with confectioners' sugar glaze, or roll in sugar.</serving>
+    <variation>
+        <label>Old-Fashioned Raised Donuts</label>
+        <steps>
+            <step>Reduce the milk by 1/4 cup and add 1 more egg.</step>
+            <step>Add 1/4 cup brown sugar with the granulated sugar.</step>
+            <step>Add 1/4 tsp grated nutmeg with the flour and yeast.</step>
+        </steps>
+    </variation>
+    <variation>
+        <label>Filled Donuts</label>
+        <steps>
+            <step>When cutting the dough, make rounds 10 cm in diameter, without holes.</step>
+            <step>Prepare about 500 g filling. Common choices include Holland Cream, Pastry Cream, or jelly.</step>
+            <step>After the dounuts have cooled, fill a pastry bag with the filling and fit with a filling tip. Insert the tip in the side of the donut, penetrating close to the far side. Gradually retreat the tip while squeezing the bag. Allow a generous amount of filling but be careful not to burst the donut. </step>
+        </steps>
+    </variation>
+	<storage>Donuts don't store well, but can be frozen. Freeze the day they are made.</storage>
+</recipe>
