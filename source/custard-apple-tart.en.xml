@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Custard Apple Tart</title>
+	<meta>
+		<cuisine>French</cuisine>
+		<dishtype>Tarts</dishtype>
+	</meta>
+	<group>
+		<label>Shell</label>
+		<ingredients>
+            <ingredient>
+                <quantity>
+                    <value>100</value>
+                    <unit>g</unit>
+                    <altmeasure>
+                        <quantity>
+                            <value>3/4</value>
+                            <unit>cup</unit>
+                        </quantity>
+                    </altmeasure>
+                </quantity>
+                <variant>all-purpose</variant>
+                <item>flour</item>
+            </ingredient>
+            <ingredient>
+                <quantity>
+                    <value>100</value>
+                    <unit>g</unit>
+                    <altmeasure>
+                        <quantity>
+                            <value>3/4</value>
+                            <unit>cup</unit>
+                        </quantity>
+                    </altmeasure>
+                </quantity>
+                <variant>pastry</variant>
+                <item>flour</item>
+            </ingredient>
+            <ingredient>
+                <quantity>
+                    <value>25</value>
+                    <unit>g</unit>
+                    <altmeasure>
+                        <quantity>
+                            <value>2</value>
+                            <unit>tbs</unit>
+                        </quantity>
+                    </altmeasure>
+                </quantity>
+                <item>sugar</item>
+            </ingredient>
+            <ingredient>
+                <quantity>
+                    <value>3</value>
+                    <unit>g</unit>
+                    <altmeasure>
+                        <quantity>
+                            <value>1/2</value>
+                            <unit>tsp</unit>
+                        </quantity>
+                    </altmeasure>
+                </quantity>
+                <item>salt</item>
+            </ingredient>
+            <ingredient>
+                <quantity>
+                    <value>150</value>
+                    <unit>g</unit>
+                    <altmeasure>
+                        <quantity>
+                            <value>12</value>
+                            <unit>tbs</unit>
+                        </quantity>
+                    </altmeasure>
+                </quantity>
+                <item>butter</item>
+            </ingredient>
+            <ingredient>
+                <quantity approximate="true">
+                    <value>75</value>
+                    <unit>g</unit>
+                    <altmeasure>
+                        <quantity>
+                            <value>1/3</value>
+                            <unit>cup</unit>
+                        </quantity>
+                    </altmeasure>
+                </quantity>
+                <item>water</item>
+                <preprep>ice cold</preprep>
+            </ingredient>
+		</ingredients>
+		<steps>
+			<step>Add flour, sugar, salt and butter to a food processor and pulse until sandy.</step>
+            <step>Add water and pulse until it comes together. Add a small amount more water only if needed.</step>
+            <step>Place dough on counter. With the palm of the hand, push small quantities of the dough outward to smear together the ingredients further.</step>
+			<step>Form into a cohesive disk and refrigerate until firm, at least <time>30 minutes</time>.</step>
+			<step>Preheat oven to <temperature>375</temperature>.</step>
+            <step>Roll out pastry and line a <equipment>9-inch by 2-inch tart pan</equipment>. Set pan on a <equipment>baking sheet</equipment>.</step>
+			<step>Line shell with foil and weight with beans or pie weights. <procedure>Blind-bake</procedure> until set but not browned, about <time>6 minutes</time>.</step>
+            <step>Remove from oven and cool, but leave oven on.</step>
+		</steps>
+	</group>
+	<group>
+		<label>Apples</label>
+		<ingredients>
+            <ingredient>
+                <quantity>
+                    <value>450</value>
+                    <unit>g</unit>
+                </quantity>
+                <variant>sweet</variant>
+                <item>apples</item>
+            </ingredient>
+            <ingredient>
+                <quantity>
+                    <value>75</value>
+                    <unit>g</unit>
+                    <altmeasure>
+                        <quantity>
+                            <value>1/3</value>
+                            <unit>cup</unit>
+                        </quantity>
+                    </altmeasure>
+                </quantity>
+                <item>sugar</item>
+            </ingredient>
+            <ingredient>
+                <quantity>
+                    <value>3</value>
+                    <unit>g</unit>
+                    <altmeasure>
+                        <quantity>
+                            <value>1/2</value>
+                            <unit>tsp</unit>
+                        </quantity>
+                    </altmeasure>
+                </quantity>
+                <item>cinnamon</item>
+                <preprep>ground</preprep>
+            </ingredient>
+		</ingredients>
+        <steps>
+            <step>Peel and core the apples.</step>
+            <step>Slice the apples lengthwise 1/2 cm thick.</step>
+            <step>Toss the apples together with sugar and cinnamon.</step>
+            <step>Arrange the apples decoratively in concentric rings in the tart crust.</step>
+            <step>Return to the oven and bake <time>20 minutes</time>, until they are almost tender.</step>
+            <step>Remove from oven and cool, but leave oven on.</step>
+        </steps>
+	</group>
+    <group>
+        <label>Custard</label>
+        <ingredients>
+            <ingredient>
+                <quantity>
+                    <value>1</value>
+                </quantity>
+                <item>egg</item>
+            </ingredient>
+            <ingredient>
+                <quantity>
+                    <value>75</value>
+                    <unit>g</unit>
+                    <altmeasure>
+                        <quantity>
+                            <value>1/3</value>
+                            <unit>cup</unit>
+                        </quantity>
+                    </altmeasure>
+                </quantity>
+                <item>sugar</item>
+            </ingredient>
+            <ingredient>
+                <quantity>
+                    <value>30</value>
+                    <unit>g</unit>
+                    <altmeasure>
+                        <quantity>
+                            <value>1/4</value>
+                            <unit>cup</unit>
+                        </quantity>
+                    </altmeasure>
+                </quantity>
+                <variant>all-purpose</variant>
+                <item>flour</item>
+            </ingredient>
+            <ingredient>
+                <quantity>
+                    <value>115</value>
+                    <unit>g</unit>
+                    <altmeasure>
+                        <quantity>
+                            <value>1/2</value>
+                            <unit>cup</unit>
+                        </quantity>
+                    </altmeasure>
+                </quantity>
+                <variant>35%</variant>
+                <item>cream</item>
+            </ingredient>
+            <ingredient>
+                <quantity>
+                    <value>40</value>
+                    <unit>g</unit>
+                    <altmeasure>
+                        <quantity>
+                            <value>3</value>
+                            <unit>tbs</unit>
+                        </quantity>
+                    </altmeasure>
+                </quantity>
+                <item>Calvados</item>
+            </ingredient>
+            <ingredient>
+                <item>confectioners' sugar</item>
+            </ingredient>
+        </ingredients>
+        <steps>
+            <step>Combine egg and sugar. Beat until light, about <time>5 minutes</time>.</step>
+            <step>Beat in the flour, then the cream, then the Calvados.</step>
+            <step>Pour custard over the apples in the crust. Fill almost to the top of the shell but be careful not to overflow.</step>
+            <step>Return to the oven and bake until the custard begins to puff, about <time>10 minutes</time>.</step>
+            <step>Remove from oven but leave oven on. Sprinkle tart heavily and evenly with confectioners' sugar.</step>
+            <step>Return to the oven and bake until well browned and set, about <time>15 minutes</time> to <time>20 minutes</time> more.</step>
+        </steps>
+    </group>
+    <serving>Serve warm. Can be reheated.</serving>
+</recipe>
