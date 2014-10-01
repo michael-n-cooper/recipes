@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Cupcakes - Vegan, Gluten Free</title>
+	<meta>
+		<dishtype>Cupcakes</dishtype>
+		<processnote>This recipe is both vegan and gluten free to accommodate several diet restrictions in one go.</processnote>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>250</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1 3/4</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>gluten free flour blend</item>
+			<note>without added gums</note>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>7</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>baking powder</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3.5</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1/2</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>baking soda</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3.5</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1/2</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>10</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>xanthan gum</item>
+			<note>omit if flour blend has added gums</note>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>235</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>vegan millk</item>
+			<note>rice, almond, soy, coconut</note>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>15</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1</value>
+						<unit>tbs</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>vinegar</item>
+			<note>cider preferred</note>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>15</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1</value>
+						<unit>tbs</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+		<ingredient optional="true">
+			<quantity>
+				<value>5</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>rose water</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>65</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1/3</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>oil</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>200</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Preheat oven to <temperature>350</temperature>. Line a <equipment>12-mold cupcake tin</equipment> with cupcake liners.</step>
+		<step>Sift together flour, baking powder, baking soda, salt, and xanthan gum.</step>
+		<step>Stir together vegan milk and vinegar and let sit one minute to curdle.</step>
+		<step>Add oil, vanilla extract, and rose water.</step>
+		<step>Add the flour mixture. Beat at least <time>1 minute</time> until smooth and thickened.</step>
+		<step>Divide evenly in the cupcake liners. Bake <time>20 minutes</time>.</step>
+		<step>Cool in pan.</step>
+	</steps>
+	<serving>Ice with a vegan icing.</serving>
+	<variation>
+		<label>Chocolate Cupcakes - Vegan, Gluten Free</label>
+		<steps>
+			<step>Use half the amount of vanilla extract and omit the rose water.</step>
+			<step>Substitute 60 g (1/2 cup) cocoa powder for an equal amount of the flour blend.</step>
+		</steps>
+	</variation>
+</recipe>
