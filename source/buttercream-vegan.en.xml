@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Buttercream - Vegan</title>
+	<meta>
+		<dishtype>Frostings</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>115</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1/2</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>vegan margarine</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>50</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1/4</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>shortening</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>375</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>3</value>
+						<unit>cups</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>confectioner's sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity approximate="true">
+				<value>25</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>2</value>
+						<unit>tbs</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>vegan milk</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>5</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Cream together the fats.</step>
+		<step>Add remaining ingredients and stir together.</step>
+		<step><procedure>Beat</procedure> until fluffy, about <time>5 minutes</time>. Add small amounts more liquid if needed - towards end as mixture lightens with beating.</step>
+	</steps>
+	<variation>
+		<label>Chocolate Buttercream - Vegan</label>
+		<steps>
+			<step>Add 75 g (3/4 cup) cocoa powder with the confectioners' sugar.</step>
+			<step>Double the amount of vegan milk.</step>
+		</steps>
+	</variation>
+	<storage>Store airtight in the refrigerator up to 2 days. Freeze for longer storage. Bring to room temperature before using.</storage>
+</recipe>
