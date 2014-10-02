@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Peanut Butter Cookies - Vegan, Gluten Free</title>
+	<meta>
+		<dishtype>Cookies</dishtype>
+		<comment>This recipe is both vegan and gluten free to accommodate several diet restrictions in one go. It gets most of its fat from peanut butter, rather than supplemental fats, for stronger flavour. Unlike some gluten free peanut butter recipes, it includes a flour blend for body and texture.</comment>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>150</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>3/4</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>water</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>10</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>2</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>5</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1/2</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>xanthan gum</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>30</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>2</value>
+						<unit>tbs</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>golden flax seeds</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>250</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1 3/4</value>
+						<unit>cups</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>gluten free flour blend</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3.5</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1/2</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>10</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>2 1/2</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>baking powder</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit></unit>
+				<altmeasure>
+					<quantity>
+						<value>1/4</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>baking soda</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>500</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>2</value>
+						<unit>cups</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>peanut butter</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>50</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1/4</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>shortening</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>200</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>granulated sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>200</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>brown sugar</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Preheat the oven to <temperature>350</temperature> and grease some <equipment>cookie sheets</equipment> or line with <equipment>parchment paper</equipment>.</step>
+		<step>Stir together the water, vanilla extract, and xanthan gum.</step>
+		<step>Finely grind the flax seeds. Add to the water mixture and let sit <time>10 minutes</time> to thicken.</step>
+		<step>Sift together the flour blend, baking powder, and baking soda.</step>
+		<step>Beat the water mixture well until it forms a meringue texture.</step>
+		<step>Add the flour mixture and remaining ingredients and beat together until smooth.</step>
+		<step>Form into 2-tbs balls and place a few cm apart on the cookie sheets.</step>
+		<step>Dip a fork in watter and flatten the balls slightly, then press the fork in the crossways direction to flattern further and form the traditional pattern.</step>
+		<step>Bake <time>8 - 10 minutes</time> until barely set.</step>
+		<step>Cool on a rack.</step>
+	</steps>
+</recipe>
