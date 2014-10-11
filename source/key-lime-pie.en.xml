@@ -12,12 +12,10 @@
 				<quantity>
                     <value>1 1/4</value>
                     <unit>cup</unit>
-                    <!--
                     <altmeasure>
-                        <value>@@</value>
-                        <unit>oz</unit>
+                        <value>150</value>
+                        <unit>g</unit>
                     </altmeasure>
-                    -->
 				</quantity>
 				<item>graham cracker crumbs</item>
 			</ingredient>
@@ -40,7 +38,7 @@
 			<step>Preheat the oven to <temperature>350</temperature>.</step>
 			<step>If using whole graham crackers, pulse them in a food processor until evenly sandy. Mix together graham cracker crumbs and sugar.</step>
 			<step>Melt butter and stir together graham cracker crumbs until butter is evenly distributed.</step>
-			<step>Grease a <equipment>9-inch pie plate</equipment>. Spread crumbs on bottom and sides evenly and press down.</step>
+			<step>Grease a <equipment>9-inch pie plate</equipment>. Spread crumbs on bottom and sides evenly and press in firmly.</step>
 			<step>Bake about <time>10 minutes</time> until lightly browned. Cool before adding filling. Keep oven on.</step>
 		</steps>
 	</group>
@@ -68,8 +66,14 @@
 			</ingredient>
 			<ingredient mainingredient="true">
 				<quantity>
-					<value>2/3</value>
-					<unit>cup</unit>
+					<value>9</value>
+					<unit>tbs</unit>
+                    <altmeasure>
+                        <quantity>
+                            <value>120</value>
+                            <unit>g</unit>
+                        </quantity>
+                    </altmeasure>
 				</quantity>
 				<item>key lime juice</item>
 			</ingredient>

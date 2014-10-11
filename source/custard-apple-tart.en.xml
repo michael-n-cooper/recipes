@@ -98,7 +98,7 @@
 			<step>Form into a cohesive disk and refrigerate until firm, at least <time>30 minutes</time>.</step>
 			<step>Preheat oven to <temperature>375</temperature>.</step>
             <step>Roll out pastry and line a <equipment>9-inch by 2-inch tart pan</equipment>. Set pan on a <equipment>baking sheet</equipment>.</step>
-			<step>Line shell with foil and weight with beans or pie weights. <procedure>Blind-bake</procedure> until set but not browned, about <time>6 minutes</time>.</step>
+			<step>Line shell with foil and weight with beans or pie weights. <procedure>Blind-bake</procedure> until set but not browned, about <time>12 minutes</time>.</step>
             <step>Remove from oven and cool, but leave oven on.</step>
 		</steps>
 	</group>
@@ -128,7 +128,7 @@
             </ingredient>
             <ingredient>
                 <quantity>
-                    <value>3</value>
+                    <value>1</value>
                     <unit>g</unit>
                     <altmeasure>
                         <quantity>

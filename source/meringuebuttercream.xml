@@ -15,7 +15,7 @@
 					<unit>g</unit>
 					<altmeasure>
 						<quantity>
-							<value>3.5</value>
+							<value>3</value>
 						</quantity>
 					</altmeasure>
 				</quantity>
@@ -52,7 +52,7 @@
 		</ingredient_choice>
 		<ingredient>
 			<quantity>
-				<value>300</value>
+				<value>450</value>
 				<unit>g</unit>
 			</quantity>
 			<item>sugar</item>
