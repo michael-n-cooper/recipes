@@ -31,7 +31,7 @@
 			</ingredient>
 			<ingredient>
 				<quantity>
-					<value>3/4</value>
+					<value>2/3</value>
 					<unit>cup</unit>
 				</quantity>
 				<item>sugar</item>
@@ -62,12 +62,12 @@
                     <unit>cup</unit>
 					<altmeasure>
 						<quantity>
-                            <value>400</value>
+                            <value>450</value>
                             <unit>g</unit>
 						</quantity>
 					</altmeasure>
 				</quantity>
-				<variant>all purpose</variant>
+				<variant>pastry</variant>
 				<item>flour</item>
 			</ingredient>
 			<ingredient>
@@ -116,7 +116,7 @@
             <step>Stir in 1/4 cup of the boiled cider and milk. If the cider lacks tartness, include the lemon juice.</step>
 			<step>Sift together the dry ingredients and add to the wet mixture. Mix just until it forms a soft dough.</step>
             <step>Optionally, cover and refrigerate dough a couple hours to firm up. Othrwise, more flour is required when rolling.</step>
-            <step>Add enough oil to a pan or fryer to cover the donuts (about 5 cm deep). Heat to <temperature>375</temperature>.</step>
+            <step>Add enough oil to a pan or fryer to cover the donuts (about 5 cm deep). Heat to <temperature>370</temperature>.</step>
 			<step>Turn dough onto a heavily floured surface. Flour the top well and roll out to 1.5 cm thick. Cut with a donut cutter, and set the pieces aside a few minutes. Re-roll the scraps and cut until all the dough is used.</step>
 			<step><procedure>Deep fry</procedure> in oil until brown, about a minute. Turn over, and fry until second side browns, another minute. Remove to a wire rack set over a drip tray. Let cool while frying the remainder.</step>
 		</steps>

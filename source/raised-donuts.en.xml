@@ -5,84 +5,160 @@
 	<meta>
 		<dishtype>Donuts</dishtype>
 	</meta>
-    <ingredients>
-        <ingredient>
-            <quantity>
-                <value>1 1/4</value>
-                <unit>cup</unit>
-            </quantity>
-            <item>milk</item>
-        </ingredient>
-        <ingredient>
-            <quantity>
-                <value>1/4</value>
-                <unit>cup</unit>
-                <altmeasure>
-                    <quantity>
-                        <value>50</value>
+    <group>
+        <label>Biga</label>
+        <processnote>The biga adds characteristic flavour to the donuts, but it can be skipped. Simply include the biga ingredents with their corresponding ingredients in the dough to make a "straight dough".</processnote>
+        <ingredients>
+            <ingredient>
+                <quantity>
+                    <value>1/2</value>
+                    <unit>cup</unit>
+                    <altmeasure>
+                        <quantity>
+                            <value>100</value>
+                            <unit>g</unit>
+                        </quantity>
+                    </altmeasure>
+                </quantity>
+                <item>water</item>
+            </ingredient>
+            <ingredient>
+                <quantity>
+                    <value>1 1/4</value>
+                    <unit>cup</unit>
+                    <altmeasure>
+                        <quantity>
+                            <value>150</value>
+                            <unit>g</unit>
+                        </quantity>
+                    </altmeasure>
+                </quantity>
+                <variant>bread</variant>
+                <item>flour</item>
+            </ingredient>
+            <ingredient>
+                <quantity>
+                    <value>1/16</value>
+                    <unit>tsp</unit>
+                    <altmeasure>
+                        <quantity>
+                            <value>1</value>
+                            <unit>g</unit>
+                        </quantity>
+                    </altmeasure>
+                </quantity>
+                <variant>instant</variant>
+                <item>yeast</item>
+            </ingredient>
+        </ingredients>
+        <steps>
+            <step>Stir together the ingredients until a dough forms. Knead briefly until smooth.</step>
+            <step>Cover and let rest overnight, <time>8 - 12 hours</time>. The dough will rise up but should not collapse before using.</step>
+        </steps>
+    </group>
+    <group>
+        <label>Dough</label>
+        <ingredients>
+            <ingredient>
+                <item>biga</item>
+            </ingredient>
+            <ingredient>
+                <quantity>
+                    <value>3/4</value>
+                    <unit>cup</unit>
+                    <altmeasure>
+                        <value>165</value>
                         <unit>g</unit>
-                    </quantity>
-                </altmeasure>
-            </quantity>
-            <item>butter</item>
-        </ingredient>
-        <ingredient>
-            <quantity>
-                <value>1</value>
-            </quantity>
-            <item>egg</item>
-        </ingredient>
-        <ingredient>
-            <quantity>
-                <value>1/3</value>
-                <unit>cup</unit>
-            </quantity>
-            <item>sugar</item>
-        </ingredient>
-        <ingredient>
-            <quantity>
-                <value>1</value>
-                <unit>tsp</unit>
-            </quantity>
-            <item>salt</item>
-        </ingredient>
-        <ingredient>
-            <quantity>
-                <value>3 1/2</value>
-                <unit>cup</unit>
-                <altmeasure>
-                    <quantity>
-                        <value>450</value>
-                        <unit>g</unit>
-                    </quantity>
-                </altmeasure>
-            </quantity>
-            <variant>all purpose</variant>
-            <item>flour</item>
-        </ingredient>
-        <ingredient>
-            <quantity>
-                <value>2</value>
-                <unit>tsp</unit>
-            </quantity>
-            <variant>instant</variant>
-            <item>yeast</item>
-        </ingredient>
-        <ingredient>
-            <item>oil for frying</item>
-        </ingredient>
-    </ingredients>
-    <steps>
-        <step><procedure>Scald</procedure> milk. Add butter to melt, and cool.</step>
-        <step>Beat in eggs, sugar, and salt.</step>
-        <step>Stir in flour and yeast. <procedure>Knead</procedure> well until smooth.</step>
-        <step>Lightly oil a bowl with twice the volume of the dough. Place dough in bowl and cover.</step>
-        <step><procedure>Proof</procedure> <time>1 hour</time> and put in refrigerator overnight (preferred for flavour development and easier handling), or proof <time>1 1/2 hours</time> to make immediately.</step>
-        <step>Roll out 2 cm thick and cut donuts. Re-roll the scraps and cut until all the dough is used.</step>
-        <step>Cover and let rise until nearly doubled, about <time>45 minutes</time>, or <time>1 1/2 hours</time> if retarded overnight.</step>
-        <step>Add enough oil to a pan or fryer to cover the donuts (about 5 cm deep). Heat to <temperature>360</temperature>.</step>
-        <step><procedure>Deep fry</procedure> in oil until brown, about <time>2 minutes</time>. Turn over, and fry until second side browns, another <time>1 minute</time>. Remove to a wire rack set over a drip tray. Let cool while frying the remainder.</step>
-    </steps>
+                    </altmeasure>
+                </quantity>
+                <item>milk</item>
+            </ingredient>
+            <ingredient>
+                <quantity>
+                    <value>1/4</value>
+                    <unit>cup</unit>
+                    <altmeasure>
+                        <quantity>
+                            <value>50</value>
+                            <unit>g</unit>
+                        </quantity>
+                    </altmeasure>
+                </quantity>
+                <item>butter</item>
+            </ingredient>
+            <ingredient>
+                <quantity>
+                    <value>1</value>
+                    <altmeasure>
+                        <quantity>
+                            <value>50</value>
+                            <unit>g</unit>
+                        </quantity>
+                    </altmeasure>
+                </quantity>
+                <item>egg</item>
+            </ingredient>
+            <ingredient>
+                <quantity>
+                    <value>1/2</value>
+                    <unit>cup</unit>
+                    <altmeasure>
+                        <quantity>
+                            <value>100</value>
+                            <unit>g</unit>
+                        </quantity>
+                    </altmeasure>
+                </quantity>
+                <item>sugar</item>
+            </ingredient>
+            <ingredient>
+                <quantity>
+                    <value>1</value>
+                    <unit>tsp</unit>
+                </quantity>
+                <item>salt</item>
+            </ingredient>
+            <ingredient>
+                <quantity>
+                    <value>2 1/4</value>
+                    <unit>cup</unit>
+                    <altmeasure>
+                        <quantity>
+                            <value>300</value>
+                            <unit>g</unit>
+                        </quantity>
+                    </altmeasure>
+                </quantity>
+                <variant>bread</variant>
+                <item>flour</item>
+            </ingredient>
+            <ingredient>
+                <quantity>
+                    <value>2</value>
+                    <unit>tsp</unit>
+                </quantity>
+                <variant>instant</variant>
+                <item>yeast</item>
+            </ingredient>
+            <ingredient>
+                <item>oil for frying</item>
+            </ingredient>
+        </ingredients>
+        <steps>
+            <step><procedure>Scald</procedure> milk. Add butter to melt, and cool.</step>
+            <step>Beat in eggs, sugar, and salt.</step>
+            <step>Stir in biga, flour and yeast. <procedure>Knead</procedure> well until smooth.</step>
+            <step>Lightly oil a bowl with twice the volume of the dough. Place dough in bowl and cover.</step>
+            <step><procedure>Proof</procedure> in a warm place <time>1 1/2 hours</time> until doubled in bulk.</step>
+            <step>Collapse dough and form into a ball. Rest a few minutes until it relaxes.</step>
+            <step>Flour a baking sheet or other flat surface well for cut donuts. Set a wire rack over a drip tray for finished donuts.</step>
+            <step>Roll dough out 2 cm thick and cut donuts. Combine the scraps, rest to relax, and re-roll cut until all the dough is used.</step>
+            <step>Place donuts on the floured surface. Cover and let rise in a warm place until nearly doubled, about <time>45 minutes</time>.</step>
+            <step>Add enough oil to a pan or fryer to cover the donuts (about 5 cm deep). Heat to <temperature>370</temperature>.</step>
+            <step>Carefully remove each donuts from the resting surface so as not to collapse or mis-shape them.</step>
+            <step>Gently set in oil a few at a time, leaving room for expansion, and <procedure>fry</procedure> until light brown, about <time>1 minute</time>. Turn over, and fry until second side browns, another <time>1 minute</time>. Remove to the wire rack and let cool while frying the remainder.</step>
+        </steps>
+    </group>
 	<serving>Cool and dip in icing, cover on both sides with confectioners' sugar glaze, or roll in sugar.</serving>
     <variation>
         <label>Old-Fashioned Raised Donuts</label>
