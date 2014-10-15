@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Sour Cream Donuts</title>
+	<meta>
+		<dishtype>Donuts</dishtype>
+	</meta>
+    <ingredients>
+        <ingredient>
+            <quantity>
+                <value>1/4</value>
+                <unit>cup</unit>
+                <altmeasure>
+                    <quantity>
+                        <value>50</value>
+                        <unit>g</unit>
+                    </quantity>
+                </altmeasure>
+            </quantity>
+            <item>butter</item>
+        </ingredient>
+        <ingredient>
+            <quantity>
+                <value>2/3</value>
+                <unit>cup</unit>
+            </quantity>
+            <item>sugar</item>
+        </ingredient>
+        <ingredient>
+            <quantity>
+                <value>2</value>
+            </quantity>
+            <item>eggs</item>
+        </ingredient>
+        <ingredient>
+            <quantity>
+                <value>3/4</value>
+                <unit>cup</unit>
+            </quantity>
+            <item>sour cream</item>
+        </ingredient>
+        <ingredient>
+            <quantity>
+                <value>3</value>
+                <unit>cup</unit>
+                <altmeasure>
+                    <quantity>
+                        <value>450</value>
+                        <unit>g</unit>
+                    </quantity>
+                </altmeasure>
+            </quantity>
+            <variant>all purpose</variant>
+            <item>flour</item>
+        </ingredient>
+        <ingredient>
+            <quantity>
+                <value>1/2</value>
+                <unit>tsp</unit>
+            </quantity>
+            <item>salt</item>
+        </ingredient>
+        <ingredient>
+            <quantity>
+                <value>1</value>
+                <unit>tbs</unit>
+            </quantity>
+            <item>baking powder</item>
+        </ingredient>
+        <ingredient>
+            <item>shortening for frying</item>
+        </ingredient>
+    </ingredients>
+    <steps>
+        <step>Cream the butter and sugar together until light.</step>
+        <step>Beat in eggs one at a time until smooth.</step>
+        <step>Stir in sour cream.</step>
+        <step>Sift together the dry ingredients and add to the wet mixture. Mix until it forms a soft dough and comes together smoothly.</step>
+        <step>Add enough shortening to a pan or fryer to cover the donuts when melted (about 5 cm deep). Heat to <temperature>325</temperature>.</step>
+        <step>Turn dough onto a heavily floured surface. Flour the top well and work together to a smooth ball.</step>
+        <step>Roll out to 1.5 cm thick. Cut with a donut cutter, and set the pieces aside a few minutes. Re-roll the scraps and cut until all the dough is used.</step>
+        <step><procedure>Deep fry</procedure> in shortening until brown, about <time>3 minutes</time>. Donuts will sink to the bottom and crack on top. When they float, they are done.</step>
+        <step>Remove to a wire rack set over a drip tray. Let cool while frying the remainder.</step>
+    </steps>
+	<serving>Cool and cover on both sides with confectioners' sugar glaze.</serving>
+	<storage>Donuts don't store well, but can be frozen. Freeze the day they are made.</storage>
+</recipe>
