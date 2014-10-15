@@ -141,7 +141,7 @@
                 <item>yeast</item>
             </ingredient>
             <ingredient>
-                <item>oil for frying</item>
+                <item>shortening for frying</item>
             </ingredient>
         </ingredients>
         <steps>
@@ -154,9 +154,9 @@
             <step>Flour a baking sheet or other flat surface well for cut donuts. Set a wire rack over a drip tray for finished donuts.</step>
             <step>Roll dough out 2 cm thick and cut donuts. Combine the scraps, rest to relax, and re-roll cut until all the dough is used.</step>
             <step>Place donuts on the floured surface. Cover and let rise in a warm place until nearly doubled, about <time>45 minutes</time>.</step>
-            <step>Add enough oil to a pan or fryer to cover the donuts (about 5 cm deep). Heat to <temperature>370</temperature>.</step>
+            <step>Add enough shortening to a pan or fryer to cover the donuts when melted (about 5 cm deep). Heat to <temperature>370</temperature>.</step>
             <step>Carefully remove each donuts from the resting surface so as not to collapse or mis-shape them.</step>
-            <step>Gently set in oil a few at a time, leaving room for expansion, and <procedure>fry</procedure> until light brown, about <time>1 minute</time>. Turn over, and fry until second side browns, another <time>1 minute</time>. Remove to the wire rack and let cool while frying the remainder.</step>
+            <step>Gently set in shortening a few at a time, leaving room for expansion, and <procedure>deep fry</procedure> until light brown, about <time>1 minute</time>. Turn over, and fry until second side browns, another <time>1 minute</time>. Remove to the wire rack and let cool while frying the remainder.</step>
         </steps>
     </group>
 	<serving>Cool and dip in icing, cover on both sides with confectioners' sugar glaze, or roll in sugar.</serving>
