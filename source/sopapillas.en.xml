@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Sopapillas</title>
+	<meta>
+		<cuisine>Mexican</cuisine>
+		<dishtype>Breads</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<item>dough for flour tortillas</item>
+		</ingredient>
+		<ingredient>
+			<item>oil for frying</item>
+		</ingredient>
+		<ingredient>
+			<item>cinnamon sugar</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Prepare dough for flour tortillas.</step>
+		<step>Add enough oil to a pan or fryer to cover the sopapillas when melted (about 5 cm deep). Heat to <temperature>370</temperature>.</step>
+		<step>Divide dough into 2 balls and roll 3 mm thick, then cut each into 8 wedges. Or roll entire dough into a sheet 3 mm thick and cut into 12 cm squares.</step>
+		<step>Deep fry each sopapilla in the oil, a few at a time. They should puff up. When first side has browned, after 2 minutes, flip and brown other side, another 2 minutes.</step>
+		<step>Remove from oil and place on a plate lined with a paper towel. Repeat with each triangle.</step>
+		<step>Sprinkle with cinnamon sugar while warm.</step>
+	</steps>
+	<serving>Serve warm with honey.</serving>
+</recipe>
