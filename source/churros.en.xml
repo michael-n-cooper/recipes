@@ -71,7 +71,7 @@
 			<item>shortening for frying</item>
 		</ingredient>
 		<ingredient optional="true">
-			<item>Dulce de leche or vanilla custard for filling</item>
+			<item><reciperef ref="dulce-de-leche">Dulce de leche</reciperef> or vanilla custard for filling</item>
 		</ingredient>
 		<ingredient>
 			<item>cinnamon sugar</item>

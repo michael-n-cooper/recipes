@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE recipe SYSTEM "../recipes.dtd">
 <recipe>
-	<title>Dulce de Leche (fresh milk)</title>
+	<title>Dulce de Leche</title>
 	<meta>
 		<cuisine>Mexican</cuisine>
 		<dishtype>Preserves</dishtype>

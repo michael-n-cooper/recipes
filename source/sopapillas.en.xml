@@ -8,7 +8,7 @@
 	</meta>
 	<ingredients>
 		<ingredient>
-			<item>dough for flour tortillas</item>
+			<item><reciperef ref="flour-tortillas">dough for flour tortillas</reciperef></item>
 		</ingredient>
 		<ingredient>
 			<item>oil for frying</item>
