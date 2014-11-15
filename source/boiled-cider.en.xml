@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Boiled Cider</title>
+	<meta>
+		<dishtype>Syrups</dishtype>
+		<comment>Boiled cider has been reduced to about 1/5 its original volume, yielding a syrup. This is an ingredient in cooking or used like maple syrup. It also may be reconsituted, allowing it to function as a preservation method for cider</comment>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<item>Apple Cider</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Put cider in a wide <equipment>pan</equipment>.</step>
+		<step>Bring to a boil. Reduce heat to keep just at a boil.</step>
+		<step>Boil until cider reduces to about 1/6 its original volume and measures <temperature>219</temperature>.</step>
+		<step>Remove from heat and filter through a coffee filter or paper towel.</step>
+		<step>Transfer to <equipment>canning jars</equipment> and <procedure>seal</procedure>.</step>
+	</steps>
+</recipe>
