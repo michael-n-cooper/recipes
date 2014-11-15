@@ -33,7 +33,7 @@
                         </quantity>
                     </altmeasure>
                 </quantity>
-                <variant>bread</variant>
+                <variant>all purpose</variant>
                 <item>flour</item>
             </ingredient>
             <ingredient>
@@ -129,7 +129,7 @@
                         </quantity>
                     </altmeasure>
                 </quantity>
-                <variant>bread</variant>
+                <variant>all purpose</variant>
                 <item>flour</item>
             </ingredient>
             <ingredient>
