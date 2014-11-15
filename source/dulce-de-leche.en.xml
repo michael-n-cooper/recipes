@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Dulce de Leche (fresh milk)</title>
+	<meta>
+		<cuisine>Mexican</cuisine>
+		<dishtype>Preserves</dishtype>
+		<comment>Dulce de Leche is "milk jam", a Latin American confection. This recipe uses fresh milk, which takes a long time to boil down but has a better flavour than the recipe that starts with commercial evaporated milk. It is traditional plain but the optional ingredients make it suitable for certain applications. It can be used as a bread spread, ice cream topping, or filling. If made with goat milk it may be called Cajeta.</comment>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>litre</unit>
+				<altmeasure>
+					<quantity>
+						<value>1000</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>whole</variant>
+			<item>milk</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1 1/4</value>
+				<unit>cup</unit>
+				<altmeasure>
+					<quantity>
+						<value>250</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient optional="true">
+			<quantity>
+				<value>1/2</value>
+			</quantity>
+			<item>vanilla bean</item>
+		</ingredient>
+		<ingredient optional="true">
+			<quantity>
+				<value>1</value>
+			</quantity>
+			<item>cinnamon stick</item>
+		</ingredient>
+		<ingredient optional="true">
+			<quantity>
+				<value>1/4</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+				<altmeasure>
+					<quantity>
+						<value>3.5</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>baking soda</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Combine the milk, sugar, and any optional ingredients in a <equipment>4-quart saucepan</equipment> and place over medium heat. Bring to a simmer, stirring occasionally, until the sugar has dissolved.</step>
+		<step>Once the sugar has dissolved, add the baking soda and stir to combine.</step>
+		<step>Reduce the heat to low and cook uncovered at a bare simmer; watch for boiling over in the early stages. Stir occasionally, but do not re-incorporate the foam that appears on the top of the mixture.</step>
+		<step>Continue to cook, stirring occasionally, until the boiling changes character to have thick bubbles, about <time>1 hour</time>.</step>
+		<step>Continue to cook, stirring frequently, until the mixture is a dark caramel color, has visibly thickened, reaches 215 F, and has reduced to about 1 cup, approximately <time>1/2 to 1 hour</time>.</step>
+		<step>Remove from heat and strain the mixture through a fine mesh strainer.</step>
+		<step>Transfer to a sealable storage container.</step>
+	</steps>
+	<storage>Store in the refrigerator for up to a month.</storage>
+</recipe>
+
