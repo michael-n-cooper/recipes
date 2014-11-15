@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Churros</title>
+	<meta>
+		<dishtype>Donuts</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+				<altmeasure>
+					<quantity>
+						<value>225</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>water</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1 1/2</value>
+				<unit>tbs</unit>
+				<altmeasure>
+					<quantity>
+						<value>45</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tbs</unit>
+				<altmeasure>
+					<quantity>
+						<value>40</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>vegetable</variant>
+			<item>oil</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>cup</unit>
+				<altmeasure>
+					<quantity>
+						<value>125</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>all purpose</variant>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<item>shortening for frying</item>
+		</ingredient>
+		<ingredient optional="true">
+			<item>Dulce de leche or vanilla custard for filling</item>
+		</ingredient>
+		<ingredient>
+			<item>cinnamon sugar</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>In a small <equipment>saucepan</equipment> whisk together the water, sugar, salt, and oil. Bring the mixture to a boil then remove it from the heat.</step>
+		<step>Stir in the flour, mixing until it forms a ball.</step>
+		<step>Add enough oil or shortening to a pan or fryer to cover the donuts when melted (about 5 cm deep). Heat to <temperature>370</temperature>.</step>
+		<step>Transfer the dough to a pastry bag fitted with a large star tip.</step>
+		<step>Pipe the dough over the pot of oil to a length of about 4 inches, then using scissors or a sharp knife, cut it so it releases into the oil. Pipe two to three churros into the oil at a time, frying them until they're golden brown and cooked through, about <time>2 minutes</time>.</step>
+		<step>Transfer the churros to the paper towel-lined plate to drain for 2 minutes. Repeat the frying and coating process with the remaining dough.</step>
+		<step>Using a sharp knife, make a lengthwise incision along each churros, taking care not to cut all the way through. Carefully pipe dulce de leche or vanilla custard into the incision from one end to the other, taking care not to split the churros.</step>
+	</steps>
+	<serving>Toss churros in cinnamon mixture. Serve immediately.</serving>
+	<storage>Donuts don't store well, but can be frozen. Freeze the day they are made.</storage>
+</recipe>
