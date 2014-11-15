@@ -6,16 +6,16 @@
 		<dishtype>Donuts</dishtype>
 	</meta>
     <group>
-        <label>Biga</label>
-        <processnote>The biga adds characteristic flavour to the donuts, but it can be skipped. Simply include the biga ingredents with their corresponding ingredients in the dough to make a "straight dough".</processnote>
+        <label>Poolish</label>
+        <processnote>The poolish adds characteristic flavour to the donuts, but it can be skipped. Simply include the poolish ingredents with their corresponding ingredients in the dough to make a "straight dough".</processnote>
         <ingredients>
             <ingredient>
                 <quantity>
-                    <value>1/2</value>
+                    <value>2/3</value>
                     <unit>cup</unit>
                     <altmeasure>
                         <quantity>
-                            <value>100</value>
+                            <value>150</value>
                             <unit>g</unit>
                         </quantity>
                     </altmeasure>
@@ -52,7 +52,7 @@
             </ingredient>
         </ingredients>
         <steps>
-            <step>Stir together the ingredients until a dough forms. Knead briefly until smooth.</step>
+            <step>Stir together the ingredients until a paste forms.</step>
             <step>Cover and let rest overnight, <time>8 - 12 hours</time>. The dough will rise up but should not collapse before using.</step>
         </steps>
     </group>
@@ -60,14 +60,14 @@
         <label>Dough</label>
         <ingredients>
             <ingredient>
-                <item>biga</item>
+                <item>poolish</item>
             </ingredient>
             <ingredient>
                 <quantity>
-                    <value>3/4</value>
+                    <value>1/2</value>
                     <unit>cup</unit>
                     <altmeasure>
-                        <value>165</value>
+                        <value>115</value>
                         <unit>g</unit>
                     </altmeasure>
                 </quantity>
@@ -147,7 +147,7 @@
         <steps>
             <step><procedure>Scald</procedure> milk. Add butter to melt, and cool.</step>
             <step>Beat in eggs, sugar, and salt.</step>
-            <step>Stir in biga, flour and yeast. <procedure>Knead</procedure> well until smooth.</step>
+            <step>Stir in poolish, flour and yeast. <procedure>Knead</procedure> well until smooth.</step>
             <step>Lightly oil a bowl with twice the volume of the dough. Place dough in bowl and cover.</step>
             <step><procedure>Proof</procedure> in a warm place <time>1 1/2 hours</time> until doubled in bulk.</step>
             <step>Collapse dough and form into a ball. Rest a few minutes until it relaxes.</step>
