@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Laminated Donuts</title>
+	<meta>
+		<dishtype>Donuts</dishtype>
+		<comment>This is an adaptation of the famous Cronut, but to avoid trademark infringment and stupid manufactured names, I'm just calling them laminated donuts. There are less layers than in croissants, so these have more structure and can hold a filling that is piped in like an éclair.</comment>
+	</meta>
+	<group>
+		<label>Dough</label>
+		<ingredients>
+			<ingredient>
+				<quantity>
+					<value>3 3/4</value>
+					<unit>cup</unit>
+					<altmeasure>
+						<quantity>
+							<value>475</value>
+							<unit>g</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<variant>bread</variant>
+				<item>flour</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>5</value>
+					<unit>tbs</unit>
+					<altmeasure>
+						<quantity>
+							<value>60</value>
+							<unit>g</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>sugar</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>2 1/2</value>
+					<unit>tsp</unit>
+					<altmeasure>
+						<quantity>
+							<value>15</value>
+							<unit>g</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>salt</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>4 1/2</value>
+					<unit>tsp</unit>
+					<altmeasure>
+						<quantity>
+							<value>15</value>
+							<unit>g</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<variant>instant</variant>
+				<item>yeast</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1 1/8</value>
+					<unit>cup</unit>
+					<altmeasure>
+						<quantity>
+							<value>250</value>
+							<unit>g</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>water</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1</value>
+					<altmeasure>
+						<quantity>
+							<value>30</value>
+							<unit>g</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>egg white</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>8</value>
+					<unit>tbs</unit>
+					<altmeasure>
+						<quantity>
+							<value>115</value>
+							<unit>g</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>butter</item>
+				<preprep>softened</preprep>
+			</ingredient>
+		</ingredients>
+		<steps>
+			<step>Combine the ingredients and mix until just combined, about 3 minutes. When finished the dough will be rough and have very little gluten development.</step>
+			<step>Lightly grease a medium bowl. Transfer the dough to the bowl. Cover with plastic wrap pressed directly on the surface of the dough, to prevent a skin from forming.</step>
+			<step>Proof the dough in a warm spot until doubled in size, <time>2 to 3 hours</time></step>
+			<step>Punch the dough down, releasing as much of the gas as possible.</step>
+			<step>On a piece of parchment paper, shape into a 10-inch (25 cm) square.</step>
+			<step>Transfer to a sheet pan, still on the parchment paper, and cover with plastic wrap. Refrigerate <time>overnight</time>.</step>
+		</steps>
+	</group>
+	<group>
+		<label>Butter Block</label>
+		<ingredients>
+			<ingredient>
+				<quantity>
+					<value>18</value>
+					<unit>tbs</unit>
+					<altmeasure>
+						<quantity>
+							<value>255</value>
+							<unit>g</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>butter</item>
+				<preprep>softened</preprep>
+			</ingredient>
+		</ingredients>
+		<steps>
+			<step>Draw a 7-inch (18 cm) square on a piece of parchment paper with a pencil, then flip the parchment over so that the butter won't come in contact with the pencil marks.</step>
+			<step>Place the butter in the center of the square and spread it evenly to fill the square.</step>
+			<step>Refrigerate <time>overnight</time>.</step>
+		</steps>
+	</group>
+	<group>
+		<label>Lamination</label>
+		<ingredients>
+			<ingredient>
+				<item>dough</item>
+			</ingredient>
+			<ingredient>
+				<item>butter block</item>
+			</ingredient>
+		</ingredients>
+		<steps>
+			<step>Remove the butter from the refrigerator. It should still be soft enough to bend slightly without cracking. If it is still too firm, lightly beat it with a rolling pin on a lightly floured work surface until it becomes pliable. Make sure to press the butter back to its original 7-inch (18 cm) square after working it.</step>
+			<step>Flour a work surface lightly. Remove the dough from the refrigerator and place the dough on the surface. Roll out the dough to a 10-inch (25.5 cm) square about 1 inch (2.5 cm) thick.</step>
+			<step>Arrange the butter block in the center of the dough rotated 45 degrees from the dough square. Pull the corners of the dough up and over to the center of the butter block. Pinch the seams of dough together to seal the butter inside.</step>
+			<step>Gently roll the dough and butter out to 20-inch (50 cm) square about 1/4-inch (6 mm) thick, flouring lightly as needed.</step>
+			<step>Fold the dough in half horizontally, then vertically, to form a 10-inch (25.5 cm) square of dough with 4 layers.</step>
+			<step>Wrap tightly in plastic wrap and refrigerate for <time>1 hour</time>.</step>
+			<step>Repeat the rolling and folding once, to yield 16 layers.</step>
+			<step>Wrap tightly in plastic wrap and refrigerate <time>overnight</time>.</step>
+		</steps>
+	</group>
+	<group>
+		<label>Shaping and Frying</label>
+		<ingredients>
+			<ingredient>
+				<item>dough</item>
+			</ingredient>
+			<ingredient>
+				<item>shortening for frying</item>
+			</ingredient>
+		</ingredients>
+		<steps>
+			<step>Flour the work surface lightly. Remove the dough from the refrigerator and place the dough on the surface. Roll out the dough to a 15-inch (40 cm) square about 1/2-inch (1.3 cm) thick.</step>
+			<step>Transfer the dough to a half sheet pan, cover with plastic wrap, and refrigerate for <time>1 hour</time> to relax.</step>
+			<step>Use a <equipment>3 1/2 inch donut cutter</equipment> to cut 12 donuts. (Scraps could be re-rolled but will lose their laminated quality.)</step>
+			<step>Line a sheet pan with parchment paper and lightly dust the parchment with flour. Place the cut pastries on the pan, spacing them about 3 inches (8 cm) apart. Cover lightly.</step>
+			<step>Proof in a warm spot until tripled in size, about 2 hours. Be sure the proofing area is not warm enough to melt the butter.</step>
+			<step>Place donuts on the floured surface. Cover and let rise in a warm place until nearly doubled, about <time>45 minutes</time>.</step>
+			<step>Add enough shortening to a pan or fryer to cover the donuts when melted (about 5 cm deep). Heat to <temperature>370</temperature>.</step>
+			<step>Carefully remove each donuts from the resting surface so as not to collapse or mis-shape them.</step>
+			<step>Gently set in shortening a few at a time, leaving room for expansion, and <procedure>deep fry</procedure> until light brown, about <time>1 minute</time>. Turn over, and fry until second side browns, another <time>1 minute</time>.</step>
+			<step>Remove to the wire rack and let cool while frying the remainder.</step>
+		</steps>
+	</group>
+	<group>
+		<label>Finishing</label>
+		<ingredients>
+			<ingredient>
+				<item>finished donuts</item>
+			</ingredient>
+			<ingredient>
+				<item>filling of choice</item>
+			</ingredient>
+			<ingredient>
+				<item>glaze of choice</item>
+			</ingredient>
+			<ingredient>
+				<item>sugar for rolling</item>
+			</ingredient>
+		</ingredients>
+		<steps>
+			<step>Put the filling in a piping bag with a Bismarck tip.</step>
+			<step>Arrange each donut with the flatter side facing up. Inject the filling through the top of the pastry in four different spots, evenly spaced.</step>
+			<step>Roll sides of the donuts in the sugar, coating the outside edges.</step>
+			<step>Put glaze into a piping bag with a #803 plain tip.</step>
+			<step>Pipe a ring of glaze around the top of each donut, making sure to cover all the holes created from the filling. Keep in mind that the glaze will continue to spread slightly as it cools.</step>
+			<step>Let the glaze set for about 15 minutes before serving.</step>
+		</steps>
+	</group>
+	<storage>Donuts don't store well, but can be frozen. Freeze the day they are made.</storage>
+</recipe>
