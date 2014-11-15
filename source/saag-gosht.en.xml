@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Saag Gosht</title>
+	<meta>
+		<cuisine>Indian</cuisine>
+		<comment>This is a northern Indian lamb and spinach curry. The spinach may be chopped or puréed; I prefer the texture closer to the latter. Other dark greens may be substituted for the spinach, but spinach has the best flavour.</comment>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>4</value>
+				<unit>cloves</unit>
+			</quantity>
+			<item>garlic</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>ginger</item>
+		</ingredient>
+		<ingredient_choice>
+			<ingredient>
+				<quantity>
+					<value>1/2</value>
+					<unit>tsp</unit>
+				</quantity>
+				<item>cayenne</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1</value>
+				</quantity>
+				<item>chili</item>
+			</ingredient>
+		</ingredient_choice>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>coriander seed</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>cumin seed</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>4</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>yogurt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1 1/2</value>
+				<unit>lb</unit>
+			</quantity>
+			<item>lamb or mutton stew</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tbs</unit>
+			</quantity>
+			<item>ghee</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+			</quantity>
+			<item>onions</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>garam masala</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>lb</unit>
+			</quantity>
+			<item>spinach</item>
+		</ingredient>
+		<ingredient_choice>
+			<ingredient>
+				<quantity>
+					<value>2</value>
+				</quantity>
+				<item>tomatoes</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1</value>
+					<unit>cup</unit>
+				</quantity>
+				<item>tomato purée</item>
+			</ingredient>
+			<ingredient_group>
+				<ingredient>
+					<quantity>
+						<value>1/2</value>
+						<unit>cup</unit>
+					</quantity>
+					<item>water</item>
+				</ingredient>
+				<ingredient>
+					<quantity>
+						<value>1</value>
+						<unit>tbs</unit>
+					</quantity>
+					<item>lemon juice</item>
+				</ingredient>
+			</ingredient_group>
+		</ingredient_choice>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Mince garlic, ginger, and chili. Grind the coriander and cumin.</step>
+		<step>Combine spices with yogurt in a bowl.</step>
+		<step>Add the stew meat and mix well. Marinate <time>1/2 hour</time>.</step>
+		<step>Dice onions.</step>
+		<step>Slice spinach into thin ribbons, then crossways into small pieces.</step> 
+		<step>If using, dice tomatoes.</step>
+		<step>Melt ghee in a pot, then add onions. Fry, stirring occasionally, until brown.</step>
+		<step>Add lamb with all the marinade. Fry, stirring occasionally, until the moisture cooks down.</step>
+		<step>Fry to brown slightly. Add the garam masala and fry another <time>30 seconds</time>.</step>
+		<step>Add spinach, tomatoes or water, and salt and stir together.</step>
+		<step>Reduce heat, cover, and simmer gently until lamb is tender, about <time>1 hour</time>. Taste and correct seasoning.</step>
+	</steps>
+</recipe>
