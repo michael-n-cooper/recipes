@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Flour Tortillas</title>
+	<meta>
+		<cuisine>Mexican</cuisine>
+		<dishtype>Breads</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>cups</unit>
+				<altmeasure>
+					<quantity>
+						<value>150</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>all purpose</variant>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tsp</unit>
+				<altmeasure>
+					<quantity>
+						<value>15</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>baking powder</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+				<altmeasure>
+					<quantity>
+						<value>5</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tbs</unit>
+				<altmeasure>
+					<quantity>
+						<value>25</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>shortening</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3/4</value>
+				<unit>cup</unit>
+				<altmeasure>
+					<quantity>
+						<value>90</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>water</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Combine flour, baking powder, and salt.</step>
+		<step>Add shortening and incorporate into the flour to make small crumbles.</step>
+		<step>Slowly add the warm water to the flour, stirring to form dough.</step>
+		<step>Turn dough out onto a lightly floured counter.</step>
+		<step>Knead dough for about 5 minutes, or until soft and elastic.</step>
+		<step>Cover and let rest for <time>1 hour</time>.</step>
+		<step>Divide into 12 balls for 6-inch tortillas, 8 balls for 8-inch tortillas, or 4 balls for 12-inch tortillas.</step>
+		<step>Roll each ball 3 mm thick.</step>
+		<step>Heat a <equipment>griddle</equipment> to <temperature>500</temperature>.</step>
+		<step>Place each tortilla on griddle and bake 30 seconds, flip, bake another minute, then flip and bake first side another 30 seconds. Bake as many at a time as practical.</step>
+		<step>Remove from griddle andcover to allow steam to finish cooking while baking the remaining tortillas. Add each one to the covered pile as they're done.</step>
+	</steps>
+	<serving>Serve warm.</serving>
+	<storage>Wrap tortillas well and freeze. They may be reheated in the microwave or over steam.</storage>
+</recipe>
