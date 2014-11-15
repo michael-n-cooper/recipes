@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Cider Jelly</title>
+	<meta>
+		<dishtype>Preserves</dishtype>
+		<comment>Consisting purely of boiled down cider, this jelly has a compelling sweet tart taste. The pectin from the apples allows it to form a true jelly. But it takes a lot of cider to yield a little jelly.</comment>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<item>Apple Cider</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Put cider in a wide <equipment>pan</equipment>.</step>
+		<step>Bring to a boil. Reduce heat to keep just at a boil.</step>
+		<step>Boil until cider reduces to about 1/8 its original volume and measures <temperature>225</temperature>.</step>
+		<step>Remove from heat and filter through a coffee filter or paper towel.</step>
+		<step>Transfer to <equipment>canning jars</equipment> and <procedure>seal</procedure>.</step>
+	</steps>
+</recipe>
