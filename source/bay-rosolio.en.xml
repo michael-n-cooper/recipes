@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Bay Rosolio</title>
+	<meta>
+		<source>http://ecucinando.it/forum/rosolio-di-alloro-t8881.html</source>
+		<dishtype>Liqueurs</dishtype>
+		<comment>I encountered this drink in Venice where it was served in chocolate cups. I was entranced by the unusual herbaceous flavour. They gave me a bottle but I have not been able to find it anywhere since, including in Venice. Perhaps this is because Rosolio (normally made with Rose petals) is a Sicilian specialty and is not widely available elsewhere. I finally found this recipe online to make my own.</comment>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>500</value>
+				<unit>ml</unit>
+			</quantity>
+			<item>95% ethyl alcohol</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>30</value>
+			</quantity>
+			<variant>fresh</variant>
+			<item>bay leaves</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>30</value>
+			</quantity>
+			<variant>fresh</variant>
+			<item>bay leaves</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3</value>
+			</quantity>
+			<item>cloves</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+			</quantity>
+			<item>cinnamon stick</item>
+		</ingredient>
+		<ingredient optional="true">
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>fennel seeds</item>
+			<note>for a more anise flavour</note>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>600</value>
+				<unit>ml</unit>
+			</quantity>
+			<variant>distilled</variant>
+			<item>water</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>400</value>
+				<unit>g</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Put the alcohol in a jar that can be sealed.</step>
+		<step>Add the herbs and spices, seal, and <procedure>macerate</procedure> <time>10 days</time>.</step>
+		<step>Combine sugar and water and bring to boil, stirring, until sugar dissolves. Cool.</step>
+		<step>Strain the alcohol into the sugar syrup and mix together well.</step>
+		<step>Filter into a bottle.</step>
+	</steps>
+	<storage>Store in a closed bottle in a dark place.</storage>
+</recipe>
