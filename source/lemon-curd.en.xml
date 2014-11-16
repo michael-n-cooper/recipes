@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Lemon Curd</title>
+	<meta>
+		<dishtype>Preserves</dishtype>
+	</meta>
+	<ingredients>
+		<yield>1 cup</yield>
+		<ingredient>
+			<quantity>
+				<value>2/3</value>
+				<unit>cup</unit>
+				<altmeasure>
+					<quantity>
+						<value>130</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<altmeasure>
+					<quantity>
+						<value>110</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>eggs</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>6</value>
+				<unit>tbs</unit>
+				<altmeasure>
+					<quantity>
+						<value>80</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>lemon juice</item>
+			<note>from 2 lemons</note>
+		</ingredient>
+		<ingredient_choice>
+			<ingredient>
+				<item>zest of two lemons</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>2</value>
+					<unit>drops</unit>
+				</quantity>
+				<item>lemon oil</item>
+			</ingredient>
+		</ingredient_choice>
+		<ingredient>
+			<quantity>
+				<value>4</value>
+				<unit>tbs</unit>
+				<altmeasure>
+					<quantity>
+						<value>50 g</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>butter</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Add sugar and eggs to a <equipment>saucepan</equipment> and beat together until smooth.</step>
+		<step>Stir in lemon juice and zest.</step>
+		<step>Heat over medium heat, stirring constantly, until slightly thickened and <temperature>175</temperature>.</step>
+		<step>Remove from heat and immediately strain through a fine strainer into a <equipment>mixing bowl</equipment>.</step>
+		<step>Stir in butter, allowing it to melt in and emulsify the mixture.</step>
+		<step>Put in a <equipment>storage jar</equipment> and cover immediately, or cover with plastic wrap to keep a skin from forming while it cools.</step>	
+	</steps>
+</recipe>
