@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Lemon Meringue Pie</title>
+	<meta>
+		<dishtype>Pies</dishtype>
+	</meta>
+	<group>
+		<label>Crust</label>
+		<ingredients>
+			<ingredient>
+				<quantity>
+					<value>1</value>
+				</quantity>
+				<item><reciperef ref="piecrust">Pastry for 9-inch pie shell</reciperef></item>
+			</ingredient>
+		</ingredients>
+		<steps>
+			<step>Preheat oven to <temperature>375</temperature>.</step>
+			<step>Make crust, roll out, line a <equipment>9-inch pie plate</equipment>, and crimp edges.</step>
+			<step>Line crust with foil or parchment paper and fill with pie weights.</step>
+			<step>Put crust in oven and bake until it sets, about <time>15 minutes</time>. Remove the lining and weights and continue to blind bake until golden brown, about another <time>15 minutes</time>.</step>
+			<step>Remove and cool while preparing rest of recipe. Leave oven on.</step>
+		</steps>
+	</group>
+	<group>
+		<label>Lemon Curd</label>
+		<ingredients>
+			<ingredient>
+				<quantity>
+					<value>225</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>1</value>
+							<unit>cup</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>sugar</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>55</value>
+					<unit>g</unit>
+					<altmeasure>
+						<value>6</value>
+						<unit>tbs</unit>
+					</altmeasure>
+				</quantity>
+				<item>corn starch</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>1/4</value>
+							<unit>tsp</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>salt</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>4</value>
+				</quantity>
+				<item>eggs</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>340</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>1 1/2</value>
+							<unit>cups</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>water</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>115</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>1/2</value>
+							<unit>cup</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>lemon juice</item>
+				<note>from 3 lemons</note>
+			</ingredient>
+			<ingredient_choice>
+				<ingredient>
+					<item>zest of two lemons</item>
+				</ingredient>
+				<ingredient>
+					<quantity>
+						<value>2</value>
+						<unit>drops</unit>
+					</quantity>
+					<item>lemon oil</item>
+				</ingredient>
+			</ingredient_choice>
+			<ingredient>
+				<quantity>
+					<value>30</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>2</value>
+							<unit>tbs</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>butter</item>
+			</ingredient>
+		</ingredients>
+		<steps>
+			<step>Separate the eggs. Reserve the whites for the meringue. Put the yolks in a medium bowl.</step>
+			<step>In a saucepan, stir together sugar, cornstarch, and salt.</step>
+			<step>Stir in water, lemon juice, and zest and mix until all ingredients are dispersed.</step>
+			<step>Place over medium heat. Heat, stirring constantly, until thickened and almost boiling.</step>
+			<step>Beat a small amount of the lemon mixture into the egg yolks to temper them.</step>
+			<step>Combine the egg yolk mixture with the rest of the lemon mixture. Cook briefly, stirring constantly, until further thickened and hot. </step>
+			<step>Add butter and stir in evenly as it melts.</step>
+			<step>Strain curd into the pastry shell and smooth top.</step>
+		</steps>
+	</group>
+	<group>
+		<label>Meringue</label>
+		<ingredients>
+			<ingredient>
+				<item>egg whites left over from curd</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>5</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>1</value>
+							<unit>tsp</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>lemon juice</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>25</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>2</value>
+							<unit>tbs</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<variant>superfine</variant>
+				<item>sugar</item>
+			</ingredient>
+		</ingredients>
+		<steps>
+			<step>Beat egg whites at medium speed until foamy.</step>
+			<step>Add the lemon juice.</step>
+			<step>Increase beating to high speed. While beating, gradually add the sugar. Beat until they form stiff peaks.</step>
+		</steps>
+	</group>
+	<steps>
+		<step>Spread or pipe meringue over pie, starting at the outer edge and ensuring it attaches well to the crust and seals in the filling. Work inwards, covering the lemon curd entirely. Decorate as desired.</step>
+		<step>Put pie in still-hot oven and bake until meringue browns, about 10 minutes.</step>
+		<step>Remove and cool completely before serving.</step>
+	</steps>
+	<serving>Serve the same day; this pie cannot be stored.</serving>
+</recipe>
