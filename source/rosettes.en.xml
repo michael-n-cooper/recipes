@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Rosettes</title>
+	<meta>
+		<dishtype>Cookies</dishtype>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>225</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>milk</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<altmeasure>
+					<quantity>
+						<value>110</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>eggs</item>
+		</ingredient>
+		<ingredient optional="true">
+			<quantity>
+				<value>5</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>15</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1</value>
+						<unit>tbs</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>granulated sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1/2</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>125</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>all purpose</variant>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<item>shortening for frying</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Beat together all ingredients to form a smooth batter.</step> 
+		<step>Let rest <time>1 hour</time>.</step>
+		<step>Add enough shortening to a pan or fryer to cover the donuts when melted (about 5 cm deep). Heat to <temperature>375</temperature>.</step>
+		<step>Immerse <equipment>rosette iron</equipment> in oil until hot, about <time>1 minute</time>.</step>
+		<step>Dip rosette iron into batter, allowing it to come close to but not over top of iron.</step>
+		<step>Dip iron back in shortening to submerge batter. When it puffs, remove iron, and slip cookie off back into the oil.</step>
+		<step>Continue to fry the cookie until brown, about <time>2 minutes</time>.</step>
+		<step>Remove to a <equipment>wire rack</equipment> and let cool while frying the remainder. Continue to fry rosettes until the batter is used up.</step>
+	</steps>
+	<serving>When cool, dust with confectioners' sugar or dip edges in <reciperef ref="confectioners-glaze">confectioners' glaze</reciperef>.</serving>
+</recipe>
