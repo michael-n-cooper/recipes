@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE recipe SYSTEM "../recipes.dtd">
 <recipe>
-	<title>Bay Rosolio</title>
+	<title>Bay Liqueur</title>
 	<meta>
 		<source>http://ecucinando.it/forum/rosolio-di-alloro-t8881.html</source>
 		<dishtype>Liqueurs</dishtype>
-		<comment>I encountered this drink in Venice where it was served in chocolate cups. I was entranced by the unusual herbaceous flavour. They gave me a bottle but I have not been able to find it anywhere since, including in Venice. Perhaps this is because Rosolio (normally made with Rose petals) is a Sicilian specialty and is not widely available elsewhere. I finally found this recipe online to make my own.</comment>
+		<comment>I encountered Bay Rosolio in Venice where it was served in chocolate cups. I was entranced by the unusual herbaceous flavour. They gave me a bottle but I have not been able to find it anywhere since, including in Venice. Perhaps this is because Rosolio (normally made with Rose petals) is a Sicilian specialty and is not widely available elsewhere. I finally found this recipe online to make my own, renamed to avoid brand confusion.</comment>
 	</meta>
 	<ingredients>
 		<ingredient>
