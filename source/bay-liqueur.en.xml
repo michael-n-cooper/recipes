@@ -24,13 +24,6 @@
 		</ingredient>
 		<ingredient>
 			<quantity>
-				<value>30</value>
-			</quantity>
-			<variant>fresh</variant>
-			<item>bay leaves</item>
-		</ingredient>
-		<ingredient>
-			<quantity>
 				<value>3</value>
 			</quantity>
 			<item>cloves</item>
