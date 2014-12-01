@@ -8,16 +8,29 @@
 		<comment>I encountered Bay Rosolio in Venice where it was served in chocolate cups. I was entranced by the unusual herbaceous flavour. They gave me a bottle but I have not been able to find it anywhere since, including in Venice. Perhaps this is because Rosolio (normally made with Rose petals) is a Sicilian specialty and is not widely available elsewhere. I finally found this recipe online to make my own, renamed to avoid brand confusion.</comment>
 	</meta>
 	<ingredients>
+		<yield>1 Litre</yield>
 		<ingredient>
 			<quantity>
 				<value>500</value>
 				<unit>ml</unit>
+				<altmeasure>
+					<quantity>
+						<value>400</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
 			</quantity>
 			<item>95% ethyl alcohol</item>
 		</ingredient>
 		<ingredient>
 			<quantity>
 				<value>30</value>
+				<altmeasure>
+					<quantity>
+						<value>20</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
 			</quantity>
 			<variant>fresh</variant>
 			<item>bay leaves</item>
@@ -25,15 +38,28 @@
 		<ingredient>
 			<quantity>
 				<value>3</value>
+				<altmeasure>
+					<quantity>
+						<value>200</value>
+						<unit>mg</unit>
+					</quantity>
+				</altmeasure>
 			</quantity>
 			<item>cloves</item>
 		</ingredient>
 		<ingredient>
 			<quantity>
 				<value>1/2</value>
+				<altmeasure>
+					<quantity>
+						<value>2.5</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
 			</quantity>
 			<item>cinnamon stick</item>
 		</ingredient>
+		<!--
 		<ingredient optional="true">
 			<quantity>
 				<value>1</value>
@@ -42,10 +68,17 @@
 			<item>fennel seeds</item>
 			<note>for a more anise flavour</note>
 		</ingredient>
+		-->
 		<ingredient>
 			<quantity>
 				<value>600</value>
 				<unit>ml</unit>
+				<altmeasure>
+					<quantity>
+						<value>600</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
 			</quantity>
 			<variant>distilled</variant>
 			<item>water</item>
@@ -59,11 +92,12 @@
 		</ingredient>
 	</ingredients>
 	<steps>
-		<step>Put the alcohol in a jar that can be sealed.</step>
-		<step>Add the herbs and spices, seal, and <procedure>macerate</procedure> <time>10 days</time>.</step>
+		<step>Put the alcohol in a <equipment>500 mL jar</equipment> that can be sealed.</step>
+		<step>Add the herbs and spices, seal, and <procedure>macerate</procedure> <time>2 weeks</time>. Alcohol will turn dark green and bay leaves will completely lose their colour.</step>
 		<step>Combine sugar and water and bring to boil, stirring, until sugar dissolves. Cool.</step>
 		<step>Strain the alcohol into the sugar syrup and mix together well.</step>
-		<step>Filter into a bottle.</step>
+		<step>Filter into a <equipment>1 L jar</equipment>. Seal and put in a dark place for <time>2 weeks</time> undisturbed to allow sediment to precipitate and settle.</step>
+		<step><procedure>Decant</procedure> off sediment into a <equipment>1 L bottle</equipment>.</step>
 	</steps>
-	<storage>Store in a closed bottle in a dark place.</storage>
+	<storage>Store in a sealed bottle in a dark place up to 1 year.</storage>
 </recipe>
