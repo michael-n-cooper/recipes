@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Bread Pudding</title>
+	<meta>
+		<dishtype>Puddings</dishtype>
+		<comment>This is a way to use old bread, but I sometimes make bread just to make bread pudding, it's so good. I don't use raisins in baking much, but they are an important textural element in this dish. I like my bread pudding to have some texture from the bread; for a more custard style, cut the amount of bread in half. This is best done with dry - not simply stale - bread which absorbs the custard better, but the drying step can be skipped.</comment>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>400</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>8</value>
+						<unit>cups</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>bread</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>100</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1/2</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>raisins</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>30</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>2</value>
+						<unit>tbs</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>bourbon or rum</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>100</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>2</value>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>eggs</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>200</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>3/4</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>vanilla</variant>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1/4</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>5</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>450</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>2</value>
+						<unit>cups</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>milk</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>50</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>4</value>
+						<unit>tbs</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>butter</item>
+		</ingredient>
+		<ingredient>
+			<item><reciperef ref="caramel-sauce">Caramel Sauce</reciperef>, made with the same spirit as the pudding.</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Slice bread into 1 cm cubes.</step>
+		<step>Optionally, spread bread out in a tray and dry overnight, or put in a low (<temperature>250</temperature>) oven for an hour.</step>
+		<step>Add the spirit to the raisins and <procedure>macerate</procedure> several hours, until they absorb most of the spirit.</step>
+		<step>Preheat oven to <temperature>350</temperature>.</step>
+		<step>Combine eggs, sugar, salt, vanilla extract, and milk in a large bowl. <procedure>Beat</procedure> together until just combined.</step>
+		<step>Stir in the dry bread cubes, immersing well in the custard. Let them soak up the custard <time>15 minutes</time>.</step>
+		<step>Grease a <equipment>2-quart casserole</equipment> or six <equipment>large ramekins</equipment> set in a <equipment>baking tray</equipment>. Put in the bread mixture, packing down reasonably well.</step>
+		<step>Melt butter and brush evenly over the top of the bread mixture.</step>
+		<step>Cover, put in oven, and bake <time>45 minutes</time>, until custard is nearly set. Meanwhile, make the caramel sauce.</step>
+		<step>Uncover and continue to bake until top browns, another <time>15 mintues</time>.</step>
+		<step>Remove from oven and cool <time>15 minutes</time>.</step>
+	</steps>
+	<serving>Serve warm with caramel sauce over top.</serving>
+	<storage>Pudding can be frozen and reheated to serve.</storage>
+</recipe>
