@@ -96,8 +96,9 @@
 		<step>Add the herbs and spices, seal, and <procedure>macerate</procedure> <time>2 weeks</time>. Alcohol will turn dark green and bay leaves will completely lose their colour.</step>
 		<step>Combine sugar and water and bring to boil, stirring, until sugar dissolves. Cool.</step>
 		<step>Strain the alcohol into the sugar syrup and mix together well.</step>
-		<step>Filter into a <equipment>1 L jar</equipment>. Seal and put in a dark place for <time>2 weeks</time> undisturbed to allow sediment to precipitate and settle.</step>
-		<step><procedure>Decant</procedure> off sediment into a <equipment>1 L bottle</equipment>.</step>
+		<step>Filter into a <equipment>1 L jar</equipment>. Seal and put in a dark place for <time>1 week</time> undisturbed to allow sediment to precipitate.</step>
+		<step><procedure>Filter</procedure> through a coffee filter.</step>
+        <step>Transfer to a <equipment>1 L bottle</equipment> and close.</step>
 	</steps>
-	<storage>Store in a sealed bottle in a dark place up to 1 year.</storage>
+	<storage>Store in a dark place up to 3 years.</storage>
 </recipe>
