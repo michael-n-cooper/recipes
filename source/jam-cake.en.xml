@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Jam Cake</title>
+	<meta>
+		<dishtype>Cakes</dishtype>
+		<comment>I developed this recipe to use some of the copious orange marmalade I have sitting around. The pectin in the jam replaces the air-retaining function of eggs, so this recipe is easily made vegan as presented here, though ordinary butter and milk can also be used. Because of the loss of structure contributed by eggs to most cake recipes, all purpose flour is used. A brief beating period at the end, normally avoided in cakes, develops some additional structure without making the cake bready.</comment>
+	</meta>
+	<ingredients>
+		<yield>2 8-inch layers</yield>
+		<ingredient>
+			<quantity>
+				<value>170</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>12</value>
+						<unit>tbs</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>vegan butter</item>
+		</ingredient>
+		<ingredient>
+			<range>
+				<quantity>
+					<value>100</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>1/3</value>
+							<unit>cup</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<quantity>
+					<value>200</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>3/4</value>
+							<unit>cup</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+			</range>
+			<item>sugar</item>
+			<note>Use lower amount when using sweet jams</note>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>250</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>jam</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>300</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>2 1/2</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>all purpose</variant>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>15</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1</value>
+						<unit>tbs</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>baking powder</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1/2</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>250</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1 1/8</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>vegan milk</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>cider</variant>
+			<item>vinegar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1/2</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+		<ingredient optional="true">
+			<quantity>
+				<value>2</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>flavour extract</item>
+			<note>use a flavour that is compatible with the jam</note>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Preheat oven to <temperature>350</temperature>. Butter and flour two <equipment>8-inch cake pans</equipment>.</step>
+		<step><procedure>Cream</procedure> butter. Add sugar and <procedure>beat</procedure> until fluffy, about <time>5 minutes</time>.</step>
+		<step>Add jam and beat another <time>5 minutes</time> until fluffy.</step>
+		<step>Sift together the dry ingredients, and stir together the wet ingredients.</step>
+		<step>Add flour and milk mixtures to jam mixture. Stir together well, then beat until smooth, about <time>1 minute</time>.</step>
+		<step>Spread evenly into pans. Bake <time>30 to 35 minutes</time>.</step>
+		<step>Cool in pans <time>10 minutes</time>. Invert onto a rack, remove pans, then immediately flip again onto another rack to cool cakes on their base.</step>
+	</steps>
+</recipe>
