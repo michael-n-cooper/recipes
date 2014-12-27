@@ -4,22 +4,22 @@
 	<title>Jam Cake</title>
 	<meta>
 		<dishtype>Cakes</dishtype>
-		<comment>I developed this recipe to use some of the copious orange marmalade I have sitting around. The pectin in the jam replaces the air-retaining function of eggs, so this recipe is easily made vegan as presented here, though ordinary butter and milk can also be used. Because of the loss of structure contributed by eggs to most cake recipes, all purpose flour is used. A brief beating period at the end, normally avoided in cakes, develops some additional structure without making the cake bready.</comment>
+		<comment>I developed this recipe to use some of the copious orange marmalade I have sitting around. The pectin in the jam replaces the air-retaining function of eggs, so this recipe is easily made vegan as presented here, though ordinary milk can also be used. Because of the loss of structure contributed by eggs to most cake recipes, all purpose flour is used. A brief beating period at the end, normally avoided in cakes, develops some additional structure without making the cake bready.</comment>
 	</meta>
 	<ingredients>
 		<yield>2 8-inch layers</yield>
 		<ingredient>
 			<quantity>
-				<value>170</value>
+				<value>110</value>
 				<unit>g</unit>
 				<altmeasure>
 					<quantity>
-						<value>12</value>
+						<value>8</value>
 						<unit>tbs</unit>
 					</quantity>
 				</altmeasure>
 			</quantity>
-			<item>vegan butter</item>
+			<item>shortening</item>
 		</ingredient>
 		<ingredient>
 			<range>
@@ -102,11 +102,11 @@
 		</ingredient>
 		<ingredient>
 			<quantity>
-				<value>250</value>
+				<value>275</value>
 				<unit>g</unit>
 				<altmeasure>
 					<quantity>
-						<value>1 1/8</value>
+						<value>1 1/4</value>
 						<unit>cup</unit>
 					</quantity>
 				</altmeasure>
@@ -157,7 +157,7 @@
 	</ingredients>
 	<steps>
 		<step>Preheat oven to <temperature>350</temperature>. Butter and flour two <equipment>8-inch cake pans</equipment>.</step>
-		<step><procedure>Cream</procedure> butter. Add sugar and <procedure>beat</procedure> until fluffy, about <time>5 minutes</time>.</step>
+		<step><procedure>Cream</procedure> shortening. Add sugar and <procedure>beat</procedure> until fluffy, about <time>5 minutes</time>.</step>
 		<step>Add jam and beat another <time>5 minutes</time> until fluffy.</step>
 		<step>Sift together the dry ingredients, and stir together the wet ingredients.</step>
 		<step>Add flour and milk mixtures to jam mixture. Stir together well, then beat until smooth, about <time>1 minute</time>.</step>
