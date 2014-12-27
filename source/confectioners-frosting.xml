@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Confectioners' Frosting</title>
+	<meta>
+		<dishtype>Frostings</dishtype>
+		<comment>This is a basic confectioners' sugar frosting. Because North American confectioners' sugar contains corn starch, this has a slightly gritty texture, and with no stabilizer the emulusion isn't completely stable. Therefore I usually use other frosting recipes, but sometimes circumstances warrant the simplicty of this one. The different variations are interchangeable, so this is a very flexible base recipe.</comment>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>225</value>
+				<value>g</value>
+				<altmeasure>
+					<value>1</value>
+					<unit>cup</unit>
+				</altmeasure>
+			</quantity>
+			<item>butter</item>
+			<preprep>at room temperature</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity approximate="true">
+				<value>750</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>6</value>
+						<unit>cups</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>confectioners' sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1/4</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity approximate="true">
+				<value>1/4</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>milk</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step><procedure>Cream</procedure> butter well.</step>
+		<step>Add remaining ingredients. Stir together until no dry sugar remains.</step>
+		<step>Beat until light and fluffy, about <time>5 minutes</time>.</step>
+		<step>Correct thickness by adding more sugar or milk if needed.</step>
+	</steps>
+	<variation>
+		<label>Fruit frosting</label>
+		<steps>
+			<step>Use concentrate juice or fruit purée in place of the milk.</step>
+		</steps>
+	</variation>
+	<variation>
+		<label>Liqueur frosting</label>
+		<steps>
+			<step>Use 6 g (1 tbs) flavoured liqueur in place of the vanilla extract.</step>
+		</steps>
+	</variation>
+	<variation>
+		<label>Vegan frosting</label>
+		<steps>
+			<step>Use shortening in place of butter, and vegan milk or water in place of the milk.</step>
+		</steps>
+	</variation>
+</recipe>
