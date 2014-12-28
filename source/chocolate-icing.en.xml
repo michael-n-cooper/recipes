@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Chocolate Icing</title>
+	<meta>
+		<dishtype>Icing</dishtype>
+		<comment>This is a simple chocolate icing with an assertive flavour.</comment>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>200</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>2</value>
+						<unit>cups</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>confectioners' sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>50</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1/2</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>cocoa powder</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>50</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>4</value>
+						<unit>tbs</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>butter</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>50</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1/4</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>milk</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1/2</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Melt the butter.</step>
+		<step>Stir together all ingredients. Beat until smooth.</step>
+		<step>Correct thickness by adding more sugar or milk if needed.</step>
+	</steps>
+	<serving>Warm icing slightly over hot water to increase fluidity. Dip pastries into icing and let dry.</serving>
+</recipe>
