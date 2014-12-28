@@ -2,14 +2,14 @@
 <recipe>
 	<title>Confectioners' Glaze</title>
 	<meta>
-		<dishtype>Frostings</dishtype>
+		<dishtype>Icings</dishtype>
 		<note>This is the thin glaze that is used to coat donuts.</note>
 	</meta>
 	<ingredients>
 		<yield>1/2 cup</yield>
 		<ingredient>
 			<quantity>
-				<value>250</value>
+				<value>200</value>
 				<unit>g</unit>
 				<altmeasure>
 					<value>2</value>
@@ -21,10 +21,10 @@
 		</ingredient>
 		<ingredient>
 			<quantity>
-				<value>50</value>
+				<value>60</value>
 				<unit>g</unit>
 				<altmeasure>
-					<value>4</value>
+					<value>5</value>
 					<unit>tbs</unit>
 				</altmeasure>
 			</quantity>
@@ -32,11 +32,11 @@
 		</ingredient>
 		<ingredient optional="true">
 			<quantity>
-				<value>2</value>
+				<value>1</value>
 				<unit>g</unit>
 				<altmeasure>
 					<quantity>
-						<value>1/2</value>
+						<value>1/4</value>
 						<unit>tsp</unit>
 					</quantity>
 				</altmeasure>
