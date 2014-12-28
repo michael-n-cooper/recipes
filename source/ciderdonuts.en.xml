@@ -6,146 +6,123 @@
 		<dishtype>Brunch</dishtype>
 		<dishtype>Desserts</dishtype>
 	</meta>
-	<group>
-		<label>Donuts</label>
-		<ingredients>
-			<ingredient>
-				<quantity>
-					<value>2</value>
-					<unit>cups</unit>
-				</quantity>
-				<item>apple cider</item>
-			</ingredient>
-			<ingredient>
-				<quantity>
-					<value>1/4</value>
-					<unit>cup</unit>
-					<altmeasure>
-						<quantity>
-							<value>50</value>
-							<unit>g</unit>
-						</quantity>
-					</altmeasure>
-				</quantity>
-				<item>butter</item>
-			</ingredient>
-			<ingredient>
-				<quantity>
-					<value>2/3</value>
-					<unit>cup</unit>
-				</quantity>
-				<item>sugar</item>
-			</ingredient>
-			<ingredient>
-				<quantity>
-					<value>2</value>
-				</quantity>
-				<item>eggs</item>
-			</ingredient>
-			<ingredient>
-				<quantity>
-					<value>1/2</value>
-					<unit>cup</unit>
-				</quantity>
-				<item>milk</item>
-			</ingredient>
-			<ingredient optional="true">
-				<quantity>
-					<value>1</value>
-					<unit>tsp</unit>
-				</quantity>
-				<item>lemon juice</item>
-			</ingredient>
-			<ingredient>
-				<quantity>
-                    <value>3</value>
-                    <unit>cup</unit>
-					<altmeasure>
-						<quantity>
-                            <value>450</value>
-                            <unit>g</unit>
-						</quantity>
-					</altmeasure>
-				</quantity>
-				<variant>pastry</variant>
-				<item>flour</item>
-			</ingredient>
-			<ingredient>
-				<quantity>
-					<value>1</value>
-					<unit>tsp</unit>
-				</quantity>
-				<item>cinnamon</item>
-			</ingredient>
-			<ingredient>
-				<quantity>
-					<value>1/4</value>
-					<unit>tsp</unit>
-				</quantity>
-				<item>nutmeg</item>
-			</ingredient>
-			<ingredient>
-				<quantity>
-					<value>1/2</value>
-					<unit>tsp</unit>
-				</quantity>
-				<item>salt</item>
-			</ingredient>
-			<ingredient>
-				<quantity>
-					<value>1/2</value>
-					<unit>tsp</unit>
-				</quantity>
-				<item>baking soda</item>
-			</ingredient>
-			<ingredient>
-				<quantity>
-					<value>2</value>
-					<unit>tsp</unit>
-				</quantity>
-				<item>baking powder</item>
-			</ingredient>
-			<ingredient>
-				<item>shortening for frying</item>
-			</ingredient>
-		</ingredients>
-		<steps>
-			<step>Boil the cider down until it reaches quarter the original volume, 1/2 cup. Cool.</step>
-			<step>Cream the butter and sugar together until light.</step>
-			<step>Beat in eggs one at a time until smooth.</step>
-            <step>Stir in 1/4 cup of the boiled cider and milk. If the cider lacks tartness, include the lemon juice.</step>
-			<step>Sift together the dry ingredients and add to the wet mixture. Mix until it forms a soft dough and comes together smoothly.</step>
-            <step>Add enough shortening to a pan or fryer to cover the donuts when melted (about 5 cm deep). Heat to <temperature>370</temperature>.</step>
-			<step>Turn dough onto a heavily floured surface. Flour the top well and work together to a smooth ball.</step>
-            <step>Roll out to 1.5 cm thick. Cut with a donut cutter, and set the pieces aside a few minutes. Re-roll the scraps and cut until all the dough is used.</step>
-			<step><procedure>Deep fry</procedure> in shortening until brown, about a minute. Turn over, and fry until second side browns, another minute.</step>
-            <step>Remove to a wire rack set over a drip tray. Let cool while frying the remainder.</step>
-		</steps>
-	</group>
-	<group>
-		<label>Glaze</label>
-		<ingredients>
-			<ingredient>
-				<quantity>
-					<value>1/4</value>
-					<unit>cup</unit>
-				</quantity>
-				<item>boiled apple cider</item>
-                <note>from donut making</note>
-			</ingredient>
-			<ingredient>
-				<quantity>
-					<value>2</value>
-					<unit>cups</unit>
-				</quantity>
-				<item>confectioner's sugar</item>
-			</ingredient>
-		</ingredients>
-		<steps>
-			<step>Mix together confectioner's sugar and boiled cider to make a glaze.</step>
-			<step>Warm glaze to make more fluid. Dip the cooled donuts on both sides in the glaze and let dry on a rack.</step>
-		</steps>
-	</group>
-	<serving>Serve hot, or cool and glazed.</serving>
-	<storage>Donuts don't store well, but can be frozen. Freeze the day they are made.</storage>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>cup</unit>
+			</quantity>
+			<item><reciperef ref="boiled-cider">boiled cider</reciperef></item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>cup</unit>
+				<altmeasure>
+					<quantity>
+						<value>50</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>butter</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2/3</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+			</quantity>
+			<item>eggs</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>cup</unit>
+			</quantity>
+			<item>milk</item>
+		</ingredient>
+		<ingredient optional="true">
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>lemon juice</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3</value>
+				<unit>cup</unit>
+				<altmeasure>
+					<quantity>
+						<value>450</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>pastry</variant>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>cinnamon</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>nutmeg</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>baking soda</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>baking powder</item>
+		</ingredient>
+		<ingredient>
+			<item>shortening for frying</item>
+		</ingredient>
+		<ingredient>
+			<item><reciperef ref="confectioners-glaze">cider glaze</reciperef></item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Prepare enough boiled cider for the donuts and glaze.</step>
+		<step>Cream the butter and sugar together until light.</step>
+		<step>Beat in eggs one at a time until smooth.</step>
+		<step>Stir in 1/4 cup of the boiled cider and milk. If the cider lacks tartness, include the lemon juice.</step>
+		<step>Sift together the dry ingredients and add to the wet mixture. Mix until it forms a soft dough and comes together smoothly.</step>
+		<step>Add enough shortening to a pan or fryer to cover the donuts when melted (about 5 cm deep). Heat to <temperature>370</temperature>.</step>
+		<step>Turn dough onto a heavily floured surface. Flour the top well and work together to a smooth ball.</step>
+		<step>Roll out to 1.5 cm thick. Cut with a donut cutter, and set the pieces aside a few minutes. Re-roll the scraps and cut until all the dough is used.</step>
+		<step><procedure>Deep fry</procedure> in shortening until brown, about a minute. Turn over, and fry until second side browns, another minute.</step>
+		<step>Remove to a wire rack set over a drip tray. Let cool while frying the remainder.</step>
+		<step>Warm glaze to make more fluid. Dip the cooled donuts on both sides in the glaze and let dry on a rack.</step>
+	</steps>
+	<serving>Serve hot, or glazed and cooled.</serving>
+	<storage>Donuts don't store well, but can be frozen. Freeze the day they are made. Allow to thaw uncovered at room temperature.</storage>
 </recipe>
