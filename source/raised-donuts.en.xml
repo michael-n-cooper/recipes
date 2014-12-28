@@ -5,177 +5,179 @@
 	<meta>
 		<dishtype>Donuts</dishtype>
 	</meta>
-    <group>
-        <label>Poolish</label>
-        <processnote>The poolish adds characteristic flavour to the donuts, but it can be skipped. Simply include the poolish ingredents with their corresponding ingredients in the dough to make a "straight dough".</processnote>
-        <ingredients>
-            <ingredient>
-                <quantity>
-                    <value>2/3</value>
-                    <unit>cup</unit>
-                    <altmeasure>
-                        <quantity>
-                            <value>150</value>
-                            <unit>g</unit>
-                        </quantity>
-                    </altmeasure>
-                </quantity>
-                <item>water</item>
-            </ingredient>
-            <ingredient>
-                <quantity>
-                    <value>1 1/4</value>
-                    <unit>cup</unit>
-                    <altmeasure>
-                        <quantity>
-                            <value>150</value>
-                            <unit>g</unit>
-                        </quantity>
-                    </altmeasure>
-                </quantity>
-                <variant>all purpose</variant>
-                <item>flour</item>
-            </ingredient>
-            <ingredient>
-                <quantity>
-                    <value>1/16</value>
-                    <unit>tsp</unit>
-                    <altmeasure>
-                        <quantity>
-                            <value>1</value>
-                            <unit>g</unit>
-                        </quantity>
-                    </altmeasure>
-                </quantity>
-                <variant>instant</variant>
-                <item>yeast</item>
-            </ingredient>
-        </ingredients>
-        <steps>
-            <step>Stir together the ingredients until a paste forms.</step>
-            <step>Cover and let rest overnight, <time>8 - 12 hours</time>. The dough will rise up but should not collapse before using.</step>
-        </steps>
-    </group>
-    <group>
-        <label>Dough</label>
-        <ingredients>
-            <ingredient>
-                <item>poolish</item>
-            </ingredient>
-            <ingredient>
-                <quantity>
-                    <value>1/2</value>
-                    <unit>cup</unit>
-                    <altmeasure>
-                        <value>115</value>
-                        <unit>g</unit>
-                    </altmeasure>
-                </quantity>
-                <item>milk</item>
-            </ingredient>
-            <ingredient>
-                <quantity>
-                    <value>1/4</value>
-                    <unit>cup</unit>
-                    <altmeasure>
-                        <quantity>
-                            <value>50</value>
-                            <unit>g</unit>
-                        </quantity>
-                    </altmeasure>
-                </quantity>
-                <item>butter</item>
-            </ingredient>
-            <ingredient>
-                <quantity>
-                    <value>1</value>
-                    <altmeasure>
-                        <quantity>
-                            <value>50</value>
-                            <unit>g</unit>
-                        </quantity>
-                    </altmeasure>
-                </quantity>
-                <item>egg</item>
-            </ingredient>
-            <ingredient>
-                <quantity>
-                    <value>1/2</value>
-                    <unit>cup</unit>
-                    <altmeasure>
-                        <quantity>
-                            <value>100</value>
-                            <unit>g</unit>
-                        </quantity>
-                    </altmeasure>
-                </quantity>
-                <item>sugar</item>
-            </ingredient>
-            <ingredient>
-                <quantity>
-                    <value>1</value>
-                    <unit>tsp</unit>
-                </quantity>
-                <item>salt</item>
-            </ingredient>
-            <ingredient>
-                <quantity>
-                    <value>2 1/4</value>
-                    <unit>cup</unit>
-                    <altmeasure>
-                        <quantity>
-                            <value>300</value>
-                            <unit>g</unit>
-                        </quantity>
-                    </altmeasure>
-                </quantity>
-                <variant>all purpose</variant>
-                <item>flour</item>
-            </ingredient>
-            <ingredient>
-                <quantity>
-                    <value>2</value>
-                    <unit>tsp</unit>
-                </quantity>
-                <variant>instant</variant>
-                <item>yeast</item>
-            </ingredient>
-            <ingredient>
-                <item>shortening for frying</item>
-            </ingredient>
-        </ingredients>
-        <steps>
-            <step><procedure>Scald</procedure> milk. Add butter to melt, and cool.</step>
-            <step>Beat in eggs, sugar, and salt.</step>
-            <step>Stir in poolish, flour and yeast. <procedure>Knead</procedure> well until smooth.</step>
-            <step>Lightly oil a bowl with twice the volume of the dough. Place dough in bowl and cover.</step>
-            <step><procedure>Proof</procedure> in a warm place <time>1 1/2 hours</time> until doubled in bulk.</step>
-            <step>Collapse dough and form into a ball. Rest a few minutes until it relaxes.</step>
-            <step>Flour a baking sheet or other flat surface well for cut donuts. Set a wire rack over a drip tray for finished donuts.</step>
-            <step>Roll dough out 2 cm thick and cut donuts. Combine the scraps, rest to relax, and re-roll cut until all the dough is used.</step>
-            <step>Place donuts on the floured surface. Cover and let rise in a warm place until nearly doubled, about <time>45 minutes</time>.</step>
-            <step>Add enough shortening to a pan or fryer to cover the donuts when melted (about 5 cm deep). Heat to <temperature>375</temperature>.</step>
-            <step>Carefully remove each donuts from the resting surface so as not to collapse or mis-shape them.</step>
-            <step>Gently set in shortening a few at a time, leaving room for expansion, and <procedure>deep fry</procedure> until light brown, about <time>1 minute</time>. Turn over, and fry until second side browns, another <time>1 minute</time>.</step>
-            <step>Remove to the wire rack and let cool while frying the remainder.</step>
-        </steps>
-    </group>
+	<group>
+		<label>Poolish</label>
+		<processnote>The poolish adds characteristic flavour to the donuts, but it can be skipped. Simply include the poolish ingredents with their corresponding ingredients in the dough to make a "straight dough".</processnote>
+		<ingredients>
+			<ingredient>
+				<quantity>
+					<value>2/3</value>
+					<unit>cup</unit>
+					<altmeasure>
+						<quantity>
+							<value>150</value>
+							<unit>g</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>water</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1 1/4</value>
+					<unit>cup</unit>
+					<altmeasure>
+						<quantity>
+							<value>150</value>
+							<unit>g</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<variant>all purpose</variant>
+				<item>flour</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1/16</value>
+					<unit>tsp</unit>
+					<altmeasure>
+						<quantity>
+							<value>1</value>
+							<unit>g</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<variant>instant</variant>
+				<item>yeast</item>
+			</ingredient>
+		</ingredients>
+		<steps>
+			<step>Stir together the ingredients until a paste forms.</step>
+			<step>Cover and let rest overnight, <time>8 - 12 hours</time>. The dough will rise up but should not collapse before using.</step>
+		</steps>
+	</group>
+	<group>
+		<label>Dough</label>
+		<ingredients>
+			<ingredient>
+				<item>poolish</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1/2</value>
+					<unit>cup</unit>
+					<altmeasure>
+						<quantity>
+							<value>115</value>
+							<unit>g</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>milk</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1/3</value>
+					<unit>cup</unit>
+					<altmeasure>
+						<quantity>
+							<value>75</value>
+							<unit>g</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>butter</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1</value>
+					<altmeasure>
+						<quantity>
+							<value>50</value>
+							<unit>g</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>egg</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1/2</value>
+					<unit>cup</unit>
+					<altmeasure>
+						<quantity>
+							<value>100</value>
+							<unit>g</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>sugar</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1</value>
+					<unit>tsp</unit>
+				</quantity>
+				<item>salt</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>2 1/4</value>
+					<unit>cup</unit>
+					<altmeasure>
+						<quantity>
+							<value>300</value>
+							<unit>g</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<variant>all purpose</variant>
+				<item>flour</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>2</value>
+					<unit>tsp</unit>
+				</quantity>
+				<variant>instant</variant>
+				<item>yeast</item>
+			</ingredient>
+			<ingredient>
+				<item>shortening for frying</item>
+			</ingredient>
+		</ingredients>
+		<steps>
+			<step><procedure>Scald</procedure> milk. Add butter to melt, and cool.</step>
+			<step>Beat in eggs, sugar, and salt.</step>
+			<step>Stir in poolish, flour and yeast. <procedure>Knead</procedure> well until smooth.</step>
+			<step>Lightly oil a bowl with twice the volume of the dough. Place dough in bowl and cover.</step>
+			<step><procedure>Proof</procedure> in a warm place <time>1 1/2 hours</time> until doubled in bulk.</step>
+			<step>Collapse dough, knead briefly to work out large bubbles, and form into a ball. Rest a few minutes until it relaxes.</step>
+			<step>Flour a baking sheet or other flat surface well for cut donuts. Set a wire rack over a drip tray for finished donuts.</step>
+			<step>Roll dough out 2 cm thick and cut donuts. Combine the scraps, rest to relax, and re-roll cut until all the dough is used.</step>
+			<step>Place donuts on the floured surface. Cover and let rise in a warm place until puffed but still with structure, about <time>30 minutes</time>.</step>
+			<step>Add enough shortening to a pan or fryer to cover the donuts when melted (about 5 cm deep). Heat to <temperature>350</temperature>.</step>
+			<step>Carefully remove each donuts from the resting surface so as not to collapse or mis-shape them.</step>
+			<step>Gently set in shortening a few at a time, leaving room for expansion, and <procedure>deep fry</procedure> until light brown, about <time>1 minute</time>. Turn over, and fry until second side browns, another <time>1 minute</time>.</step>
+			<step>Remove to the wire rack and let cool while frying the remainder.</step>
+		</steps>
+	</group>
 	<serving>Cool and dip in icing, cover on both sides with confectioners' sugar glaze, or roll in sugar.</serving>
-    <variation>
-        <label>Old-Fashioned Raised Donuts</label>
-        <steps>
-            <step>Reduce the milk by 1/4 cup and add 1 more egg.</step>
-            <step>Add 1/4 cup brown sugar with the granulated sugar.</step>
-            <step>Add 1/4 tsp grated nutmeg with the flour and yeast.</step>
-        </steps>
-    </variation>
-    <variation>
-        <label>Filled Donuts</label>
-        <steps>
-            <step>When cutting the dough, make rounds 10 cm in diameter, without holes.</step>
-            <step>Prepare about 500 g filling. Common choices include Holland Cream, Pastry Cream, or jelly.</step>
-            <step>After the dounuts have cooled, fill a pastry bag with the filling and fit with a filling tip. Insert the tip in the side of the donut, penetrating close to the far side. Gradually retreat the tip while squeezing the bag. Allow a generous amount of filling but be careful not to burst the donut. </step>
-        </steps>
-    </variation>
-	<storage>Donuts don't store well, but can be frozen. Freeze the day they are made.</storage>
+	<variation>
+		<label>Old-Fashioned Raised Donuts</label>
+		<steps>
+			<step>Reduce the milk by 1/4 cup and add 1 more egg.</step>
+			<step>Replace half the granulated sugar with brown sugar.</step>
+			<step>Add 1/4 tsp grated nutmeg with the flour and yeast.</step>
+		</steps>
+	</variation>
+	<variation>
+		<label>Filled Donuts</label>
+		<steps>
+			<step>When cutting the dough, make rounds 10 cm in diameter, without holes.</step>
+			<step>Prepare about 500 g filling. Common choices include Holland Cream, Pastry Cream, or jelly.</step>
+			<step>After the dounuts have cooled, fill a pastry bag with the filling and fit with a filling tip. Insert the tip in the side of the donut, penetrating close to the far side. Gradually retreat the tip while squeezing the bag. Allow a generous amount of filling but be careful not to burst the donut. </step>
+		</steps>
+	</variation>
+	<storage>Donuts don't store well, but can be frozen. Freeze the day they are made. Allow to thaw uncovered at room temperature.</storage>
 </recipe>
