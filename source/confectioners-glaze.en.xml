@@ -49,4 +49,10 @@
 		<step>Add small amounts extra milk if needed to yield a glaze that flows but isn't too thin.</step>
 	</steps>
 	<serving>Warm glaze slightly over hot water to increase fluidity. Dip pastries into glaze, or pour over pastry, and allow to dry to a thin shell.</serving>
+	<variation>
+		<label>Cider Glaze</label>
+		<steps>
+			<step>Replace the milk with <reciperef ref="boiled-cider">Boiled Cider</reciperef>. Omit the vanilla extract.</step>
+		</steps>
+	</variation>
 </recipe>
