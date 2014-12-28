@@ -92,7 +92,9 @@
 	<serving>Cool and dip in icing or roll in sugar.</serving>
     <variation>
         <label>Buttermilk Donuts</label>
-        <steps>Use buttermilk in place of milk. Use only 2 tsp baking powder, and add 1/2 tsp baking soda.</steps>
+        <steps>
+        	<step>Use buttermilk in place of milk. Use only 2 tsp baking powder, and add 1/2 tsp baking soda.</step>
+        </steps>
     </variation>
-	<storage>Donuts don't store well, but can be frozen. Freeze the day they are made.</storage>
+	<storage>Donuts don't store well, but can be frozen. Freeze the day they are made. Allow to thaw uncovered at room temperature.</storage>
 </recipe>
