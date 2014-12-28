@@ -10,10 +10,12 @@
 		<ingredient>
 			<quantity>
 				<value>225</value>
-				<value>g</value>
+				<unit>g</unit>
 				<altmeasure>
-					<value>1</value>
-					<unit>cup</unit>
+					<quantity>
+						<value>1</value>
+						<unit>cup</unit>
+					</quantity>
 				</altmeasure>
 			</quantity>
 			<item>butter</item>
