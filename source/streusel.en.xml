@@ -5,47 +5,80 @@
 	<meta>
 		<source>Rombauer, Irma S., and Becker, Marion R: The Joy of Cooking, (1997: Penguin Plume) (adapted)</source>
 		<dishtype>Ingredients</dishtype>
+		<comment>This nut and brown sugar streusel is good on coffee cakes.</comment>
 	</meta>
 	<ingredients>
+		<yield>2 cups</yield>
 		<ingredient>
 			<quantity>
-				<value>2</value>
-				<unit>tbs</unit>
+				<value>100</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>3/4</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
 			</quantity>
+			<item>walnuts or pecans</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>30</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>3</value>
+						<unit>tbs</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>all purpose</variant>
 			<item>flour</item>
 		</ingredient>
 		<ingredient>
 			<quantity>
-				<value>2</value>
-				<unit>tbs</unit>
+				<value>45</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>3</value>
+						<unit>tbs</unit>
+					</quantity>
+				</altmeasure>
 			</quantity>
 			<item>butter</item>
 		</ingredient>
 		<ingredient>
 			<quantity>
-				<value>5</value>
-				<unit>tbs</unit>
+				<value>130</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>2/3</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
 			</quantity>
 			<item>brown sugar</item>
 		</ingredient>
 		<ingredient>
 			<quantity>
-				<value>1/2</value>
-				<unit>tsp</unit>
+				<value>1</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1/2</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
 			</quantity>
 			<item>cinnamon</item>
 		</ingredient>
-		<ingredient>
-			<quantity>
-				<value>1/2</value>
-				<unit>cup</unit>
-			</quantity>
-			<item>walnuts or pecans</item>
-			<preprep>chopped</preprep>
-		</ingredient>
 	</ingredients>
 	<steps>
-		<step>Blend the flour, butter and sugar together until crumbly.</step>
-		<step>Add the cinnamon and nuts.</step>
+		<step>Chop the nuts coarsely, if not sold chopped.</step>
+		<step>Mix together the flour, butter and sugar, and cinnamon together until crumbly.</step>
+		<step>Mix in the nuts.</step>
 	</steps>
 </recipe>
