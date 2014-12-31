@@ -6,81 +6,185 @@
 		<source>Marion Cunningham: The Fannie Farmer Cookbook, 13th Edition (1994: Knopf) (adapted)</source>
 		<dishtype>Breakfast</dishtype>
 		<occasion>Sunday Brunch</occasion>
+		<comment>Raised coffee cake is the most refined version. Although it is yeast-raised like bread, the recipe forms a batter instead of a dough. The extensible batter becomes very airy during the rising process. The poolish gives a more complex flavour to the cake that really makes it, but it can be skipped; simply add the poolish ingredients with the other cake ingredients.</comment>
 	</meta>
-	<ingredients>
-		<ingredient>
-			<quantity>
-				<value>1</value>
-				<unit>cup</unit>
-			</quantity>
-			<item>milk</item>
-			<preprep>scalded</preprep>
-		</ingredient>
-		<ingredient>
-			<quantity>
-				<value>1/2</value>
-				<unit>cup</unit>
-			</quantity>
-			<item>sugar</item>
-		</ingredient>
-		<ingredient>
-			<quantity>
-				<value>5</value>
-				<unit>tbs</unit>
-			</quantity>
-			<item>butter</item>
-		</ingredient>
-		<ingredient>
-			<quantity>
-				<value>1/2</value>
-				<unit>tsp</unit>
-			</quantity>
-			<item>salt</item>
-		</ingredient>
-		<ingredient>
-			<quantity>
-				<value>1/2</value>
-				<unit>tbs</unit>
-			</quantity>
-			<item>yeast</item>
-		</ingredient>
-		<ingredient>
-			<quantity>
-				<value>1/4</value>
-				<unit>cup</unit>
-			</quantity>
-			<item>water</item>
-			<preprep>lukewarm</preprep>
-		</ingredient>
-		<ingredient>
-			<quantity>
-				<value>2</value>
-			</quantity>
-			<item>eggs</item>
-			<preprep>well beaten</preprep>
-		</ingredient>
-		<ingredient>
-			<quantity>
-				<value>2 1/2</value>
-				<unit>cups</unit>
-			</quantity>
-			<item>flour</item>
-		</ingredient>
-		<ingredient>
-			<quantity>
-				<value>1 1/2</value>
-				<unit>cups</unit>
-			</quantity>
-			<item><reciperef ref="streusel">streusel</reciperef></item>
-		</ingredient>
-	</ingredients>
-	<steps>
-		<step>Mix the milk, sugar, butter, and salt in a large bowl and let cool until lukewarm.</step>
-		<step>Stir the yeast into the warm water and let dissolve <time>5 minutes</time>.</step>
-		<step>Add the yeast mixture, eggs, and flour to the milk and beat well.</step>
-		<step>Cover and set aside to rise until double in bulk, about <time>2 hours</time>.</step>
-		<step>Stir down the dough and beat thoroughly. Spread about half of it in a greased <equipment>9-inch tube pan</equipment>. Sprinkle with about 2/3 of the streusel, then cover with the remaining dough. Stir slighly to distribute the streusel in streaks through the cake, but don't over mix.</step>
-		<step>Sprinkle the remaining streusel over the top of the cake, set aside to raise until double again, about <time>1 hour</time>.</step>
-		<step>Bake at <temperature>350</temperature>F for about <time>45 minutes</time>, until brown and done inside. Cool on a rack.</step>
-	</steps>
+	<group>
+		<label>Poolish</label>
+		<ingredients>
+			<ingredient>
+				<quantity>
+					<value>100</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>1/2</value>
+							<unit>cup</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>water</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>100</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>3/4</value>
+							<unit>cup</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<variant>all purpose</variant>
+				<item>flour</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>.2</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>1/16</value>
+							<unit>tsp</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<variant>instant</variant>
+				<item>yeast</item>
+			</ingredient>
+		</ingredients>
+		<steps>
+			<step>Stir ingredients well to make a smooth batter.</step>
+			<step>Cover and let rise overnight, <time>8 - 10 hours</time>.</step>
+		</steps>
+	</group>
+	<group>
+		<label>Cake</label>
+		<ingredients>
+			<ingredient>
+				<quantity>
+					<value>170</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>3/4</value>
+							<unit>cup</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>milk</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>115</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>2</value>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>eggs</item>
+			</ingredient>
+			<ingredient>
+				<item>poolish</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>100</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>1/2</value>
+							<unit>cup</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>sugar</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>200</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>1 2/3</value>
+							<unit>cups</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<variant>all purpose</variant>
+				<item>flour</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>3</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>1/2</value>
+							<unit>tsp</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>salt</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>8</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>2</value>
+							<unit>tsp</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<variant>instant</variant>
+				<item>yeast</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value></value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>5</value>
+							<unit>tbs</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>butter</item>
+				<preprep>softened</preprep>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>300</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>2</value>
+							<unit>cups</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item><reciperef ref="streusel">streusel</reciperef></item>
+			</ingredient>
+		</ingredients>
+		<steps>
+			<step><procedure>Scald</procedure> the milk and cool to room temperature. Bring butter and eggs to room temperature.</step>
+			<step>Add all ingredients except butter to the poolish.</step>
+			<step><procedure>Beat</procedure> together well <time>5 minutes</time>, using the paddle attachment if using a stand mixer. This will form a smooth and elastic batter.</step>
+			<step>Add the butter and beat in until fully incorporated.</step>
+			<step>Cover and set aside to rise until double in bulk, about <time>2 hours</time>.</step>
+			<step>Grease well a <equipment>9-inch tube pan</equipment>.</step>
+			<step>Stir down the dough until fully collapsed. Spread about half of it in the tube pan. Sprinkle with about 2/3 of the streusel, then cover with the remaining dough.</step>
+			<step>Stir streusel and batter together very slighly, only one movement per section of the cake, to streak the streusel through the cake without blending it in.</step>
+			<step>Sprinkle the remaining streusel over the top of the cake.</step>
+			<step>Cover and set aside to raise until double again, about <time>1 hour</time>.</step>
+			<step><time>15 minutes before rising is done, preheat oven to </time> <temperature>350</temperature>.</step>
+			<step>Bake for about <time>45 minutes</time>, until brown and done inside.</step>
+			<step>Cool on a rack in the pan, then remove from pan.</step>
+		</steps>
+	</group>
 </recipe>
