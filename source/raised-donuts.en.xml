@@ -11,12 +11,12 @@
 		<ingredients>
 			<ingredient>
 				<quantity>
-					<value>2/3</value>
-					<unit>cup</unit>
+                    <value>150</value>
+                    <unit>g</unit>
 					<altmeasure>
 						<quantity>
-							<value>150</value>
-							<unit>g</unit>
+                            <value>2/3</value>
+                            <unit>cup</unit>
 						</quantity>
 					</altmeasure>
 				</quantity>
@@ -24,12 +24,12 @@
 			</ingredient>
 			<ingredient>
 				<quantity>
-					<value>1 1/4</value>
-					<unit>cup</unit>
+                    <value>150</value>
+                    <unit>g</unit>
 					<altmeasure>
 						<quantity>
-							<value>150</value>
-							<unit>g</unit>
+                            <value>1 1/4</value>
+                            <unit>cups</unit>
 						</quantity>
 					</altmeasure>
 				</quantity>
@@ -38,12 +38,12 @@
 			</ingredient>
 			<ingredient>
 				<quantity>
-					<value>1/16</value>
-					<unit>tsp</unit>
+                    <value>1</value>
+                    <unit>g</unit>
 					<altmeasure>
 						<quantity>
-							<value>1</value>
-							<unit>g</unit>
+                            <value>1/16</value>
+                            <unit>tsp</unit>
 						</quantity>
 					</altmeasure>
 				</quantity>
@@ -64,12 +64,12 @@
 			</ingredient>
 			<ingredient>
 				<quantity>
-					<value>1/2</value>
-					<unit>cup</unit>
+                    <value>115</value>
+                    <unit>g</unit>
 					<altmeasure>
 						<quantity>
-							<value>115</value>
-							<unit>g</unit>
+                            <value>1/2</value>
+                            <unit>cup</unit>
 						</quantity>
 					</altmeasure>
 				</quantity>
@@ -77,12 +77,12 @@
 			</ingredient>
 			<ingredient>
 				<quantity>
-					<value>1/3</value>
-					<unit>cup</unit>
+                    <value>75</value>
+                    <unit>g</unit>
 					<altmeasure>
 						<quantity>
-							<value>75</value>
-							<unit>g</unit>
+                            <value>1/3</value>
+                            <unit>cup</unit>
 						</quantity>
 					</altmeasure>
 				</quantity>
@@ -102,32 +102,38 @@
 			</ingredient>
 			<ingredient>
 				<quantity>
-					<value>1/2</value>
-					<unit>cup</unit>
+                    <value>100</value>
+                    <unit>g</unit>
 					<altmeasure>
 						<quantity>
-							<value>100</value>
-							<unit>g</unit>
+                            <value>1/2</value>
+                            <unit>cup</unit>
 						</quantity>
 					</altmeasure>
 				</quantity>
 				<item>sugar</item>
 			</ingredient>
 			<ingredient>
-				<quantity>
-					<value>1</value>
-					<unit>tsp</unit>
-				</quantity>
+                <quantity>
+                    <value>7</value>
+                    <unit>g</unit>
+                    <altmeasure>
+                        <quantity>
+                            <value>1</value>
+                            <unit>tsp</unit>
+                        </quantity>
+                    </altmeasure>
+                </quantity>
 				<item>salt</item>
 			</ingredient>
 			<ingredient>
 				<quantity>
-					<value>2 1/4</value>
-					<unit>cup</unit>
+                    <value>300</value>
+                    <unit>g</unit>
 					<altmeasure>
 						<quantity>
-							<value>300</value>
-							<unit>g</unit>
+                            <value>2 1/4</value>
+                            <unit>cup</unit>
 						</quantity>
 					</altmeasure>
 				</quantity>
@@ -135,10 +141,16 @@
 				<item>flour</item>
 			</ingredient>
 			<ingredient>
-				<quantity>
-					<value>2</value>
-					<unit>tsp</unit>
-				</quantity>
+                <quantity>
+                    <value>8</value>
+                    <unit>g</unit>
+                    <altmeasure>
+                        <quantity>
+                            <value>2</value>
+                            <unit>tsp</unit>
+                        </quantity>
+                    </altmeasure>
+                </quantity>
 				<variant>instant</variant>
 				<item>yeast</item>
 			</ingredient>
