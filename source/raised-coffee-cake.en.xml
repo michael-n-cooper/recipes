@@ -76,6 +76,19 @@
 			</ingredient>
 			<ingredient>
 				<quantity>
+					<value>75</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>5</value>
+							<unit>tbs</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>butter</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
 					<value>115</value>
 					<unit>g</unit>
 					<altmeasure>
@@ -145,20 +158,6 @@
 			</ingredient>
 			<ingredient>
 				<quantity>
-					<value></value>
-					<unit>g</unit>
-					<altmeasure>
-						<quantity>
-							<value>5</value>
-							<unit>tbs</unit>
-						</quantity>
-					</altmeasure>
-				</quantity>
-				<item>butter</item>
-				<preprep>softened</preprep>
-			</ingredient>
-			<ingredient>
-				<quantity>
 					<value>300</value>
 					<unit>g</unit>
 					<altmeasure>
@@ -172,16 +171,15 @@
 			</ingredient>
 		</ingredients>
 		<steps>
-			<step><procedure>Scald</procedure> the milk and cool to room temperature. Bring butter and eggs to room temperature.</step>
-			<step>Add all ingredients except butter to the poolish.</step>
-			<step><procedure>Beat</procedure> together well <time>5 minutes</time>, using the paddle attachment if using a stand mixer. This will form a smooth and elastic batter.</step>
-			<step>Add the butter and beat in until fully incorporated.</step>
+			<step><procedure>Scald</procedure> the milk. Add butter to melt, and cool to room temperature.</step>
+			<step>Add all ingredients to the poolish.</step>
+			<step><procedure>Beat</procedure> together just until it forms a smooth and elastic batter. Do not over-beat, which would develop too much gluten and toughen the cake.</step>
 			<step>Cover and set aside to rise until double in bulk, about <time>2 hours</time>.</step>
 			<step>Grease well a <equipment>9-inch tube pan</equipment>.</step>
 			<step>Stir down the dough until fully collapsed. Spread about half of it in the tube pan. Sprinkle with about 2/3 of the streusel, then cover with the remaining dough.</step>
 			<step>Stir streusel and batter together very slighly, only one movement per section of the cake, to streak the streusel through the cake without blending it in.</step>
 			<step>Sprinkle the remaining streusel over the top of the cake.</step>
-			<step>Cover and set aside to raise until double again, about <time>1 hour</time>.</step>
+			<step>Cover and set aside to raise until puffy but not quite doubled, about <time>45 minutes</time>.</step>
 			<step><time>15 minutes before rising is done, preheat oven to </time> <temperature>350</temperature>.</step>
 			<step>Bake for about <time>45 minutes</time>, until brown and done inside.</step>
 			<step>Cool on a rack in the pan, then remove from pan.</step>
