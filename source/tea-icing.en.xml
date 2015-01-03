@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Tea Icing</title>
+	<meta>
+		<dishtype>Icing</dishtype>
+		<comment>Tea is a wonderful variant of standard confectioners' icing. This recipe makes a strong tea infusion for flavour that will stand up to all the sugar. Earl Grey and green tea are good choices.</comment>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>50</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1/4</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>water</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1 1/2</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>tea leaves</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>200</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>2</value>
+						<unit>cups</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>confectioners' sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>50</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>4</value>
+						<unit>tbs</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>butter</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1/4</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>lemon juice</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Bring water to boil. Add tea leaves and infuse <time>5 minutes</time>.</step>
+		<step>Strain the infusion from the leaves, squeezing as much from the leaves as possible.</step>
+		<step>Measure 30 g (2 tbs) of the infusion and combine with the remaining ingredients. Beat until smooth.</step>
+		<step>Correct thickness by adding more sugar or tea infusion if needed.</step>
+	</steps>
+	<serving>Warm icing slightly over hot water to increase fluidity. Dip pastries into icing and let dry.</serving>
+</recipe>

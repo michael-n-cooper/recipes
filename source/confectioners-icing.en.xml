@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Confectioners' Icing</title>
+	<meta>
+		<dishtype>Icing</dishtype>
+		<comment>Simple confectioners' icing is good to dip donuts or pour over cakes or cookies. Include the butter for a more plastic icing that is easier to dip, or omit it for one that sets up hard. Use the larger amount of milk for an icing that will be poured.</comment>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>200</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>2</value>
+						<unit>cups</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>confectioners' sugar</item>
+		</ingredient>
+		<ingredient optional="true">
+			<quantity>
+				<value>25</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>2</value>
+						<unit>tbs</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>butter</item>
+		</ingredient>
+		<ingredient>
+			<range>
+				<quantity>
+					<value>30</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>2</value>
+							<unit>tbs</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<quantity>
+					<value>50</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>3</value>
+							<unit>tbs</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+			</range>
+			<item>milk</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1/4</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Stir together all ingredients. Beat until smooth.</step>
+		<step>Correct thickness by adding more sugar or milk if needed.</step>
+	</steps>
+	<serving>Warm icing slightly over hot water to increase fluidity. Dip pastries into icing and let dry.</serving>
+</recipe>
