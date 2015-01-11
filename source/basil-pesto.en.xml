@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Basil Pesto</title>
+	<meta>
+		<dishtype>Sauces</dishtype>
+		<comment>Basil pesto is a sublime pasta sauce, and makes a good accent mixed into other dishes. Scale the recipe according to the amount of basil available. The lemon juice slows down browning, but it needs to be frozen for storage longer than a day.</comment>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>100</value>
+				<unit>g</unit>
+			</quantity>
+			<item>pine nuts</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>100</value>
+				<unit>g</unit>
+			</quantity>
+			<item>parmesan cheese</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>4</value>
+				<unit>cloves</unit>
+				<altmeasure>
+					<quantity>
+						<value>20</value>
+						<unit>g</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>garlic</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>200</value>
+				<unit>g</unit>
+			</quantity>
+			<item>basil leaves</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>20</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1 1/2</value>
+						<unit>tbs</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>lemon juice</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>5</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>3/4</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>250</value>
+				<unit>g</unit>
+			</quantity>
+			<variant>extra virgin</variant>
+			<item>olive oil</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Preheat oven to <temperature>350</temperature>. Toast pine nuts until light brown, about <time>10 minutes</time>. Alternatively, toast in a skillet over medium heat, tossing frequently.</step>
+		<step>While the pine nuts toast, grate the parmesan cheese.</step>
+		<step>Transfer the pine nuts to a food processor. Peel the garlic and add to the nuts. Pulse the processor until the mixture looks like crumbs.</step>
+		<step>Add remaining ingredients to the processor. Run the processor to form a paste, stopping to stir the mixture and clean the sides if it is not fully coming together. Stop when a paste with the desired consistency forms, which can range from somewhat coarse to extremely smooth depending on preference and application.</step>
+	</steps>
+	<variation>
+		<label>Kale Pesto</label>
+		<comment>Kale makes a nice earthy pesto that can be used in a similar way to basil pesto even though the flavour is different. It keeps a little better but also will eventually brown.</comment>
+		<steps>
+			<step>Substitute <ingredient><item>kale</item></ingredient> for the basil, <ingredient><item>blanched almonds</item></ingredient> for the pine nuts, and <ingredient><item>pecorino romano</item></ingredient> cheese for the parmesan.</step>
+			<step>Lightly steam the kale, until it is softened but still bright green, then proceed with the recipe.</step>
+		</steps>
+	</variation>
+	<storage>Pack in small small containers to the very top so the lids will touch the pesto and exclude air. Freeze, and thaw individually only the amount needed in the refrigerator.</storage>
+</recipe>
