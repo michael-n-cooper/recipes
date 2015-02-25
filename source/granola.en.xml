@@ -131,6 +131,20 @@
 		</ingredient>
 		<ingredient>
             <quantity>
+                <value>10</value>
+                <unit>g</unit>
+                <altmeasure>
+                    <quantity>
+                        <value>1</value>
+                        <unit>tbs</unit>
+                    </quantity>
+                </altmeasure>
+            </quantity>
+			<item>vanilla extract</item>
+			<note>artificial; don't waste real extract since the subtleties burn off</note>
+		</ingredient>
+		<ingredient>
+            <quantity>
                 <value>200</value>
                 <unit>g</unit>
                 <altmeasure>
