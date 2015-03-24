@@ -9,7 +9,7 @@
 	</meta>
 	<ingredients>
 		<ingredient_choice>
-			<ingredient>
+			<ingredient mainingredient="true">
 				<quantity>
 					<value>100</value>
 					<unit>g</unit>
@@ -24,12 +24,12 @@
 			<ingredient_group>
 				<ingredient>
 					<quantity>
-						<value>@@</value>
+						<value>20</value>
 						<unit>g</unit>
 						<altmeasure>
 							<quantity>
-								<value>7.5</value>
-								<unit>tsp</unit>
+								<value>2</value>
+								<unit>tbs</unit>
 							</quantity>
 						</altmeasure>
 					</quantity>
@@ -37,11 +37,11 @@
 				</ingredient>
 				<ingredient>
 					<quantity>
-						<value></value>
+						<value>80</value>
 						<unit>g</unit>
 						<altmeasure>
 							<quantity>
-								<value>7.5</value>
+								<value>6</value>
 								<unit>tbs</unit>
 							</quantity>
 						</altmeasure>
@@ -107,7 +107,7 @@
 	<steps>
 		<step>Ensure all ingredients are at room temperature.</step>
 		<step><procedure>Beat</procedure> the egg whites, or meringue powder and water, to soft peaks.</step>
-		<step>Meanwhile, bring the sugar and water to a boil and cook to <temperature>230</temperature>. As the sugar approaches the target temperature, finish beating the egg whites to stiff peaks.</step>
+		<step>Meanwhile, bring the sugar and water to a boil and cook to <temperature>240</temperature>. As the sugar approaches the target temperature, finish beating the egg whites to stiff peaks.</step>
 		<step>While beating the egg whites constantly, pour the sugar syrup slowly into them, then add the salt.</step>
 		<step>Reduce spead and continue to beat until the meringue cools to room temperature, at least <time>10 minutes</time>.</step>
 		<step>Increase speed and continue to beat while adding the butter and / or shortening, one tablespoon at a time.</step>
@@ -120,7 +120,7 @@
 		<processnote>This makes a more stable buttercream for better shape retention, but has more presence of egg white.</processnote>
 		<steps>
 			<step>Increase the egg white to 150 g (5).</step>
-			<step>Cook the syrup to <temperature>240</temperature>. Proceed with the rest of the recipe.</step>
+			<step>Proceed with the rest of the recipe.</step>
 		</steps>
 	</variation>
 	<variation>
