@@ -84,7 +84,7 @@
 	</steps>
 	<variation>
 		<label>Kale Pesto</label>
-		<comment>Kale makes a nice earthy pesto that can be used in a similar way to basil pesto even though the flavour is different. It keeps a little better but also will eventually brown.</comment>
+		<comment>Kale makes a nice earthy pesto that can be used in a similar way to basil pesto even though the flavour is different. The cooking deactivates the browning enzymes so this pesto does not brown over time.</comment>
 		<steps>
 			<step>Substitute <ingredient><item>kale</item></ingredient> for the basil, <ingredient><item>blanched almonds</item></ingredient> for the pine nuts, and <ingredient><item>pecorino romano</item></ingredient> cheese for the parmesan.</step>
 			<step>Lightly steam the kale, until it is softened but still bright green, then proceed with the recipe.</step>
