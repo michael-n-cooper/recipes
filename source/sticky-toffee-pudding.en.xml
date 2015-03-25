@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Sticky Toffee Pudding</title>
+	<meta>
+		<dishtype>Puddings</dishtype>
+		<comment>This is an English dessert that is decadently sweet. The date-based cake is soaked in a toffee sauce.</comment>
+	</meta>
+	<group>
+		<label>Date Puree</label>
+		<ingredients>
+			<ingredient>
+				<quantity>
+					<value>225</value>
+					<unit>g</unit>
+				</quantity>
+				<variant>medjool</variant>
+				<item>dates</item>
+				<preprep>pitted</preprep>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>300</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>1 1/3</value>
+							<unit>cup</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>water</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>2</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>1</value>
+							<unit>tsp</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>baking soda</item>
+			</ingredient>
+		</ingredients>
+		<steps>
+			<step>Combine the dates and water in a <equipment>saucepan</equipment>. Bring to a boil.</step>
+			<step>Cover and let steep <time>a few minutes</time>.</step>
+			<step>Using an <equipment>immersion blender</equipment> or after transferring to a <equipment>food processor</equipment>, <procedure>mince> or </procedure><procedure>purée</procedure> or the date mixture.</step>
+			<step>Stir in the baking soda.</step>
+			<step>Let cool while proceeding with the remainder of the recipe.</step>
+		</steps>
+	</group>
+	<group>
+		<label>Toffee Sauce</label>
+		<comment>Make extra sauce if desired to pour on the pudding at serving time.</comment>
+		<ingredients>
+			<ingredient>
+				<quantity>
+					<value>150</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>2/3</value>
+							<unit>cup</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>cream</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>115</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>8</value>
+							<unit>tbs</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<variant>unsalted</variant>
+				<item>butter</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>115</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>1/2</value>
+							<unit>cup</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<variant>dark brown</variant>
+				<item>sugar</item>
+			</ingredient>
+		</ingredients>
+		<steps>
+			<step>Combine ingredients in a saucepan.</step>
+			<step>Place over medium heat and bring to a boil, stirring occasionally.</step>
+			<step>Cook until toffee coloured and <temperature>225</temperature>, about <time>5 minutes</time>.</step>
+			<step>Remove from heat and pour half the sauce into a <equipment>9 x 9 inch baking pan</equipment>. Spread evenly over the bottom.</step>
+			<step>Place the pan in the refrigerator to firm the toffee while you make the cake.</step>
+			<step>Reserve the other half of the sauce for the end of the recipe, keeping warm.</step>
+		</steps>
+	</group>
+	<group>
+		<label>Cake</label>
+		<ingredients>
+			<ingredient>
+				<quantity>
+					<value>85</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>6</value>
+							<unit>tbs</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>butter</item>
+				<preprep>room temperature</preprep>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>175</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>7/8</value>
+							<unit>cup</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<variant>dark brown</variant>
+				<item>sugar</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>175</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>1 1/2</value>
+							<unit>cups</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<variant>all purpose</variant>
+				<item>flour</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>3</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>1 1/2</value>
+							<unit>tsp</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>baking powder</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>1</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>1/2</value>
+							<unit>tsp</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<variant>ground</variant>
+				<item>cinnamon</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>.5</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>1/4</value>
+							<unit>tsp</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<variant>ground</variant>
+				<item>allspice</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>.25</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>1/8</value>
+							<unit>tsp</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<variant>ground</variant>
+				<item>cloves</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>.25</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>1/16</value>
+							<unit>tsp</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<variant>ground</variant>
+				<item>nutmeg</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>115</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>2</value>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>eggs</item>
+			</ingredient>
+			<ingredient>
+				<item>date purée</item>
+			</ingredient>
+			<ingredient>
+				<item>toffee sauce</item>
+			</ingredient>
+		</ingredients>
+		<steps>
+			<step>Preheat oven to <temperature>350</temperature>.</step>
+			<step>Add the butter and sugar to a mixer and <procedure>cream</procedure> together. Continue to beat on medium speed until fluffy, about <time>5 minutes</time>..</step>
+			<step>Meanwhile, sift together the dry ingredients.</step>
+			<step>Add the eggs one at a time to the butter and sugar mixture and beat in. Continue to beat until fluffy, about <time>1 minute</time>.</step>
+			<step>Stir in the flour mixture, then the date mixture. Mix just until evenly blended.</step>
+			<step>Spread the batter evenly in the pan that has been lined with toffee. </step>
+			<step>Put in oven and <procedure>bake</procedure> until the top is just firm to touch, about <time>30 - 35 minutes</time>.</step>
+			<step>Remove from oven and immediately <procedure>dock</procedure> with a fork.</step>
+			<step>Spread the remaining toffee sauce over the top of the cake. Set aside and allow to soak in.</step>
+		</steps>
+	</group>
+	<serving>Cut into 9 portions and serve warm, with extra toffee sauce if desired.</serving>
+</recipe>
