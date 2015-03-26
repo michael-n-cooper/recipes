@@ -6,69 +6,71 @@
 		<source>Joy of Cooking</source>
 		<dishtype>Desserts</dishtype>
 		<dishtype>Cakes</dishtype>
-		<comment>The acidity of sourdough complements the chocolate nicely, the same way buttermilk does. The cake seems to get extra lift because it has both chemical leavening and yeast-based oven spring. The crumb is tender but sturdy.</comment>
+		<comment>The acidity of sourdough complements the chocolate nicely, the same way buttermilk does, and reacts with the baking soda to make it rise. It also tenderizes the crumb, so this recipe uses all purpose flour instead of cake flour. This recipe is a way to use old starter, which provides acidity but does not require active yeast activity.</comment>
 	</meta>
 	<ingredients>
 		<ingredient>
 			<quantity>
-				<value>6</value>
-				<unit>tbs</unit>
+				<value>60</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>4</value>
+						<unit>tbs</unit>
+					</quantity>
+				</altmeasure>
+				<altmeasure>
+					<quantity>
+						<value>2</value>
+						<unit>oz</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>butter</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>70</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>2.5</value>
+						<unit>oz</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>unsweetened</variant>
+			<item>chocolate</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>60</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>4</value>
+						<unit>tbs</unit>
+					</quantity>
+				</altmeasure>
+				<altmeasure>
+					<quantity>
+						<value>2</value>
+						<unit>oz</unit>
+					</quantity>
+				</altmeasure>
 			</quantity>
 			<item>butter</item>
 		</ingredient>
 		<ingredient>
 			<quantity>
-				<value>1 1/4</value>
-				<unit>cup</unit>
-			</quantity>
-			<item>sugar</item>
-		</ingredient>
-		<ingredient>
-			<quantity>
-				<value>2.5</value>
-				<unit>oz</unit>
-			</quantity>
-			<variant>unsweetened</variant>
-			<item>chocolate</item>
-			<preprep>melted</preprep>
-		</ingredient>
-		<ingredient>
-			<quantity>
-				<value>2</value>
-			</quantity>
-			<item>eggs</item>
-		</ingredient>
-		<ingredient mainingredient="true">
-			<quantity>
-				<value>1</value>
-				<unit>cup</unit>
+				<value>225</value>
+				<unit>g</unit>
 				<altmeasure>
 					<quantity>
 						<value>8</value>
 						<unit>oz</unit>
 					</quantity>
 				</altmeasure>
-			</quantity>
-			<item>sourdough starter</item>
-		</ingredient>
-		<ingredient>
-			<quantity>
-				<value>3/4</value>
-				<unit>cup</unit>
-			</quantity>
-			<item>milk</item>
-		</ingredient>
-		<ingredient>
-			<quantity>
-				<value>1</value>
-				<unit>tsp</unit>
-			</quantity>
-			<item>vanilla extract</item>
-		</ingredient>
-		<ingredient>
-			<quantity>
-				<value>8</value>
-				<unit>oz</unit>
 				<altmeasure>
 					<quantity>
 						<value>1 2/3</value>
@@ -81,34 +83,117 @@
 		</ingredient>
 		<ingredient>
 			<quantity>
-				<value>1/2</value>
-				<unit>tsp</unit>
+				<value>3</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1/2</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
 			</quantity>
 			<item>salt</item>
 		</ingredient>
 		<ingredient>
 			<quantity>
-				<value>1</value>
-				<unit>tsp</unit>
+				<value>7</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
 			</quantity>
 			<item>baking soda</item>
 		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>250</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1 1/4</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>115</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>2</value>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>eggs</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>4</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>225</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+				<altmeasure>
+					<quantity>
+						<value>8</value>
+						<unit>oz</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>sourdough starter</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>160</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>3/4</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>milk</item>
+		</ingredient>
 	</ingredients>
 	<steps>
+		<step>Melt the first amount of butter and the chocolate together. Cool to room temperature until it sets.</step>
+		<step>Sift together the flour, salt, and baking soda.</step>
 		<step>Preheat the oven to <temperature>325</temperature>. Grease a <equipment>9-inch square baking pan</equipment> or two <equipment>8-inch round baking pans</equipment>.</step>
-		<step>Cream together the butter and sugar until light and fluffy.</step>
-		<step>Add the chocolate, and stir until evenly mixed.</step>
-		<step>Add the eggs and beat until fluffy.</step>
+		<step>Combine the chocolate-butter mixture with the remaining butter and sugar. Cream together until light and fluffy, about <time>5 minutes</time>.</step>
+		<step>Add the eggs one at a time and beat in, then add the vanilla extract. Continue to beat until fluffy, about <time>1 minute</time>.</step>
 		<step>Add the sourdough starter. Stir gently until evenly mixed.</step>
-		<step>Sift together the flour, salt, and baking soda, then add to the butter mixture, along with the milk and vanilla. Mix slowly until incorporated, then beat vigorously <time>30 seconds</time> until completely blended. This is important to avoid large holes, and unlike most cakes, this one won't toughen from the extra beating.</step>
+		<step>Add the flour mixture and milk to the butter mixture. Mix slowly until incorporated, then beat vigorously <time>30 seconds</time> until completely blended.</step>
 		<step>Spread evenly in the baking pan(s). Bake <time>50 minutes</time> for the <equipment>9-inch square baking pan</equipment> or <time>40 minutes</time> for two <equipment>8-inch round baking pans</equipment>.</step>
 		<step>Cool in the pan on a wire rack <time>5 minutes</time>, then turn out of the pan and allow to cool completely.</step>
 	</steps>
-	<serving>Frost with <reciperef ref="chocolatefudgefrosting">Chocolate Fudge Frosting</reciperef>.</serving>
+	<serving>Fill and frost as desired.</serving>
 	<variation>
 		<label>Sourdough Chocolate Cupcakes</label>
 		<steps>
-			<step>Reduce the milk to 1/2 cup.</step>
+			<step>Reduce the milk to 125 g (1/2 cup).</step>
 			<step>Line cupcake pans with liners. Scoop 1/2 cup batter into each. Makes 16 cupcakes.</step>
 			<step>Bake at <temperature>350</temperature> for <time>20 minutes</time>.</step>
 		</steps>
