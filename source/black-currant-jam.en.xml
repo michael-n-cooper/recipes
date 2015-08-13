@@ -16,23 +16,29 @@
         </ingredient>
         <ingredient>
             <quantity>
-                <value>250</value>
+                <value>100</value>
                 <unit>g</unit>
             </quantity>
             <item>water</item>
         </ingredient>
         <ingredient>
             <quantity>
-                <value>1000</value>
+                <value>800</value>
                 <unit>g</unit>
             </quantity>
             <item>sugar</item>
         </ingredient>
         <ingredient optional="true">
-            <quantity>
-                <value>2</value>
-                <unit>tbs</unit>
-            </quantity>
+        	<quantity>
+        		<value>50</value>
+        		<unit>g</unit>
+        		<altmeasure>
+	        		<quantity>
+		                <value>2</value>
+		                <unit>tbs</unit>
+		            </quantity>
+        		</altmeasure>
+        	</quantity>
             <item>lemon juice</item>
         </ingredient>
     </ingredients>
