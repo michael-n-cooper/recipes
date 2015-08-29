@@ -90,14 +90,14 @@
 		</ingredient>
 		<ingredient>
 			<quantity>
-				<value>1 1/2</value>
+				<value>1</value>
 				<unit>tsp</unit>
 			</quantity>
 			<item>baking powder</item>
 		</ingredient>
 		<ingredient>
 			<quantity>
-				<value>2</value>
+				<value>1</value>
 				<unit>tsp</unit>
 			</quantity>
 			<item>baking soda</item>
@@ -111,7 +111,7 @@
 		</ingredient>
 		<ingredient>
 			<quantity>
-				<value>1/8</value>
+				<value>1/4</value>
 				<unit>tsp</unit>
 			</quantity>
 			<item>salt</item>
