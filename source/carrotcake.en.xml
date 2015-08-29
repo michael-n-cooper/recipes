@@ -119,13 +119,13 @@
 	</ingredients>
 	<steps>
 		<step>Preheat the oven to <temperature>350</temperature>.</step>
-		<step>Toast the walnuts about <time>10 minutes</time>, until they smell fragrant and are lightly browned. Cool.</step>
-		<step>Grate the carrots into fine shreds. This should yield about 4 cups packed.</step>
+		<step>Toast the walnuts about <time>7 minutes</time>, until they smell fragrant and are only lightly toasted. Cool.</step>
 		<step>Butter the inside of three <equipment>9-inch round cake pans</equipment>. Line each with a round of wax paper. Butter and flour the round.</step>
+		<step>Grate the carrots into fine shreds, easiest done with the shredding attachment of a <equipment>food processor</equipment>. This should yield about 4 cups packed. Transfer to a large <equipment>mixing bowl</equipment>.</step>
+		<step>Beat the sugar, eggs, and vanilla extract until thickened, easiest in the now-empty food processor with the steel blade. Beat in the oil gradually until <procedure>emulsified</procedure>.</step>
 		<step>Sift together the flour, baking powder, baking soda, cinnamon, and salt.</step>
-		<step>Beat the sugar, eggs, and vanilla extract until thickened. Beat in the oil gradually until <procedure>emulsified</procedure>.</step>
-		<step>Fold the dry ingredients into the egg mixture. Fold in the carrots and walnuts just until blended.</step>
+		<step>Stir the dry ingredients into the egg mixture, or add to the food processor and process briefly until incorporated. Fold in the carrots and walnuts just until blended.</step>
 		<step>Distribute the batter among the three cake pans. Bake <time>35 to 40 minutes</time>, until the tops spring back when gently pressed.</step>
-		<step>Remove from the pans and cool on a wire rack. Fill and frost with <reciperef ref="creamcheesefrosting">Cream Cheese Frosting</reciperef>.</step>
+		<step>Remove from the pans and cool on a wire rack. Fill and frost with <reciperef ref="cream-cheese-frosting">Cream Cheese Frosting</reciperef>.</step>
 	</steps>
 </recipe>
