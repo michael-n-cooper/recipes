@@ -7,7 +7,7 @@
 		<dishtype>Preserves</dishtype>
 	</meta>
 	<ingredients>
-		<ingredient>
+		<ingredient mainingredient="true">
 			<quantity>
 				<value>1000</value>
 				<unit>g</unit>
@@ -15,56 +15,36 @@
 			<item>currants</item>
 		</ingredient>
 		<ingredient>
-			<range>
+			<quantity>
+				<value>700</value>
+				<unit>g</unit>
 				<quantity>
 					<value>750</value>
-					<unit>g</unit>
+					<unit>ml</unit>
 				</quantity>
-				<quantity>
-					<value>2</value>
-					<unit>parts</unit>
-				</quantity>
-			</range>
+			</quantity>
 			<item>brandy</item>
 		</ingredient>
 		<ingredient>
-			<range>
-				<quantity>
-					<value>375</value>
-					<unit>g</unit>
-				</quantity>
-				<quantity>
-					<value>500</value>
-					<unit>g</unit>
-				</quantity>
-			</range>
+			<quantity approximate="true">
+				<value>450</value>
+				<unit>g</unit>
+			</quantity>
 			<item>sugar</item>
-		</ingredient>
-		<ingredient>
-			<range>
-				<quantity>
-					<value>100</value>
-					<unit>g</unit>
-				</quantity>
-				<quantity>
-					<value>125</value>
-					<unit>g</unit>
-				</quantity>
-			</range>
-			<item>water</item>
 		</ingredient>
 	</ingredients>
 	<steps>
 		<step>Sterilize a <equipment>canning jar</equipment> large enough to hold currants and brandy.</step>
 		<step>Wash and stem currants, and remove mouldy ones.</step>
-		<step>Mash currants well.</step>
+		<step>Run currants through the coarse disk of a food mill to mash. <expanded>Do not use a food processor. <explanation>This would break up the seeds and bring out their bitterness too much.</explanation></expanded></step>
 		<step>Add currants and brandy to jar and seal.</step>
-		<step>Store in a dark place at room temperature <time>2 months</time>. Occasionally shake the contents gently.</step>
-		<step>Sterilize a <equipment>jelly bag</equipment> and drain the mixture <time>1 hour</time>.</step>
-		<step>Squeeze to remove as much liquid as possible. Reserve the solids and make jam by adding equal weight of sugar and some water.</step>
-		<step>Strain the liquid again through a double layer of <equipment>cheesecloth</equipment>.</step>
-		<step>Combine sugar and water and heat until sugar dissolves. Let cool.</step>
-		<step>Add sugar syrup to curant liquor to taste.</step>
+		<step>Store in a dark place at room temperature <time>5 months</time>. Occasionally shake the contents gently.</step>
+		<step>Sterilize a <equipment>jelly bag</equipment> and drain the mixture into a bowl.</step>
+		<step>Move the mixture to a <equipment>colander</equipment> or <equipment>cheese press</equipment> with a collection bowl.</step>
+		<step>Like pressing cheese, put a small amount of weight onto the mixture to press out more liquid. and add more weight each time the liquid stops running to press as much liquid as possible. <expanded>Do not increase the weight too fast, which would press some solids into the liquid and make it cloudy.</expanded></step>
+		<step optional="true">Reserve the solids and make jam by adding equal weight of sugar and some water.</step>
+		<step>Weigh the liquid, and add sugar in the amount of 45% of the liquid weight. Stir well a few minutes to dissolve.</step>
+		<step>Strain the liquid through a <equipment>coffee filter</equipment>.</step>
 		<step>Bottle, seal, and mature another <time>2 months</time>.</step>
 	</steps>
 </recipe>
