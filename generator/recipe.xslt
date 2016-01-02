@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- This XSLT has been optimized for the Drupal XSL formatter, and is stuck with XSLT 1.0 and without DTD-derived defaults in the XML -->
 <xsl:stylesheet 
 	version="1.0" 
 	xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
@@ -31,7 +32,7 @@
 		<xsl:apply-templates select="comment | processnote"/>
 	</xsl:template>
 	
-	<xsl:template match="meta/comment">
+	<xsl:template match="comment">
 		<p class="comment"><xsl:apply-templates/></p>
 	</xsl:template>
 	
@@ -215,7 +216,7 @@
 	
 	<xsl:template match="temperature">
 		<xsl:value-of select="."/> °<xsl:choose>
-			<xsl:when test="@scale = 'Fahrenheit'"><abbr title="Fahrenheit">F</abbr></xsl:when>
+			<xsl:when test="@scale = 'Fahrenheit' or not(@scale)"><abbr title="Fahrenheit">F</abbr></xsl:when>
 			<xsl:when test="@scale = 'Celsius'"><abbr title="Celsius">C</abbr></xsl:when>
 		</xsl:choose>
 	</xsl:template>
