@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Sugar Crust (Pâte Sablée)</title>
+	<meta>
+		<cuisine>French</cuisine>
+		<dishtype>Ingredients</dishtype>
+		<comment>This is a sugar crust used in French dessert tarts.</comment>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>180</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1 1/3</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>all-purpose</variant>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>95</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>7</value>
+						<unit>tbs</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>butter</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>75</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>3</value>
+						<unit>tbs</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+			</quantity>
+			<item>egg</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Add flour, sugar, and butter to a food processor and process until sandy. Add egg and vanilla and process until it comes together.</step>
+		<step>Form into a cohesive disk and refrigerate until firm, at least <time>30 minutes</time>.</step>
+		<step>Preheat oven to <temperature>375</temperature>. Roll out pastry and line a <equipment>9-inch tart pan</equipment>.</step>
+		<step>Line shell with foil and weight with beans or pie weights. <procedure>Blind-bake</procedure> until set, about <time>10 minutes</time>. Remove the lining, prick bottom of shell well, and continue to bake until it begins to shrink from the pan, about <time>10 minutes</time>.</step>
+	</steps>
+</recipe>
