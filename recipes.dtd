@@ -1,6 +1,6 @@
 <!ENTITY % URI "CDATA">
 <!ENTITY % inline "em | reciperef">
-<!ENTITY % step "quantity | ingredient | temperature | time | equipment | procedure">
+<!ENTITY % step "quantity | ingredient | temperature | time | equipment | procedure | note | explanation">
 <!ELEMENT recipe (title, meta?, ((group, group+, (steps | activity+)?) | (ingredients, (steps | activity+))), serving?, variation*, storage?)>
 <!ATTLIST recipe
 	photo %URI; #IMPLIED
@@ -38,13 +38,18 @@
 <!ELEMENT preprep (#PCDATA)>
 <!-- inline elements -->
 <!ELEMENT note (#PCDATA | %inline;)*>
+<!-- optional expanded instructions for the step -->
+<!ELEMENT expanded (#PCDATA | %step; | %inline;)*>
+<!-- explanation of the reason for a step -->
+<!ELEMENT explanation (#PCDATA | %inline;)*>
 <!-- enrich to reference things like &quot;chopped&quot; -->
 <!ELEMENT ingredient_choice ((ingredient | ingredient_group)*)>
 <!ELEMENT ingredient_group (ingredient, ingredient+)>
 <!ELEMENT steps (step+)>
-<!ELEMENT step (#PCDATA | %step; | %inline;)*>
+<!ELEMENT step (#PCDATA | expanded | %step; | %inline;)*>
 <!-- inline elements, quantities, temperatures, etc. -->
 <!ATTLIST step
+	optional (true | false) "false"
 	photo %URI; #IMPLIED
 >
 <!ELEMENT activity (label, comment?, processnote?, (steps+ | activity+))>

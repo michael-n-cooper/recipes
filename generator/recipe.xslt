@@ -208,6 +208,9 @@
 	
 	<xsl:template match="step">
 		<li>
+			<xsl:if test="@optional = 'true'">
+				<em>Optional: </em>
+			</xsl:if>
 			<xsl:apply-templates/>
 		</li>
 	</xsl:template>
@@ -228,6 +231,18 @@
 			</xsl:attribute>
 			<xsl:apply-templates/>
 		</a>
+	</xsl:template>
+	
+	<xsl:template match="expanded">
+		<span class="expanded">
+			<xsl:apply-templates/>
+		</span>
+	</xsl:template>
+	
+	<xsl:template match="explanation">
+		<span class="explanation">
+			<xsl:apply-templates/>
+		</span>
 	</xsl:template>
 	
 	<xsl:template match="variation">
