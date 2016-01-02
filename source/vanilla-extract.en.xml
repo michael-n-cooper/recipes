@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Vanilla Extract</title>
+	<meta>
+		<dishtype>Ingredients</dishtype>
+		<dishtype>Infusions</dishtype>
+		<comment>Homemade vanilla extract can be higher quality than commercial, because you choose the beans, spirit, and infusion time. Any unflavoured spirit will work, such as rum, brandy, vodka, or whisky. Choose one that is not harsh and whose flavours would complement the vanilla. The proportions in this recipe are similar to a "2-fold" extract, so is stronger than most commercial extracts.</comment>
+	</meta>
+	<ingredients>
+		<yield>1 Litre</yield>
+		<ingredient>
+			<quantity>
+				<value>225</value>
+				<unit>g</unit>
+			</quantity>
+			<variant>extraction grade</variant>
+			<item>vanilla beans</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>950</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1150</value>
+						<unit>ml</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>80-proof unflavoured</variant>
+			<item>spirit</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>50</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>50</value>
+						<unit>ml</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>distilled</variant>
+			<item>water</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Chop beans coarsely with a knife, then transfer to a <equipment>blender</equipment> and pulse to chop more finely. <note>A food processor will not work here.</note></step>
+		<step>Combine beans with the alcohol and water in a <equipment>1.5 L</equipment> jar and seal.</step>
+		<step>Allow to infuse <time>6 months</time>. Shake gently once per day.</step>
+		<step>Strain the alcohol and press as much liquid off the beans as possible.</step>
+		<step><procedure>Filter</procedure> again through a coffee filter.</step>
+        <step>Transfer to a <equipment>1 L bottle</equipment> and close.</step>
+	</steps>
+	<storage>Store in a dark place up to 3 years.</storage>
+</recipe>
