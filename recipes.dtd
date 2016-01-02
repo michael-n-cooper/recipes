@@ -24,10 +24,11 @@
 	optional (true | false) "false"
 >
 <!ELEMENT range (quantity, quantity)>
-<!ELEMENT quantity (value?, unit?, altmeasure*)>
+<!ELEMENT quantity (value?, unit?, quantity*, altmeasure*)>
 <!ATTLIST quantity
 	approximate (true | false) "false"
 >
+<!-- deprecated: simply quantity inside quantity is alt measure -->
 <!ELEMENT altmeasure (quantity+)>
 <!ELEMENT value (#PCDATA)>
 <!ELEMENT unit (#PCDATA)>
