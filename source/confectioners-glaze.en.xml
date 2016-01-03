@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <recipe>
-	<title>Confectioners' Glaze</title>
+	<title>Confectioner's Glaze</title>
 	<meta>
 		<dishtype>Icings</dishtype>
 		<note>This is the thin glaze that is used to coat donuts. The proportions here make a somewhat thick glaze, which I like, but you can thin it slightly. Allow it to drip off well from items you are glazing.</note>
 	</meta>
 	<group>
 		<label>Simple glaze</label>
-		<comment>This is a common straightforward version, easy to make. However, I find a noticeable staleness and grit from the cornstarch in the confectioners' sugar.</comment>
+		<comment>This is a common straightforward version, easy to make. However, I find a noticeable staleness and grit from the cornstarch in the confectioner's sugar.</comment>
 		<ingredients>
 			<yield>1/2 cup</yield>
 			<ingredient mainingredient="true">
@@ -19,7 +19,7 @@
 						<unit>cups</unit>
 					</altmeasure>
 				</quantity>
-				<variant>confectioners'</variant>
+				<variant>confectioner's</variant>
 				<item>sugar</item>
 			</ingredient>
 			<ingredient>
@@ -55,7 +55,7 @@
 	</group>
 	<group>
 		<label>Smoother glaze</label>
-		<comment>This approach reduces the amount of confectioners' sugar required by dissolving ordinary sugar in the milk first. The glaze is somewhat smoother than the previous one, but takes a little longer to make.</comment>
+		<comment>This approach reduces the amount of confectioner's sugar required by dissolving ordinary sugar in the milk first. The glaze is somewhat smoother than the previous one, but takes a little longer to make.</comment>
 		<ingredients>
 			<yield>1/2 cup</yield>
 			<ingredient>
@@ -90,7 +90,7 @@
 						<unit>cup</unit>
 					</altmeasure>
 				</quantity>
-				<variant>confectioners'</variant>
+				<variant>confectioner's</variant>
 				<item>sugar</item>
 			</ingredient>
 			<ingredient optional="true">

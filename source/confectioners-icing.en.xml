@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE recipe SYSTEM "../recipes.dtd">
 <recipe>
-	<title>Confectioners' Icing</title>
+	<title>Confectioner's Icing</title>
 	<meta>
 		<dishtype>Icing</dishtype>
-		<comment>Simple confectioners' icing is good to dip donuts or pour over cakes or cookies. Include the butter for a more plastic icing that is easier to dip, or omit it for one that sets up hard. Use the larger amount of milk for an icing that will be poured.</comment>
+		<comment>Simple confectioner's icing is good to dip donuts or pour over cakes or cookies. Include the butter for a more plastic icing that is easier to dip, or omit it for one that sets up hard. Use the larger amount of milk for an icing that will be poured.</comment>
 	</meta>
 	<ingredients>
 		<ingredient>
@@ -18,7 +18,7 @@
 					</quantity>
 				</altmeasure>
 			</quantity>
-			<item>confectioners' sugar</item>
+			<item>confectioner's sugar</item>
 		</ingredient>
 		<ingredient optional="true">
 			<quantity>

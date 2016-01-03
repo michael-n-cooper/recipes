@@ -4,7 +4,7 @@
 	<title>Tea Icing</title>
 	<meta>
 		<dishtype>Icing</dishtype>
-		<comment>Tea is a wonderful variant of standard confectioners' icing. This recipe makes a strong tea infusion for flavour that will stand up to all the sugar. Earl Grey and green tea are good choices.</comment>
+		<comment>Tea is a wonderful variant of standard confectioner's icing. This recipe makes a strong tea infusion for flavour that will stand up to all the sugar. Earl Grey and green tea are good choices.</comment>
 	</meta>
 	<ingredients>
 		<ingredient>
@@ -44,7 +44,7 @@
 					</quantity>
 				</altmeasure>
 			</quantity>
-			<item>confectioners' sugar</item>
+			<item>confectioner's sugar</item>
 		</ingredient>
 		<ingredient>
 			<quantity>

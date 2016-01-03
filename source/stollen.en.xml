@@ -271,14 +271,14 @@
 				<item>butter</item>
 			</ingredient>
 			<ingredient>
-				<variant>confectioners'</variant>
+				<variant>confectioner's</variant>
 				<item>sugar</item>
 			</ingredient>
 		</ingredients>
 		<steps>
 			<step>While the cakes bake, <procedure>clarify</procedure> the butter.</step>
 			<step>When cakes are done, remove to a wire rack. Brush immediately all over with the spirits, then brush immediately all over with the clarified butter.</step>
-			<step>Let cool completely, then dust well in confectioners' sugar.</step>
+			<step>Let cool completely, then dust well in confectioner's sugar.</step>
 			<step>Leave out overnight to dry slightly.</step>
 			<step>Place in airtight plastic and let mellow at room temperature up to one month.</step>
 		</steps>

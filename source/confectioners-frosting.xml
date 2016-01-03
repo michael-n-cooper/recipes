@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE recipe SYSTEM "../recipes.dtd">
 <recipe>
-	<title>Confectioners' Frosting</title>
+	<title>Confectioner's Frosting</title>
 	<meta>
 		<dishtype>Frostings</dishtype>
-		<comment>This is a basic confectioners' sugar frosting. Because North American confectioners' sugar contains corn starch, this has a slightly gritty texture, and with no stabilizer the emulusion isn't completely stable. Therefore I usually use other frosting recipes, but sometimes circumstances warrant the simplicty of this one. The different variations are interchangeable, so this is a very flexible base recipe.</comment>
+		<comment>This is a basic confectioner's sugar frosting. Because North American confectioner's sugar contains corn starch, this has a slightly gritty texture, and with no stabilizer the emulusion isn't completely stable. Therefore I usually use other frosting recipes, but sometimes circumstances warrant the simplicty of this one. The different variations are interchangeable, so this is a very flexible base recipe.</comment>
 	</meta>
 	<ingredients>
 		<ingredient>
@@ -32,7 +32,7 @@
 					</quantity>
 				</altmeasure>
 			</quantity>
-			<item>confectioners' sugar</item>
+			<item>confectioner's sugar</item>
 		</ingredient>
 		<ingredient>
 			<quantity>

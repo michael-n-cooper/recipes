@@ -99,5 +99,5 @@
 		<step>Continue to fry the cookie until brown, about <time>2 minutes</time>.</step>
 		<step>Remove to a <equipment>wire rack</equipment> and let cool while frying the remainder. Continue to fry rosettes until the batter is used up.</step>
 	</steps>
-	<serving>When cool, dust with confectioners' sugar or dip edges in <reciperef ref="confectioners-glaze">confectioners' glaze</reciperef>.</serving>
+	<serving>When cool, dust with confectioner's sugar or dip edges in <reciperef ref="confectioners-glaze">confectioner's glaze</reciperef>.</serving>
 </recipe>
