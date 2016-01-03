@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe>
+	<title>Cider Glaze</title>
+	<meta>
+		<dishtype>Icings</dishtype>
+		<note>This is like <reciperef ref="confectioners-glaze">Confectioner's Glaze</reciperef>, but made with boiled-down apple cider. Use to glaze <reciperef ref="cider-donuts">Cider Donuts</reciperef>.</note>
+	</meta>
+	<ingredients>
+		<yield>1/2 cup</yield>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>50</value>
+				<unit>g</unit>
+				<altmeasure>
+					<value>4</value>
+					<unit>tbs</unit>
+				</altmeasure>
+			</quantity>
+			<item><reciperef ref="boiled-cider">boiled cider</reciperef></item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>100</value>
+				<unit>g</unit>
+				<altmeasure>
+					<value>1/2</value>
+					<unit>cup</unit>
+				</altmeasure>
+			</quantity>
+			<variant>granulated</variant>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>100</value>
+				<unit>g</unit>
+				<altmeasure>
+					<value>1</value>
+					<unit>cup</unit>
+				</altmeasure>
+			</quantity>
+			<variant>confectioner's</variant>
+			<item>sugar</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Combine the cider and granulated sugar in a small saucepan.</step>
+		<step>Heat, stirring frequently, until the sugar dissolves. The mixture needs to get hot but need not go to a full boil.</step>
+		<step>Remove from heat and let cool to room temperature.</step>
+		<step>Sift in confectioner's sugar. Beat ingredients together until a smooth glaze forms.</step>
+		<step>Add small amounts water if needed to yield a glaze that flows but isn't too thin.</step>
+	</steps>
+	<serving>Warm glaze slightly over hot water to increase fluidity. Dip pastries into glaze, or pour over pastry, and allow to dry to a thin shell.</serving>
+</recipe>
