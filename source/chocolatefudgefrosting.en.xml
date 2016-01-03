@@ -41,7 +41,7 @@
 			</quantity>
 			<item>salt</item>
 		</ingredient>
-		<ingredient>
+		<ingredient mainingredient="true">
 			<quantity>
 				<value>1 1/2</value>
 				<unit>oz</unit>
@@ -65,9 +65,11 @@
 		</ingredient>
 	</ingredients>
 	<steps>
-		<step>Boil the milk, sugar, butter, corn syrup, and salt in a <equipment>heavy-bottomed saucepan</equipment> until the mixture registers <temperature>234</temperature>.</step>
-		<step>Remove from heat. Add chocolate and vanilla extract, but do not stir it in. Let cool to <temperature>110</temperature>.</step>
-		<step>Add fondant if using. Beat <time>2-3 minutes</time> until mixture just begins to lighten in color, which indicates sugar crystallization. Let rest <time>5 minutes</time> to allow sugar to continue crystallizing, stirring occasionally.</step>
-		<step>Spread on cake while still malleable, and allow to set.</step>
+		<step>Combine the milk, sugar, butter, corn syrup, and salt in a <equipment>heavy-bottomed saucepan</equipment>. Bring to a boil, then wash down the sides of the pot to dissolve sugar crystals.</step>
+		<step>Cook without stirring until the mixture registers <temperature>234</temperature>.</step>
+		<step>Remove from heat. Add chocolate and vanilla extract, but do not stir it in.</step> 
+		<step>Place saucepan in a larger pan of cool water, to hasten cooling and minimize crystallization risk. Let cool to <temperature>110</temperature>.</step>
+		<step>Add fondant if using. Beat until mixture just begins to lighten in color and thickens slightly, which indicates sugar crystallization, up to <time>10 minutes</time>.</step>
+		<step>Spread on cake when still thin enough to flow but thick enough to stay in place, and allow to set.</step>
 	</steps>
 </recipe>
