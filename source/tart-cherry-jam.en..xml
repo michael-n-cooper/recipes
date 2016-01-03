@@ -1,0 +1,56 @@
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Blueberry Jam</title>
+	<meta>
+		<dishtype>Jams</dishtype>
+		<comment>I haven't heard of tart cherry jam much, but decided to try it since I expect to have a glut of cherries from my tree. I am astounded at how good it is. The tartness, astringency, and modest sweetness combine with that drupe flavour in a beguiling way.</comment>
+	</meta>
+	<ingredients>
+		<yield>3 pints</yield>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>1000</value>
+				<unit>g</unit>
+			</quantity>
+			<item>tart cherries</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>650</value>
+				<unit>g</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>package</unit>
+			</quantity>
+			<item>pectin</item>
+		</ingredient>
+		<ingredient optional="true">
+			<quantity>
+				<value>1/4</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>almond extract</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Combine cherries and sugar and let <procedure>macerate</procedure> <time>overnight</time>.</step>
+		<step>Fill a canning kettle with water to the appropriate level and bring to boil. Reduce heat and keep ready at the boil until the jam is ready. Sterilize <equipment>canning jars</equipment> and lids.</step>
+		<step>Put the cherries in a pot with at least three times the capacity of the batch.</step>
+		<step>Bring batch to a boil. Keep at the boil, stirring occasionally, until the batch reaches <temperature>215</temperature>.</step>
+		<step>Add the pectin.</step>
+		<step>Continue to cook, stirring frequently, until mixture reaches the jellying point, around <temperature>221</temperature>.</step>
+		<step>Remove from heat, then stir in the almond extract.</step>
+		<step><procedure>Can</procedure> and seal jars in canning kettle <time>10 minutes</time>.</step>
+	</steps>
+	<variation>
+		<label>Sweet Cherry Jam</label>
+		<steps>
+			<step>Substitute sweet cherries for the tart cherries.</step>
+			<step>Add <ingredient><quantity><value>25</value><unit>g</unit><quantity><value>2</value><unit>tbs</unit></quantity></quantity><item>lemon juice</item></ingredient> with the pectin.</step>
+		</steps>
+	</variation>
+</recipe>
