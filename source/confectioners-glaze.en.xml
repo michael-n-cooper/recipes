@@ -10,7 +10,7 @@
 		<comment>This is a common straightforward version, easy to make. However, I find a noticeable staleness and grit from the cornstarch in the confectioner's sugar.</comment>
 		<ingredients>
 			<yield>1/2 cup</yield>
-			<ingredient mainingredient="true">
+			<ingredient>
 				<quantity>
 					<value>200</value>
 					<unit>g</unit>
@@ -81,7 +81,7 @@
 				<variant>granulated</variant>
 				<item>sugar</item>
 			</ingredient>
-			<ingredient mainingredient="true">
+			<ingredient>
 				<quantity>
 					<value>100</value>
 					<unit>g</unit>
