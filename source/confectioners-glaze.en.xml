@@ -3,57 +3,117 @@
 	<title>Confectioners' Glaze</title>
 	<meta>
 		<dishtype>Icings</dishtype>
-		<note>This is the thin glaze that is used to coat donuts.</note>
+		<note>This is the thin glaze that is used to coat donuts. The proportions here make a somewhat thick glaze, which I like, but you can thin it slightly. Allow it to drip off well from items you are glazing.</note>
 	</meta>
-	<ingredients>
-		<yield>1/2 cup</yield>
-		<ingredient>
-			<quantity>
-				<value>200</value>
-				<unit>g</unit>
-				<altmeasure>
-					<value>2</value>
-					<unit>cups</unit>
-				</altmeasure>
-			</quantity>
-			<variant>confectioners'</variant>
-			<item>sugar</item>
-		</ingredient>
-		<ingredient>
-			<quantity>
-				<value>50</value>
-				<unit>g</unit>
-				<altmeasure>
-					<value>4</value>
-					<unit>tbs</unit>
-				</altmeasure>
-			</quantity>
-			<item>milk</item>
-		</ingredient>
-		<ingredient optional="true">
-			<quantity>
-				<value>1</value>
-				<unit>g</unit>
-				<altmeasure>
-					<quantity>
-						<value>1/4</value>
-						<unit>tsp</unit>
-					</quantity>
-				</altmeasure>
-			</quantity>
-			<item>vanilla extract</item>
-		</ingredient>
-	</ingredients>
-	<steps>
-		<step>Beat ingredients together until a smooth glaze forms.</step>
-        <step>Cover and rest 15 minutes to allow glaze to smooth and thin.</step>
-		<step>Add small amounts extra milk if needed to yield a glaze that flows but isn't too thin.</step>
-	</steps>
-	<serving>Warm glaze slightly over hot water to increase fluidity. Dip pastries into glaze, or pour over pastry, and allow to dry to a thin shell.</serving>
-	<variation>
-		<label>Cider Glaze</label>
+	<group>
+		<label>Simple glaze</label>
+		<comment>This is a common straightforward version, easy to make. However, I find a noticeable staleness and grit from the cornstarch in the confectioners' sugar.</comment>
+		<ingredients>
+			<yield>1/2 cup</yield>
+			<ingredient mainingredient="true">
+				<quantity>
+					<value>200</value>
+					<unit>g</unit>
+					<altmeasure>
+						<value>2</value>
+						<unit>cups</unit>
+					</altmeasure>
+				</quantity>
+				<variant>confectioners'</variant>
+				<item>sugar</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>50</value>
+					<unit>g</unit>
+					<altmeasure>
+						<value>4</value>
+						<unit>tbs</unit>
+					</altmeasure>
+				</quantity>
+				<item>milk</item>
+			</ingredient>
+			<ingredient optional="true">
+				<quantity>
+					<value>1</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>1/4</value>
+							<unit>tsp</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>vanilla extract</item>
+			</ingredient>
+		</ingredients>
 		<steps>
-			<step>Replace the milk with <reciperef ref="boiled-cider">Boiled Cider</reciperef>. Omit the vanilla extract.</step>
+			<step>Beat ingredients together until a smooth glaze forms.</step>
+			<step>Cover and rest 15 minutes to allow glaze to smooth and thin.</step>
+			<step>Add small amounts extra milk if needed to yield a glaze that flows but isn't too thin.</step>
 		</steps>
-	</variation>
+	</group>
+	<group>
+		<label>Smoother glaze</label>
+		<comment>This approach reduces the amount of confectioners' sugar required by dissolving ordinary sugar in the milk first. The glaze is somewhat smoother than the previous one, but takes a little longer to make.</comment>
+		<ingredients>
+			<yield>1/2 cup</yield>
+			<ingredient>
+				<quantity>
+					<value>50</value>
+					<unit>g</unit>
+					<altmeasure>
+						<value>4</value>
+						<unit>tbs</unit>
+					</altmeasure>
+				</quantity>
+				<item>milk</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>100</value>
+					<unit>g</unit>
+					<altmeasure>
+						<value>1/2</value>
+						<unit>cup</unit>
+					</altmeasure>
+				</quantity>
+				<variant>granulated</variant>
+				<item>sugar</item>
+			</ingredient>
+			<ingredient mainingredient="true">
+				<quantity>
+					<value>100</value>
+					<unit>g</unit>
+					<altmeasure>
+						<value>1</value>
+						<unit>cup</unit>
+					</altmeasure>
+				</quantity>
+				<variant>confectioners'</variant>
+				<item>sugar</item>
+			</ingredient>
+			<ingredient optional="true">
+				<quantity>
+					<value>1</value>
+					<unit>g</unit>
+					<altmeasure>
+						<quantity>
+							<value>1/4</value>
+							<unit>tsp</unit>
+						</quantity>
+					</altmeasure>
+				</quantity>
+				<item>vanilla extract</item>
+			</ingredient>
+		</ingredients>
+		<steps>
+			<step>Combine the milk and granulated sugar in a small saucepan.</step>
+			<step>Heat, stirring frequently, until the sugar dissolves. The mixture needs to get hot but need not go to a full boil.</step>
+			<step>Remove from heat and let cool to room temperature.</step>
+			<step>Sift in confectioner's sugar, and vanilla extract if using. Beat ingredients together until a smooth glaze forms.</step>
+			<step>Add small amounts extra milk if needed to yield a glaze that flows but isn't too thin.</step>
+		</steps>
+	</group>
+	<serving>Warm glaze slightly over hot water to increase fluidity. Dip pastries into glaze, or pour over pastry, and allow to dry to a thin shell.</serving>
 </recipe>
