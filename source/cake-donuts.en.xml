@@ -41,7 +41,7 @@
         </ingredient>
         <ingredient>
             <quantity>
-                <value>3</value>
+                <value>4</value>
                 <unit>cup</unit>
                 <altmeasure>
                     <quantity>
@@ -69,8 +69,8 @@
         </ingredient>
         <ingredient>
             <quantity>
-                <value>1</value>
-                <unit>tbs</unit>
+                <value>2</value>
+                <unit>tsp</unit>
             </quantity>
             <item>baking powder</item>
         </ingredient>
