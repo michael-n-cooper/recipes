@@ -189,7 +189,7 @@
 						</quantity>
 					</altmeasure>
 				</quantity>
-				<item><reciperef ref="almondpaste">almond paste</reciperef></item>
+				<item><reciperef ref="almond-paste">almond paste</reciperef></item>
 			</ingredient>
 			<ingredient>
 				<quantity>
@@ -226,7 +226,7 @@
 						</quantity>
 					</altmeasure>
 				</quantity>
-				<item><reciperef ref="almondpaste">almond paste</reciperef></item>
+				<item><reciperef ref="almond-paste">almond paste</reciperef></item>
 			</ingredient>
 		</ingredients>
 		<steps>
