@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>White Cake</title>
+	<meta>
+		<dishtype>Desserts</dishtype>
+		<dishtype>Cakes</dishtype>
+	</meta>
+	<ingredients>
+		<yield>2 8-inch cakes</yield>
+		<ingredient>
+			<quantity>
+				<value>225</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1 3/4</value>
+						<unit>cups</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<variant>pastry or cake</variant>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>10</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>2</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>baking powder</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1/4</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>110</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>8</value>
+						<unit>tbs</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>butter</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>200</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>5</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1</value>
+						<unit>tsp</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>170</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>3/4</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>milk</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>100</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>3</value>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>egg whites </item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>50</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1/4</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Preheat oven to <temperature>350</temperature>. Grease and flour two <equipment>8-inch round cake pans</equipment>.</step>
+		<step><procedure>Sift</procedure> together dry ingredients.</step>
+		<step><procedure>Cream</procedure> butter and sugar until fluffy, about 5 minutes.</step>
+		<step>Stir in milk, vanilla extract, and flour mixture. Beat briefly until smooth.</step>
+		<step><procedure>Whip</procedure> egg whites to soft peaks. Slowly add sugar and continue to whp unti stiff peaks.</step>
+		<step>Stir 1/3 egg whites into batter, then <procedure>fold</procedure> in the rest.</step>
+		<step>Portion evenly into the two pans.</step>
+		<step>Bake until tests done, about <time>20-25 minutes</time>.</step>
+		<step>Remove from oven and put on a <equipment>cooling rack</equipment> <time>5 minutes</time>, then remove cakes from pans cool completely on the rack.</step>
+	</steps>
+</recipe>
