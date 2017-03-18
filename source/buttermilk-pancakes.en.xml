@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE recipe SYSTEM "../recipes.dtd">
 <recipe>
-	<title>Pancakes</title>
+	<title>Buttermilk Pancakes</title>
 	<meta>
 		<dishtype>Breakfast</dishtype>
 		<occasion>Sunday Brunch</occasion>
@@ -20,14 +20,14 @@
 		</ingredient>
 		<ingredient>
 			<quantity>
-				<value>425</value>
+				<value>500</value>
 				<unit>g</unit>
 				<quantity>
-					<value>1 3/4</value>
+					<value>2</value>
 					<unit>cups</unit>
 				</quantity>
 			</quantity>
-			<item>milk</item>
+			<item>buttermilk</item>
 		</ingredient>
 		<ingredient>
 			<quantity>
@@ -64,7 +64,14 @@
 		</ingredient>
 		<ingredient>
 			<quantity>
-				<value>4</value>
+				<value>1/2</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>baking soda</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
 				<unit>tsp</unit>
 			</quantity>
 			<item>baking powder</item>
@@ -79,25 +86,10 @@
 	</ingredients>
 	<steps>
 		<step>Melt the butter and set aside to cool.</step>
-		<step>Whisk together the milk and eggs, then stream in the melted butter while still whisking until incorporated.</step>
+		<step>Whisk together the buttermilk and eggs, then stream in the melted butter while still whisking until incorporated.</step>
 		<step>Sift together the dry ingredients.</step>
 		<step>Add the liquid ingredients and mix with a spoon just until evenly moistened. A few lumps will remain.</step>
 		<step>Heat a <equipment>griddle</equipment> over medium-high heat until drops of water sprinkled on the surface dance around (<temperature>425</temperature>).</step>
 		<step>Lightly grease the griddle with butter, then pour about 1/4 cup of batter per pancake. Cook until bubbles form on the surface, then carefully turn over with a spatula and cook until set. Repeat until all pancakes have been made.</step>
 	</steps>
-	<variation>
-		<label>Blueberry pancakes</label>
-		<steps>
-			<step>Add <ingredient><quantity><value>1</value> <unit>cup</unit></quantity><item>blueberries</item>
-			</ingredient> blueberries to the batter. Frozen are fine and usually far cheaper. Do not defrost, but make sure they are all separated.</step>
-		</steps>
-	</variation>
-	<variation>
-		<label>Raspberry pancakes</label>
-		<steps>
-			<step>Use half whole wheat flour and half white flour. Use honey in place of sugar. Add <ingredient><quantity><value>1</value> <unit>cup</unit></quantity><item>raspberries</item>
-			</ingredient> to the batter. Mix frozen raspberries with the flour before adding the liquids; add fresh raspberries after mixing in the liquid.</step>
-		</steps>
-		
-	</variation>
 </recipe>
