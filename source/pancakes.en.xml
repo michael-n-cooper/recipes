@@ -55,10 +55,10 @@
 			<quantity>
 				<value>50</value>
 				<unit>g</unit>
-			</quantity>
-			<quantity>
-				<value>4</value>
-				<unit>tbs</unit>
+				<quantity>
+					<value>4</value>
+					<unit>tbs</unit>
+				</quantity>
 			</quantity>
 			<item>sugar</item>
 		</ingredient>
