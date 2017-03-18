@@ -85,6 +85,13 @@
 		<xsl:if test="not(position() = last())"><xsl:text>, </xsl:text><strong>OR</strong><xsl:text> </xsl:text></xsl:if>
 	</xsl:template>
 	
+	<xsl:template match="ingredient_choice/ingredient_group">
+		<li>
+			<xsl:apply-templates select="ingredient | ingredient_group | ingredient_choice"/>
+			<xsl:if test="not(position() = last())"><xsl:text>, </xsl:text><strong>OR</strong><xsl:text> </xsl:text></xsl:if>
+		</li>
+	</xsl:template>
+	
 	<xsl:template match="ingredient_group">
 		<li>
 			<xsl:apply-templates select="ingredient | ingredient_group | ingredient_choice"/>
@@ -95,11 +102,11 @@
 		<xsl:call-template name="ingredient"/>
 		<xsl:if test="not(position() = last())"><xsl:text> </xsl:text><strong>AND</strong><xsl:text> </xsl:text></xsl:if>
 	</xsl:template>
-
+	
 	<xsl:template match="quantity">
 		<xsl:apply-templates/>
 		<xsl:if test="@approximate = 'true'"><xsl:text> (approximately) </xsl:text></xsl:if>
-		<xsl:if test="following-sibling::quantity"><xsl:text> + </xsl:text></xsl:if>
+		<xsl:if test="following-sibling::quantity"><xsl:text> - </xsl:text></xsl:if>
 	</xsl:template>
 	
 	<xsl:template match="altmeasure | quantity/quantity">
