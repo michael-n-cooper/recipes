@@ -40,22 +40,20 @@
 			</quantity>
 			<item>brandy</item>
 		</ingredient>
-		<ingredient_choice>
-			<ingredient>
-				<quantity>
-					<value>3</value>
-				</quantity>
-				<item>vanilla beans</item>
-			</ingredient>
-			<ingredient>
-				<quantity>
-					<value>3</value>
-					<unit>sticks</unit>
-				</quantity>
-				<variant>Ceylon</variant>
-				<item>cinnamon sticks</item>
-			</ingredient>
-		</ingredient_choice>
+		<ingredient>
+			<quantity>
+				<value>3</value>
+			</quantity>
+			<item>vanilla beans</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3</value>
+				<unit>sticks</unit>
+			</quantity>
+			<variant>Ceylon</variant>
+			<item>cinnamon sticks</item>
+		</ingredient>
 		<ingredient>
 			<quantity>
 				<value>12</value>
