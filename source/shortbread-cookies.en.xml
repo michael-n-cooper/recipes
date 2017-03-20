@@ -1,37 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE recipe SYSTEM "../recipes.dtd">
 <recipe>
-	<title>Cookie Press Cookies</title>
+	<title>Shortbread Cookies</title>
 	<meta>
-		<source>Peggy Eskow</source>
 		<dishtype>Desserts</dishtype>
 		<dishtype>Cookies</dishtype>
 	</meta>
 	<ingredients>
-		<ingredient>
+		<ingredient mainingredient="true">
 			<quantity>
-				<value>3/4</value>
-				<unit>lb</unit>
+				<value>350</value>
+				<unit>g</unit>
+				<quantity>
+					<value>1 1/2</value>
+					<unit>cup</unit>
+				</quantity>
+				<quantity>
+					<value>3</value>
+					<unit>sticks</unit>
+				</quantity>
 			</quantity>
-			<item>butter (3 sticks)</item>
+			<item>butter</item>
 		</ingredient>
 		<ingredient>
 			<quantity>
-				<value>1</value>
-				<unit>cup</unit>
+				<value>200</value>
+				<unit>g</unit>
+				<quantity>
+					<value>1</value>
+					<unit>cup</unit>
+				</quantity>
 			</quantity>
 			<item>sugar</item>
 		</ingredient>
 		<ingredient>
 			<quantity>
 				<value>1</value>
+				<quantity>
+					<value>57</value>
+					<unit>g</unit>
+				</quantity>
 			</quantity>
 			<item>egg</item>
 		</ingredient>
 		<ingredient>
 			<quantity>
-				<value>2</value>
-				<unit>tbs</unit>
+				<value>25</value>
+				<unit>g</unit>
+				<quantity>
+					<value>2</value>
+					<unit>tbs</unit>
+				</quantity>
 			</quantity>
 			<item>milk</item>
 		</ingredient>
@@ -42,7 +61,7 @@
 			</quantity>
 			<item>vanilla extract</item>
 		</ingredient>
-		<ingredient>
+		<ingredient optional="true">
 			<quantity>
 				<value>1/2</value>
 				<unit>tsp</unit>
@@ -50,10 +69,24 @@
 			<item>almond extract</item>
 		</ingredient>
 		<ingredient>
-			<quantity>
-				<value>4</value>
-				<unit>cups</unit>
-			</quantity>
+			<range>
+				<quantity>
+					<value>400</value>
+					<unit>g</unit>
+					<quantity>
+						<value>2 3/4</value>
+						<unit>cups</unit>
+					</quantity>
+				</quantity>
+				<quantity>
+					<value>450</value>
+					<unit>g</unit>
+					<quantity>
+						<value>3 1/4</value>
+						<unit>cups</unit>
+					</quantity>
+				</quantity>
+			</range>
 			<item>flour</item>
 		</ingredient>
 		<ingredient>
@@ -63,14 +96,40 @@
 			</quantity>
 			<item>baking powder</item>
 		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
 	</ingredients>
 	<steps>
-		<step>Preheat oven to <temperature>400</temperature>.</step>
+		<step>Preheat oven to <temperature>350</temperature>.</step>
 		<step><procedure>Cream</procedure> butter and sugar together.</step>
 		<step>Add egg, milk, and extracts and mix until smooth.</step>
-		<step><procedure>Sift</procedure> together flour and baking powder, then mix into butter mixture.</step>
-		<step>Fill <equipment>cookie press</equipment> and press onto chilled ungreased <equipment>cookie sheets</equipment>.</step>
+		<step><procedure>Sift</procedure> together flour, baking powder, and salt, then stir into butter mixture.</step>
+		<step>Form into 1-tbs balls and place on cookie sheet about 2.5 cm apart, then flatten.</step>
 		<step>Bake about <time>10 minutes</time>, until they begin to turn light brown at edges.</step>
-		<step>Cool <time>1 minute</time>, then slide off cookie sheet.</step>
+		<step>Cool on sheet <time>1 minute</time>, then slide off cookie sheet.</step>
 	</steps>
+	<variation>
+		<label>Spritz cookies</label>
+		<steps>
+			<step>Set oven to <temperature>400</temperature>.</step>
+			<step>Use the lower amount of flour.</step>
+			<step>Put finished dough in a <equipment>cookie press</equipment>.</step>
+			<step>Press cookies on ungreased and unlined cookie sheets, as close together as possible.</step>
+		</steps>
+	</variation>
+	<variation>
+		<label>Jam tots</label>
+		<steps>
+			<step>Instead of flattening the balls, use the thumb or a wine cork to make a hole in the center, almost to the bottom.</step>
+			<step>Bake <time>8 minutes</time>. Remove from oven, remake the impressions with a larger tool, then return to oven and bake <time>5 minutes</time> longer.</step>
+			<step>After cookies have cooled, melt jelly or strained jam. Carefully spoon into the impressions to the very brim, about 1 tsp per cookie.</step>
+			<step>Let sit <time>a few days</time> for the jelly to set and shrink down a little.</step>
+		</steps>
+	</variation>
+	<storage>Store tightly covered up to 1 week. Freeze for longer storage.</storage>
 </recipe>
