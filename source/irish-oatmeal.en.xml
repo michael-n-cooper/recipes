@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Irish Oatmeal</title>
+	<meta>
+		<dishtype>Porridge</dishtype>
+		<comment>I don't know how Irish this is, but it's how I prepare steel-cut oats for oatmeal. Using the sourdough starter makes it ferment slightly and pick up a more complex flavour.</comment>
+	</meta>
+	<ingredients>
+		<yield>4 servings</yield>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>L</unit>
+			</quantity>
+			<item>water</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>250</value>
+				<unit>g</unit>
+			</quantity>
+			<variant>steel-cut</variant>
+			<item>oats</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>2.5</value>
+				<unit>g</unit>
+				<quantity>
+					<value>1/4</value>
+					<unit>tsp</unit>
+				</quantity>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient optional="true">
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>sourdough starter</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Combine all ingredients in a <equipment>2-L pot</equipment>. Cover and let sit <time>overnight</time>.</step>
+		<step>To cook, bring to a boil, then cook <time>5 minutes</time> while stirring.</step>
+		<step>Turn off heat, cover, and let sit <time>60 minutes</time>.</step>
+		<step>Stir together and serve.</step>
+	</steps>
+	<storage>Store leftover servings in the refrigerator. Use a microwave to reheat.</storage>
+</recipe>
