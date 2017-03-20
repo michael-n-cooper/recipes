@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+    <title>Ginger Bug</title>
+    <meta>
+        <dishtype>Ingredients</dishtype>
+        <comment>Ginger bug is to fermented beverages what sourdough starter is to naturally leavened bread. The ginger in the mixture is toxic to many micro-organisms, so a balanced yeast and bacterial colony is easily established and maintained. It takes 5 days to establish the bug, after which it can be stored and the refrigerator and fed just once every week or two. Many bits of folklore promised this would form a SCOBY, a gelatinous yeast-and-bacterial mass, but this hasn't happened for me.</comment>
+        <processnote>Use organic ginger. Non-organic ginger reportedly has pesticides that may prevent the microorganisms from establishing.</processnote>
+    </meta>
+    <ingredients>
+        <ingredient>
+            <quantity>
+                <value>15</value>
+                <unit>mL</unit>
+            </quantity>
+            <item>water</item>
+        </ingredient>
+        <ingredient>
+            <quantity>
+                <value>5</value>
+                <unit>g</unit>
+                <quantity>
+                    <value>1/2</value>
+                    <unit>tsp</unit>
+                </quantity>
+            </quantity>
+            <item>molasses</item>
+            <note>first addition only</note>
+        </ingredient>
+        <ingredient>
+            <quantity>
+                <value>15</value>
+                <unit>g</unit>
+                <quantity>
+                    <value>1</value>
+                    <unit>tbs</unit>
+                </quantity>
+            </quantity>
+            <item>sugar</item>
+        </ingredient>
+        <ingredient>
+            <quantity>
+                <value>15</value>
+                <unit>g</unit>
+            </quantity>
+            <variant>fresh or dried</variant>
+            <item>ginger</item>
+        </ingredient>
+    </ingredients>
+    <steps>
+        <step>Stir together the water, molasses, and sugar.</step>
+        <step>Mince or grate the ginger, leaving the skin on, and stir into the mixture.</step>
+        <step>Every day for 5 days stir in the same amounts of water, sugar, and ginger. Do not continue to add molasses, which is there to get it started with mineral nutrients.</step>
+        <step>By the end of 5 days the mixture should be foamy with bubbles constantly rising to the surface. If not, continue feeding a few more days, or try again, being sure to use organic ginger.</step>
+        <step>When ginger bug is fermenting actively it can be used in recipes. Stir up to incorporate any sediment (which is composed of yeast cells), then strain - through a fine strainer but not a cloth - the needed amount of liquid leaving the ginger solids behind.</step>
+        <step>Once the ginger bug has been built up, subsequent feedings should be done by removing half of the bug - liquid and ginger solids combined - then feeding again as above, but using twice as much water. It may be fed a few times before cutting back and building up again. Add molasses after each cut-back.</step>
+        <step>Store in the refrigerator and feed weekly if not using more frequently.</step>
+    </steps>
+</recipe>
