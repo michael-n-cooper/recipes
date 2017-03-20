@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Brandied Peaches</title>
+	<meta>
+		<dishtype>Preserves</dishtype>
+		<comment>These peaches are shockingly delicious, absorbing the flavours of the spices and complemented by the brandy. While there may seem like a lot of syrup in the jars, the will absorb some of it during the resting period, and the syrup alone is excellent on many desserts.</comment>
+	</meta>
+	<ingredients>
+		<yield>6 1-L jars</yield>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>3</value>
+				<unit>kg</unit>
+			</quantity>
+			<item>peaches</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>2</value>
+				<unit>kg</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>L</unit>
+			</quantity>
+			<item>water</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>400</value>
+				<unit>g</unit>
+				<quantity>
+					<value>450</value>
+					<unit>mL</unit>
+				</quantity>
+			</quantity>
+			<item>brandy</item>
+		</ingredient>
+		<ingredient_choice>
+			<ingredient>
+				<quantity>
+					<value>3</value>
+				</quantity>
+				<item>vanilla beans</item>
+			</ingredient>
+			<ingredient>
+				<quantity>
+					<value>3</value>
+					<unit>sticks</unit>
+				</quantity>
+				<variant>Ceylon</variant>
+				<item>cinnamon sticks</item>
+			</ingredient>
+		</ingredient_choice>
+		<ingredient>
+			<quantity>
+				<value>12</value>
+			</quantity>
+			<item>cloves</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>6</value>
+			</quantity>
+			<item>cardamom pods</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Bring a pot of water to boil and peel peaches by blanching one minute, shocking in an ice bath, and removing peel.</step>
+		<step>Combine sugar and water and bring to boil until sugar completely dissolved.</step>
+		<step>Slice peaches in half and remove pits.</step>
+		<step>Reduce heat to simmer. <procedure>Poach</procedure> peaches <time>5 minutes</time>. Remove to a bowl and cool.</step>
+		<step>Remove syrup from heat and cool slightly. Stir in brandy.</step>
+		<step>Distribute spices evenly among 6 <equipment>1-L jars</equipment>, then distribute peaches among the jars. Pour syrup in each jar until full.</step>
+		<step><procedure>Seal</procedure> in a boiling-water bath <time>10 minutes</time>.</step>
+	</steps>
+	<storage>Store several months to allow flavours to meld and develop. Refrigerate after opening.</storage>
+</recipe>
