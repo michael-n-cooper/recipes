@@ -99,8 +99,8 @@
 	</ingredients>
 	<steps>
 		<step>Prepare a <reciperef ref="piecrust">crust</reciperef> for a 9-inch 1-crust pie.</step>
-		<step>Preheat the ovent to <temperature>300</temperature>.</step>
-		<step>Toast the pecans about <time>8 minutes</time>, until just fragrant and only just beginning to brown. Cool.</step>
+		<step>Preheat the ovent to <temperature>350</temperature>.</step>
+		<step>Toast the pecans about <time>10 minutes</time>, until just fragrant and only just beginning to brown. Cool.</step>
 		<step>Raise the oven to <temperature>425</temperature>.</step>
 		<step>Melt the butter.</step>
 		<step>Combine the sugar and corn syrup, then beat in the eggs one at a time.</step>
@@ -108,8 +108,8 @@
 		<step>Add the pecans and mix to coat well.</step>
 		<step>Roll out the pie crust and line a <equipment>9-inch pie plate</equipment>. Flute the edge.</step>
 		<step>Pour the pecan mixture into the pie shell.</step>
-		<step>Place pie on the lowest rack of the oven, or on a baking stone, to maximize heat to the bottom. Bake <time>15 minutes</time>.</step>
-		<step>Reduce the oven heat to <temperature>325</temperature>. Bake about <time>20 minutes</time> more, until filling is set at the edges but unset in the center.</step>
+		<step>Place pie on the lowest rack of the oven, or on a baking stone, to maximize heat to the bottom. Bake <time>25 minutes</time>.</step>
+		<!--<step>Reduce the oven heat to <temperature>325</temperature>. Bake about <time>20 minutes</time> more, until filling is set at the edges but unset in the center.</step>-->
 		<step>Handle carefully when removing from the oven so as not to disturb the filling. Cool completely before serving.</step>
 	</steps>
 </recipe>
