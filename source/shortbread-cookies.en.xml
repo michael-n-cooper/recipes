@@ -69,24 +69,14 @@
 			<item>almond extract</item>
 		</ingredient>
 		<ingredient>
-			<range>
+			<quantity>
+				<value>400</value>
+				<unit>g</unit>
 				<quantity>
-					<value>400</value>
-					<unit>g</unit>
-					<quantity>
-						<value>2 3/4</value>
-						<unit>cups</unit>
-					</quantity>
+					<value>2 3/4</value>
+					<unit>cups</unit>
 				</quantity>
-				<quantity>
-					<value>450</value>
-					<unit>g</unit>
-					<quantity>
-						<value>3 1/4</value>
-						<unit>cups</unit>
-					</quantity>
-				</quantity>
-			</range>
+			</quantity>
 			<item>flour</item>
 		</ingredient>
 		<ingredient>
@@ -117,7 +107,6 @@
 		<label>Spritz cookies</label>
 		<steps>
 			<step>Set oven to <temperature>400</temperature>.</step>
-			<step>Use the lower amount of flour.</step>
 			<step>Put finished dough in a <equipment>cookie press</equipment>.</step>
 			<step>Press cookies on ungreased and unlined cookie sheets, as close together as possible.</step>
 		</steps>
