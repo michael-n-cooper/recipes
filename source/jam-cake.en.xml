@@ -8,9 +8,23 @@
 	</meta>
 	<ingredients>
 		<yield>2 8-inch layers</yield>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>250</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>jelly</item>
+			<note>or liquid portion from straining jam</note>
+		</ingredient>
 		<ingredient>
 			<quantity>
-				<value>110</value>
+				<value>100</value>
 				<unit>g</unit>
 				<altmeasure>
 					<quantity>
@@ -22,43 +36,17 @@
 			<item>shortening</item>
 		</ingredient>
 		<ingredient>
-			<range>
-				<quantity>
-					<value>100</value>
-					<unit>g</unit>
-					<altmeasure>
-						<quantity>
-							<value>1/3</value>
-							<unit>cup</unit>
-						</quantity>
-					</altmeasure>
-				</quantity>
-				<quantity>
-					<value>200</value>
-					<unit>g</unit>
-					<altmeasure>
-						<quantity>
-							<value>3/4</value>
-							<unit>cup</unit>
-						</quantity>
-					</altmeasure>
-				</quantity>
-			</range>
-			<item>sugar</item>
-			<note>Use lower amount when using sweet jams</note>
-		</ingredient>
-		<ingredient>
 			<quantity>
-				<value>250</value>
+				<value>200</value>
 				<unit>g</unit>
 				<altmeasure>
 					<quantity>
-						<value>1</value>
+						<value>3/4</value>
 						<unit>cup</unit>
 					</quantity>
 				</altmeasure>
 			</quantity>
-			<item>jam</item>
+			<item>sugar</item>
 		</ingredient>
 		<ingredient>
 			<quantity>
@@ -102,11 +90,11 @@
 		</ingredient>
 		<ingredient>
 			<quantity>
-				<value>275</value>
+				<value>250</value>
 				<unit>g</unit>
 				<altmeasure>
 					<quantity>
-						<value>1 1/4</value>
+						<value>1 1/8</value>
 						<unit>cup</unit>
 					</quantity>
 				</altmeasure>
@@ -129,7 +117,7 @@
 		</ingredient>
 		<ingredient>
 			<quantity>
-				<value>1</value>
+				<value>2.5</value>
 				<unit>g</unit>
 				<altmeasure>
 					<quantity>
@@ -142,7 +130,7 @@
 		</ingredient>
 		<ingredient optional="true">
 			<quantity>
-				<value>2</value>
+				<value>2.5</value>
 				<unit>g</unit>
 				<altmeasure>
 					<quantity>
@@ -156,9 +144,10 @@
 		</ingredient>
 	</ingredients>
 	<steps>
+		<step>If using jam, melt and strain out solids and use the liquid portion. Use enough to yield the prescribed amount of jelly and let it cool. Solids can be incorporated into cake filling if desired.</step>
 		<step>Preheat oven to <temperature>350</temperature>. Butter and flour two <equipment>8-inch cake pans</equipment>.</step>
 		<step><procedure>Cream</procedure> shortening. Add sugar and <procedure>beat</procedure> until fluffy, about <time>5 minutes</time>.</step>
-		<step>Add jam and beat another <time>5 minutes</time> until fluffy.</step>
+		<step>Add jelly and beat another <time>5 minutes</time> until fluffy.</step>
 		<step>Sift together the dry ingredients, and stir together the wet ingredients.</step>
 		<step>Add flour and milk mixtures to jam mixture. Stir together well, then beat until smooth, about <time>1 minute</time>.</step>
 		<step>Spread evenly into pans. Bake <time>30 to 35 minutes</time>.</step>
