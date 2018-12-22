@@ -32,7 +32,7 @@
                     </quantity>
                 </altmeasure>
             </quantity>
-			<item>water</item>
+			<item>milk</item>
 		</ingredient>
 		<ingredient>
 			<quantity>
@@ -49,7 +49,7 @@
 		</ingredient>
 		<ingredient>
 			<quantity>
-				<value>360</value>
+				<value>350</value>
 				<unit>g</unit>
                 <altmeasure>
                     <quantity>
@@ -60,6 +60,18 @@
 			</quantity>
 			<item>vegetable shortening</item>
 		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>5</value>
+				<unit>g</unit>
+				<quantity>
+					<value>1/2</value>
+					<unit>tsp</unit>
+				</quantity>
+			</quantity>
+			<variant>liquid</variant>
+			<item>lecithin</item>
+		</ingredient>
         <ingredient>
             <quantity>
                 <value>1</value>
@@ -69,11 +81,11 @@
         </ingredient>
 		<ingredient>
 			<quantity>
-				<value>1</value>
-				<unit>kg</unit>
+				<value>750</value>
+				<unit>g</unit>
                 <altmeasure>
                     <quantity>
-                        <value>8</value>
+                        <value>6</value>
                         <unit>cups</unit>
                     </quantity>
                 </altmeasure>
@@ -82,9 +94,10 @@
 		</ingredient>
 	</ingredients>
 	<steps>
-		<step>Put the white sugar and water in a <equipment>saucepan</equipment>. Put on medium heat and bring to a boil, stirring until the sugar has dissolved.</step>
-		<step>Remove from heat, pour the syrup into a large mixing bowl, and let cool completely.</step>
-		<step>Add vegetable oil, shortening, and clear vanilla extract, and beat with an electric mixer on high speed to blend.</step>
-		<step>Add the confectioner's sugar 1 cup at a time and beat in. Continue to beat until the filling is thick and fluffy. If it's too thick, beat in a tablespoon of water at a time until it's the correct consistency.</step>
+		<step>Put the sugar and milk in a <equipment>saucepan</equipment>. Put on medium heat and bring to a boil, stirring until the sugar has dissolved.</step>
+		<step>Remove from heat and let cool completely.</step>
+		<step>Combine vegetable oil, shortening, and lecithin, and beat with an electric mixer on high speed to blend.</step>
+		<step>Stir in the sugar mixture and clear vanilla extract.</step>
+		<step>Add the confectioner's sugar 1 cup at a time and beat in. Continue to beat until the filling is thick and fluffy, <time>10 minutes</time>. If it's too thick, beat in a tablespoon of water at a time until it's the correct consistency.</step>
 	</steps>
 </recipe>
