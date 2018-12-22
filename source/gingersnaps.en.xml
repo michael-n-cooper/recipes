@@ -11,15 +11,23 @@
 		<yield>about 40 cookies</yield>
 		<ingredient>
 			<quantity>
-				<value>3/4</value>
-				<unit>cup</unit>
+				<value>150</value>
+				<unit>g</unit>
+				<quantity>
+					<value>3/4</value>
+					<unit>cup</unit>
+				</quantity>
 			</quantity>
 			<item>shortening</item>
 		</ingredient>
 		<ingredient>
 			<quantity>
-				<value>1</value>
-				<unit>cup</unit>
+				<value>200</value>
+				<unit>g</unit>
+				<quantity>
+					<value>1</value>
+					<unit>cup</unit>
+				</quantity>
 			</quantity>
 			<item>sugar</item>
 		</ingredient>
@@ -31,15 +39,35 @@
 		</ingredient>
 		<ingredient>
 			<quantity>
-				<value>1/4</value>
-				<unit>cup</unit>
+				<value>75</value>
+				<unit>g</unit>
+				<quantity>
+					<value>1/4</value>
+					<unit>cup</unit>
+				</quantity>
 			</quantity>
+			<variant>light</variant>
 			<item>molasses</item>
 		</ingredient>
 		<ingredient>
 			<quantity>
-				<value>2</value>
-				<unit>cups</unit>
+				<value>25</value>
+				<unit>g</unit>
+				<quantity>
+					<value>2</value>
+					<unit>tbs</unit>
+				</quantity>
+			</quantity>
+			<item>milk</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>250</value>
+				<unit>g</unit>
+				<quantity>
+					<value>2</value>
+					<unit>cups</unit>
+				</quantity>
 			</quantity>
 			<item>flour</item>
 		</ingredient>
@@ -62,7 +90,8 @@
 				<value>1</value>
 				<unit>tbs</unit>
 			</quantity>
-			<item>ground ginger</item>
+			<item>ginger</item>
+			<preprep>ground</preprep>
 		</ingredient>
 		<ingredient>
 			<quantity>
@@ -70,6 +99,7 @@
 				<unit>tsp</unit>
 			</quantity>
 			<item>cinnamon</item>
+			<preprep>ground</preprep>
 		</ingredient>
 		<ingredient>
 			<item>sugar for rolling</item>
@@ -77,9 +107,10 @@
 	</ingredients>
 	<steps>
 		<step>Preheat oven to <temperature>375</temperature>. Grease some <equipment>cookie sheets</equipment>.</step>
-		<step>Beat together the shortening and sugar. Add the egg and beat until light and fluffy.</step>
+		<step>Beat together the shortening and sugar. Add the egg and beat until light and fluffy, then stir in milk.</step>
 		<step>Sift together the flour, baking soda, salt, ginger, and cinnamon, then beat into the other mixture until smooth.</step>
 		<step>Gather small bits of dough and roll between the palms of your hands into 1-inch balls. Roll in sugar, then place on the cookie sheets, 2 inches apart.</step>
-		<step>Bake about <time>8 to 10 minutes</time>, until cookies have spread and tops have cracked, but they are still unset in the middle. Remove from cookie sheets and cool on a rack.</step>
+		<step>Bake about <time>8 minutes</time>, until cookies have spread and tops have cracked, but they are still unset in the middle.</step>
+		<step>Let rest <time>5 minutes</time>, then remove from cookie sheets and cool on a rack.</step>
 	</steps>
 </recipe>
