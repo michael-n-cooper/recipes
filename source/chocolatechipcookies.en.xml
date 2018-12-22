@@ -9,40 +9,14 @@
 	<ingredients>
 		<ingredient>
 			<quantity>
-				<value>400</value>
+				<value>200</value>
 				<unit>g</unit>
 				<quantity>
-					<value>3</value>
-					<unit>cups</unit>
-				</quantity>
-			</quantity>
-			<variant>all purpose</variant>
-			<item>flour</item>
-		</ingredient>
-		<ingredient>
-			<quantity>
-				<value>1/2</value>
-				<unit>tsp</unit>
-			</quantity>
-			<item>salt</item>
-		</ingredient>
-		<ingredient>
-			<quantity>
-				<value>1</value>
-				<unit>tsp</unit>
-			</quantity>
-			<item>baking soda</item>
-		</ingredient>
-		<ingredient>
-			<quantity>
-				<value>225</value>
-				<unit>g</unit>
-				<quantity>
-					<value>1</value>
+					<value>7/8</value>
 					<unit>cup</unit>
 				</quantity>
 				<quantity>
-					<value>2</value>
+					<value>1 3/4</value>
 					<unit>sticks</unit>
 				</quantity>
 			</quantity>
@@ -53,11 +27,10 @@
 				<value>225</value>
 				<unit>g</unit>
 				<quantity>
-					<value>1</value>
+					<value>1 1/4</value>
 					<unit>cup</unit>
 				</quantity>
 			</quantity>
-			<variant>white</variant>
 			<item>sugar</item>
 		</ingredient>
 		<ingredient>
@@ -65,7 +38,7 @@
 				<value>225</value>
 				<unit>g</unit>
 				<quantity>
-					<value>1</value>
+					<value>1 1/4</value>
 					<unit>cup</unit>
 				</quantity>
 			</quantity>
@@ -84,10 +57,36 @@
 		</ingredient>
 		<ingredient>
 			<quantity>
-				<value>1 1/2</value>
+				<value>2</value>
 				<unit>tsp</unit>
 			</quantity>
 			<item>vanilla extract</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>375</value>
+				<unit>g</unit>
+				<quantity>
+					<value>3</value>
+					<unit>cups</unit>
+				</quantity>
+			</quantity>
+			<variant>all purpose</variant>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>3/4</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>baking soda</item>
 		</ingredient>
 		<ingredient mainingredient="true">
 			<quantity>
@@ -104,24 +103,23 @@
 		</ingredient>
 		<ingredient optional="true">
 			<quantity>
-				<value>150</value>
+				<value>175</value>
 				<unit>g</unit>
 				<quantity>
-					<value>1</value>
+					<value>1 1/8</value>
 					<unit>cup</unit>
 				</quantity>
 			</quantity>
 			<item>walnuts</item>
+			<preprep>chopped</preprep>
 		</ingredient>
 	</ingredients>
 	<steps>
 		<step>Preheat oven to <temperature>375</temperature>.</step>
 		<step>Grease <equipment>cookie sheets</equipment> or line with <equipment>parchment paper</equipment>.</step>
-		<step><procedure>Sift</procedure> together flour, salt, and baking soda.</step>
 		<step><procedure>Cream</procedure> butter and sugars together until fluffy, about <time>5 minutes</time>.</step>
 		<step>Beat in eggs one at a time, then vanilla extract, and beat until fluffy, about <time>2 minutes</time>.</step>
-		<step>Stir in the flour mixture until just combined.</step>
-		<step>Chop walnuts to the same size as the chocolate chips.</step>
+		<step><procedure>Sift</procedure> together flour, salt, and baking soda, then stir into butter mixture until just combined.</step>
 		<step>Add the chocolate chips and nuts and stir to incorporate well.</step>
 		<step>Scoop 1-tbs portions onto the cookie sheets, placed about 1 inch apart.</step>
 		<step>Bake <time>8 to 10 minutes</time>, until they begin to turn light brown at edges but still look raw in the middle.</step>
