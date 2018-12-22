@@ -17,18 +17,18 @@
 		</ingredient>
 		<ingredient mainingredient="true">
 			<quantity>
-				<value>250</value>
+				<value>200</value>
 				<unit>g</unit>
 			</quantity>
 			<variant>steel-cut</variant>
 			<item>oats</item>
 		</ingredient>
-		<ingredient mainingredient="true">
+		<ingredient>
 			<quantity>
-				<value>2.5</value>
+				<value>5</value>
 				<unit>g</unit>
 				<quantity>
-					<value>1/4</value>
+					<value>3/4</value>
 					<unit>tsp</unit>
 				</quantity>
 			</quantity>
@@ -45,7 +45,7 @@
 	<steps>
 		<step>Combine all ingredients in a <equipment>2-L pot</equipment>. Cover and let sit <time>overnight</time>.</step>
 		<step>To cook, bring to a boil, then cook <time>5 minutes</time> while stirring.</step>
-		<step>Turn off heat, cover, and let sit <time>60 minutes</time>.</step>
+		<step>Reduce heat to minimum, cover, and cook <time>60 minutes</time>, stirring occasionally.</step>
 		<step>Stir together and serve.</step>
 	</steps>
 	<storage>Store leftover servings in the refrigerator. Use a microwave to reheat.</storage>
