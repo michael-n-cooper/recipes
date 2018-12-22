@@ -16,13 +16,6 @@
         </ingredient>
         <ingredient>
             <quantity>
-                <value>250</value>
-                <unit>g</unit>
-            </quantity>
-            <item>water</item>
-        </ingredient>
-        <ingredient>
-            <quantity>
                 <value>850</value>
                 <unit>g</unit>
             </quantity>
@@ -32,11 +25,10 @@
     <steps>
         <step>Fill a canning kettle with water to the appropriate level and bring to boil. Reduce heat and keep ready at the boil until the jam is ready. Sterilize <equipment>canning jars</equipment> and lids.</step>
         <step>Pick over the currants to remove stems and leaves, and rinse them.</step>
-        <step>Put the currants and water in a pot with at least three times the capacity of the batch.</step>
-        <step>Bring batch to a boil. Keep at the boil, stirring occasionally, until the currants soften and begin to break down.</step>
-        <step>Remove from heat and run the mixture through the fine plate of a food mill to remove seeds. Mill completely to remove as much pulp from around the seeds as possible.</step>
-        <step>Return the juice and pulp to the pot. Bring back to boil and cook until the volume drops somewhat, and mixture starts to thicken.</step>
-        <step>Add the sugar to the currants, stir in to dissolve, and return to the boil. Continue to cook, stirring frequently, until the batch reaches <temperature>215</temperature>.</step>
+    	<step>Run the currants through the fine plate of a food mill to remove seeds. Mill completely to remove as much pulp from around the seeds as possible.</step>
+        <step>Put the currant purée in a pot with at least three times the capacity of the batch.</step>
+    	<step>Bring batch to a boil. Keep at the boil, stirring occasionally, until the the volume drops somewhat, mixture starts to thicken, and temperature reads <temperature>215</temperature>.</step>
+        <step>Add the sugar to the currants, stir in to dissolve, and return to the boil.</step>
         <step>Continue to cook, stirring frequently, until mixture reaches the jellying point, around <temperature>221</temperature>.</step>
         <step><procedure>Can</procedure> and seal jars in canning kettle <time>10 minutes</time>.</step>
     </steps>
