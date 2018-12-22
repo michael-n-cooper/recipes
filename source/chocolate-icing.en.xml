@@ -9,7 +9,46 @@
 	<ingredients>
 		<ingredient>
 			<quantity>
-				<value>200</value>
+				<value>50</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1/4</value>
+						<unit>cup</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>milk</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>100</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>1</value>
+						<unit>cups</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>50</value>
+				<unit>g</unit>
+				<altmeasure>
+					<quantity>
+						<value>4</value>
+						<unit>tbs</unit>
+					</quantity>
+				</altmeasure>
+			</quantity>
+			<item>butter</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>100</value>
 				<unit>g</unit>
 				<altmeasure>
 					<quantity>
@@ -35,33 +74,7 @@
 		</ingredient>
 		<ingredient>
 			<quantity>
-				<value>50</value>
-				<unit>g</unit>
-				<altmeasure>
-					<quantity>
-						<value>4</value>
-						<unit>tbs</unit>
-					</quantity>
-				</altmeasure>
-			</quantity>
-			<item>butter</item>
-		</ingredient>
-		<ingredient>
-			<quantity>
-				<value>50</value>
-				<unit>g</unit>
-				<altmeasure>
-					<quantity>
-						<value>1/4</value>
-						<unit>cup</unit>
-					</quantity>
-				</altmeasure>
-			</quantity>
-			<item>milk</item>
-		</ingredient>
-		<ingredient>
-			<quantity>
-				<value>1</value>
+				<value>2.5</value>
 				<unit>g</unit>
 				<altmeasure>
 					<quantity>
@@ -74,8 +87,9 @@
 		</ingredient>
 	</ingredients>
 	<steps>
-		<step>Melt the butter.</step>
-		<step>Stir together all ingredients. Beat until smooth.</step>
+		<step>Combine milk and sugar in a pot and heat, stirring frequently, until sugar dissolves.</step>
+		<step>Add butter and allow to melt.</step>
+		<step>Add remaining ingredients and beat until smooth.</step>
 		<step>Correct thickness by adding more sugar or milk if needed.</step>
 	</steps>
 	<serving>Warm icing slightly over hot water to increase fluidity. Dip pastries into icing and let dry.</serving>
