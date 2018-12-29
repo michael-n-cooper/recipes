@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Pecan Sandies</title>
+	<ingredients>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>200</value>
+				<unit>g</unit>
+			</quantity>
+			<item>pecans</item>
+			<note>whole, pieces, or meal are all acceptable</note>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>225</value>
+				<unit>g</unit>
+			</quantity>
+			<item>butter</item>
+			<preprep>room temperature</preprep>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>125</value>
+				<unit>g</unit>
+			</quantity>
+			<variant>white</variant>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>50</value>
+				<unit>g</unit>
+			</quantity>
+			<variant>brown</variant>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1/4</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>250</value>
+				<unit>g</unit>
+			</quantity>
+			<variant>all purpose </variant>
+			<item>flour</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>50</value>
+			</quantity>
+			<item>pecan halves</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step><procedure>Preheat</procedure> oven to <temperature>350</temperature>.</step>
+		<step><procedure>Toast</procedure> pecans lightly 5 minutes until barely fragrant. Remove and cool.</step>
+		<step><procedure>Cream</procedure> together butter, sugars, and salt well until fluffy, at least 5 minutes in <equipment>stand mixer</equipment>. Add vanilla extract and mix through.</step>
+		<step><procedure>Pulse</procedure> together pecans and flour in <equipment>food processor</equipment> until pecans are in very small pieces, 8 1-sec pulses.</step>
+		<step>Stir in flour mixture until a firm dough forms.</step>
+		<step>Form into 1-tbs balls, then flatten with the bottom of a glass, dipping it in flour every couple cookies. Or place an untoasted pecan half on each ball and use it to push it flat.</step>
+		<step>Bake at <temperature>350</temperature> for <time>20 minutes</time>. Remove and cool.</step>
+	</steps>
+</recipe>
