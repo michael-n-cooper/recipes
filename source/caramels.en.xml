@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Caramels</title>
+	<ingredients>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>375</value>
+				<unit>g</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>100</value>
+				<unit>g</unit>
+			</quantity>
+			<item>water</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>155</value>
+				<unit>g</unit>
+			</quantity>
+			<item>heavy cream</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>375</value>
+				<unit>g</unit>
+				<quantity>
+					<value>1</value>
+					<unit>can</unit>
+				</quantity>
+			</quantity>
+			<item>evaporated milk</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>315</value>
+				<unit>g</unit>
+			</quantity>
+			<item>glucose syrup</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>100</value>
+				<unit>g</unit>
+			</quantity>
+			<item>water</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>22</value>
+				<unit>g</unit>
+			</quantity>
+			<item>butter</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>4</value>
+				<unit>g</unit>
+			</quantity>
+			<item>ground salt</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>1</value>
+				<unit>tsp</unit>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Set a <equipment>15 mm ganache frame</equipment> on <equipment>parchment paper</equipment> and set a barrier to leave a 10 cm by 33.5 cm space. Set a weight on the barrier to keep it in place when the caramel is poured in.</step>
+		<step>Combine sugar and water and set on heat to dissolve the sugar and boil.</step>
+		<step>Bring cream to a light simmer and keep warm.</step>
+		<step>Combine evaporated milk and glucose and set on heat until glucose dissolves, then keep warm.</step>
+		<step>Continue to cook sugar until it caramelizes to light amber colour, <temperature>375</temperature>.</step>
+		<step>Immediately but slowly stir in second measure of water to cool to <temperature>250</temperature>, then stir in cream, then evaporated milk mixture.<note>Adding water, cream, and milk in sequence avoids curdling of milk proteins from the initial high sugar temperature.</note></step>
+		<step>Cook to <temperature>230</temperature>, stirring frequently.</step>
+		<step>Add butter and continue to cook to <temperature>239</temperature>, stirring constantly.</step>
+		<step>Cut heat. Sift salt over caramel and stir in well until even distributed.</step>
+		<step>Let cool until bubbling stops and caramel cools below <temperature>200</temperature>. Stir in vanilla extract.</step>
+		<step>Immediately transfer to frame. Spread evenly to edges, then cover with a piece of parchment paper and smooth.</step>
+		<step>Cool several hours, then cut into squares and wrap each in parchment paper.</step>
+	</steps>
+</recipe>
