@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Ground Salt</title>
+	<meta>
+		<comment>This finely ground salt is useful when regular salt would not dissolve fully, such as hot candy mixtures, and to season popcorn and nuts. This salt will clump so should be resifted just before use.</comment>
+	</meta>
+	<ingredients>
+		<ingredient>
+			<item>salt</item>
+			<note>Use salt with no additives such as flow agents.</note>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Grind salt well in a clean <equipment>spice mill</equipment>.</step>
+		<step><procedure>Sift</procedure> salt through a <equipment>fine strainer</equipment>. Regrind or discard the portion that does not pass through the strainer.</step>
+	</steps>
+	<storage>Store in an airtight container.</storage>
+</recipe>
