@@ -1,0 +1,3 @@
+(\d+) (\w+) (\((\d+) (\w+)\)) ([\w ]*) -> <ingredient><quantity><value>$1</value><unit>$2</unit><quantity><value>$4</value><unit>$5</unit></quantity></quantity><item>$6</item></ingredient>
+(\d+) (\w+) ([\w ]*) -> <ingredient><quantity><value>$1</value><unit>$2</unit></quantity><item>$3</item></ingredient>
+(\d+) F -> <temperature>$1</temperature>
