@@ -61,7 +61,7 @@
 				<value>4</value>
 				<unit>g</unit>
 			</quantity>
-			<item>ground salt</item>
+			<item><reciperef ref="ground-salt">ground salt</reciperef></item>
 		</ingredient>
 		<ingredient>
 			<quantity>
