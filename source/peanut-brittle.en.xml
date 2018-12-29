@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe SYSTEM "../recipes.dtd">
+<recipe>
+	<title>Peanut Brittle</title>
+	<ingredients>
+		<ingredient>
+			<quantity>
+				<value>170</value>
+				<unit>g</unit>
+			</quantity>
+			<item>water</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>395</value>
+				<unit>g</unit>
+			</quantity>
+			<item>sugar</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>285</value>
+				<unit>g</unit>
+			</quantity>
+			<item>glucose syrup</item>
+		</ingredient>
+		<ingredient mainingredient="true">
+			<quantity>
+				<value>455</value>
+				<unit>g</unit>
+			</quantity>
+			<item>unsalted peanuts</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>30</value>
+				<unit>g</unit>
+			</quantity>
+			<item>butter</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>7</value>
+				<unit>g</unit>
+				<quantity>
+					<value>1</value>
+					<unit>tsp</unit>
+				</quantity>
+			</quantity>
+			<item><reciperef ref="ground-salt">ground salt</reciperef></item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>7.5</value>
+				<unit>g</unit>
+				<quantity>
+					<value>1 1/2</value>
+					<unit>tsp</unit>
+				</quantity>
+			</quantity>
+			<item>vanilla extract</item>
+		</ingredient>
+		<ingredient>
+			<quantity>
+				<value>5</value>
+				<unit>g</unit>
+			</quantity>
+			<item>baking soda</item>
+		</ingredient>
+	</ingredients>
+	<steps>
+		<step>Set a <equipment>silicone mat</equipment> on a <equipment>baking tray</equipment> and preheat oven to <temperature>225</temperature>.</step>
+		<step>Combine water, sugar, and glucose syrup in a heavy-bottomed pot. Cover and bring to boil, and cook a few minutes until sugar dissolves.</step>
+		<step>Uncover and cook to <temperature>239</temperature>.</step>
+		<step>Stir in peanuts. Continue to cook, stirring constantly, to <temperature>311</temperature>.</step>
+		<step>Cut heat. Stir in butter, then ground salt and vanilla extract.</step>
+		<step>Add baking soda and stir in well, just until foaming is visible and evenly mixed. Do not over mix, which would reduce the foam.</step>
+		<step>Pour onto the silicone mat and spread to even thickness.</step>
+		<step>Allow to cool until centre starts to become pliable; edges will be somewhat firm.</step>
+		<step>Place in oven to even the temperature so the entire mass is a pliable texture, about <time>1/2 hour</time>.</step>
+		<step>Quickly stretch brittle evenly in all directions, then cool.</step>
+	</steps>
+</recipe>
